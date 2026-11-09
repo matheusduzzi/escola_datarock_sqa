@@ -1,0 +1,9 @@
+-- O quadro do Renato: vendas entregues de 01/01 a 20/06/2026 por UF e selo, os dois no dia do pedido.
+-- As duas primeiras linhas criam as tabelas dos históricos da pasta dados/ da aula. Não mexa nelas.
+-- Escreva a sua consulta abaixo e rode com:
+--   python3 consultar.py --dados ../dados --arquivo minha-analise.sql
+--
+-- CREATE VIEW selo_cliente AS SELECT * FROM read_csv('dados/selo_cliente.csv', header = true);
+-- CREATE VIEW historico_endereco AS SELECT * FROM read_csv('dados/historico_endereco.csv', header = true);
+--
+-- Tire o "-- " do começo das duas linhas acima quando for escrever a consulta.

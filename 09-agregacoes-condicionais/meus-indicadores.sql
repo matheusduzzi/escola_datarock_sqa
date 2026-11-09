@@ -1,0 +1,5 @@
+-- Exercício da aula «Agregações condicionais»: os indicadores das entregas para a Marta.
+-- Escreva a sua consulta abaixo destes comentários e rode:
+--   python3 consultar.py --dados ../dados --arquivo meus-indicadores.sql
+-- Uma linha por transportadora, só as entregas de ida.
+-- Para cada taxa, deixe também a coluna do denominador na saída.

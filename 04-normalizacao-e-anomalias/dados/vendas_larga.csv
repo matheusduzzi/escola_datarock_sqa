@@ -1,0 +1,1571 @@
+id_pedido,n_item,data_pedido,canal,status,id_cliente,nome_cliente,cidade,uf,id_produto,produto,categoria,preco_lista,quantidade,preco_unitario,desconto
+1,1,2026-01-01,site,entregue,23,Cliente 023,Campinas,SP,22,Halter,Esporte,119.90,1,107.91,
+2,1,2026-01-02,app,entregue,12,Cliente 012,Campinas,SP,30,Chapinha,Beleza,169.00,1,169.00,
+2,2,2026-01-02,app,entregue,12,Cliente 012,Campinas,SP,20,Garrafa térmica,Esporte,69.90,1,69.90,6.99
+2,3,2026-01-02,app,entregue,12,Cliente 012,Campinas,SP,1,Liquidificador,Eletro,189.90,1,189.90,
+2,4,2026-01-02,app,entregue,12,Cliente 012,Campinas,SP,21,Tapete de yoga,Esporte,99.00,1,99.00,
+3,1,2026-01-02,site,entregue,71,Cliente 071,Piracicaba,SP,16,Mochila,Papelaria,159.00,1,159.00,
+3,2,2026-01-02,site,entregue,71,Cliente 071,Piracicaba,SP,20,Garrafa térmica,Esporte,69.90,1,69.90,6.99
+4,1,2026-01-02,app,entregue,4,Cliente 004,Campinas,SP,10,Luminária,Casa,119.00,2,119.00,
+4,2,2026-01-02,app,entregue,4,Cliente 004,Campinas,SP,9,Jogo de copos,Casa,49.90,1,44.91,
+5,1,2026-01-02,site,entregue,47,Cliente 047,Sorocaba,SP,2,Ventilador,Eletro,239.90,1,239.90,
+6,1,2026-01-03,loja,entregue,103,Cliente 103,Limeira,SP,27,Hidratante,Beleza,44.90,3,44.90,0.00
+6,2,2026-01-03,loja,entregue,103,Cliente 103,Limeira,SP,12,Cortina,Casa,149.90,2,149.90,
+6,3,2026-01-03,loja,entregue,103,Cliente 103,Limeira,SP,17,Calculadora,Papelaria,59.90,1,59.90,5.99
+7,1,2026-01-03,app,entregue,50,Cliente 050,Jundiaí,SP,14,Agenda,Papelaria,39.90,1,39.90,
+7,2,2026-01-03,app,entregue,50,Cliente 050,Jundiaí,SP,4,Cafeteira,Eletro,159.90,1,159.90,
+7,3,2026-01-03,app,entregue,50,Cliente 050,Jundiaí,SP,12,Cortina,Casa,149.90,1,134.91,
+8,1,2026-01-03,site,entregue,96,Cliente 096,Santos,SP,18,Marca-texto,Papelaria,12.90,2,12.90,
+8,2,2026-01-03,site,entregue,96,Cliente 096,Santos,SP,3,Batedeira,Eletro,279.00,1,279.00,
+8,3,2026-01-03,site,entregue,96,Cliente 096,Santos,SP,28,Protetor solar,Beleza,59.90,2,53.91,
+9,1,2026-01-03,site,entregue,61,Cliente 061,Jundiaí,SP,6,Sanduicheira,Eletro,99.90,1,99.90,
+10,1,2026-01-03,app,entregue,107,Cliente 107,Limeira,SP,12,Cortina,Casa,149.90,2,149.90,0.00
+10,2,2026-01-03,app,entregue,107,Cliente 107,Limeira,SP,3,Batedeira,Eletro,279.00,1,279.00,
+11,1,2026-01-03,app,entregue,3,Cliente 003,Campinas,SP,24,Joelheira,Esporte,49.90,2,49.90,
+12,1,2026-01-04,loja,entregue,23,Cliente 023,Campinas,SP,11,Organizador,Casa,39.90,1,35.91,
+13,1,2026-01-04,loja,devolvido,54,Cliente 054,Jundiaí,SP,15,Estojo,Papelaria,19.90,1,19.90,
+13,2,2026-01-04,loja,devolvido,54,Cliente 054,Jundiaí,SP,25,Secador,Beleza,199.00,1,199.00,
+14,1,2026-01-04,site,entregue,5,Cliente 005,Campinas,SP,28,Protetor solar,Beleza,59.90,3,59.90,
+15,1,2026-01-04,site,entregue,90,Cliente 090,Santos,SP,20,Garrafa térmica,Esporte,69.90,1,69.90,0.00
+16,1,2026-01-04,site,entregue,49,Cliente 049,Jundiaí,SP,24,Joelheira,Esporte,49.90,1,49.90,
+16,2,2026-01-04,site,entregue,49,Cliente 049,Jundiaí,SP,30,Chapinha,Beleza,169.00,1,169.00,
+16,3,2026-01-04,site,entregue,49,Cliente 049,Jundiaí,SP,7,Jogo de toalhas,Casa,89.90,2,89.90,
+17,1,2026-01-05,site,entregue,15,Cliente 015,Campinas,SP,10,Luminária,Casa,119.00,2,119.00,
+17,2,2026-01-05,site,entregue,15,Cliente 015,Campinas,SP,7,Jogo de toalhas,Casa,89.90,1,89.90,
+18,1,2026-01-05,site,entregue,39,Cliente 039,Sorocaba,SP,1,Liquidificador,Eletro,189.90,1,189.90,
+19,1,2026-01-05,site,entregue,87,Cliente 087,Ribeirão Preto,SP,28,Protetor solar,Beleza,59.90,1,59.90,
+19,2,2026-01-05,site,entregue,87,Cliente 087,Ribeirão Preto,SP,22,Halter,Esporte,119.90,1,119.90,
+20,1,2026-01-05,app,entregue,2,Cliente 002,Campinas,SP,28,Protetor solar,Beleza,59.90,2,59.90,
+20,2,2026-01-05,app,entregue,2,Cliente 002,Campinas,SP,30,Chapinha,Beleza,169.00,1,169.00,
+21,1,2026-01-05,site,devolvido,64,Cliente 064,Piracicaba,SP,27,Hidratante,Beleza,44.90,1,44.90,
+21,2,2026-01-05,site,devolvido,64,Cliente 064,Piracicaba,SP,3,Batedeira,Eletro,279.00,2,279.00,55.80
+22,1,2026-01-05,app,entregue,3,Cliente 003,Campinas,SP,22,Halter,Esporte,119.90,1,119.90,
+23,1,2026-01-06,app,entregue,90,Cliente 090,Santos,SP,26,Escova,Beleza,34.90,1,34.90,
+23,2,2026-01-06,app,entregue,90,Cliente 090,Santos,SP,21,Tapete de yoga,Esporte,99.00,1,99.00,0.00
+23,3,2026-01-06,app,entregue,90,Cliente 090,Santos,SP,16,Mochila,Papelaria,159.00,1,159.00,
+24,1,2026-01-06,app,entregue,61,Cliente 061,Jundiaí,SP,17,Calculadora,Papelaria,59.90,1,59.90,5.99
+24,2,2026-01-06,app,entregue,61,Cliente 061,Jundiaí,SP,21,Tapete de yoga,Esporte,99.00,1,99.00,
+25,1,2026-01-06,site,entregue,89,Cliente 089,Santos,SP,20,Garrafa térmica,Esporte,69.90,1,69.90,
+26,1,2026-01-06,site,entregue,51,Cliente 051,Jundiaí,SP,25,Secador,Beleza,199.00,1,199.00,
+27,1,2026-01-06,app,entregue,79,Cliente 079,Ribeirão Preto,SP,25,Secador,Beleza,199.00,1,199.00,
+27,2,2026-01-06,app,entregue,79,Cliente 079,Ribeirão Preto,SP,11,Organizador,Casa,39.90,1,39.90,
+27,3,2026-01-06,app,entregue,79,Cliente 079,Ribeirão Preto,SP,4,Cafeteira,Eletro,159.90,1,159.90,
+28,1,2026-01-06,site,entregue,55,Cliente 055,Jundiaí,SP,17,Calculadora,Papelaria,59.90,2,53.91,
+29,1,2026-01-06,site,entregue,19,Cliente 019,Campinas,SP,18,Marca-texto,Papelaria,12.90,1,12.90,
+30,1,2026-01-06,site,entregue,48,Cliente 048,Sorocaba,SP,26,Escova,Beleza,34.90,1,34.90,3.49
+31,1,2026-01-06,app,entregue,115,Cliente 115,Curitiba,PR,14,Agenda,Papelaria,39.90,3,39.90,
+32,1,2026-01-06,site,entregue,23,Cliente 023,Campinas,SP,1,Liquidificador,Eletro,189.90,1,189.90,
+32,2,2026-01-06,site,entregue,23,Cliente 023,Campinas,SP,6,Sanduicheira,Eletro,99.90,1,99.90,9.99
+32,3,2026-01-06,site,entregue,23,Cliente 023,Campinas,SP,29,Perfume,Beleza,189.00,1,189.00,18.90
+33,1,2026-01-07,site,entregue,20,Cliente 020,Campinas,SP,16,Mochila,Papelaria,159.00,1,159.00,
+33,2,2026-01-07,site,entregue,20,Cliente 020,Campinas,SP,24,Joelheira,Esporte,49.90,1,49.90,
+33,3,2026-01-07,site,entregue,20,Cliente 020,Campinas,SP,20,Garrafa térmica,Esporte,69.90,2,69.90,0.00
+34,1,2026-01-08,loja,entregue,93,Cliente 093,Santos,SP,29,Perfume,Beleza,189.00,1,189.00,
+34,2,2026-01-08,loja,entregue,93,Cliente 093,Santos,SP,16,Mochila,Papelaria,159.00,2,159.00,
+35,1,2026-01-08,app,entregue,8,Cliente 008,Campinas,SP,27,Hidratante,Beleza,44.90,1,44.90,
+35,2,2026-01-08,app,entregue,8,Cliente 008,Campinas,SP,24,Joelheira,Esporte,49.90,1,49.90,
+35,3,2026-01-08,app,entregue,8,Cliente 008,Campinas,SP,29,Perfume,Beleza,189.00,1,189.00,
+35,4,2026-01-08,app,entregue,8,Cliente 008,Campinas,SP,9,Jogo de copos,Casa,49.90,1,44.91,4.49
+36,1,2026-01-08,app,entregue,30,Cliente 030,Campinas,SP,24,Joelheira,Esporte,49.90,1,49.90,
+37,1,2026-01-08,app,entregue,2,Cliente 002,Campinas,SP,2,Ventilador,Eletro,239.90,1,215.91,
+37,2,2026-01-08,app,entregue,2,Cliente 002,Campinas,SP,18,Marca-texto,Papelaria,12.90,3,12.90,
+38,1,2026-01-08,site,entregue,67,Cliente 067,Piracicaba,SP,7,Jogo de toalhas,Casa,89.90,3,89.90,26.97
+38,2,2026-01-08,site,entregue,67,Cliente 067,Piracicaba,SP,26,Escova,Beleza,34.90,1,34.90,
+39,1,2026-01-08,loja,entregue,53,Cliente 053,Jundiaí,SP,1,Liquidificador,Eletro,189.90,1,189.90,
+40,1,2026-01-08,loja,entregue,76,Cliente 076,Ribeirão Preto,SP,24,Joelheira,Esporte,49.90,1,49.90,
+41,1,2026-01-08,app,entregue,87,Cliente 087,Ribeirão Preto,SP,9,Jogo de copos,Casa,49.90,1,49.90,
+41,2,2026-01-08,app,entregue,87,Cliente 087,Ribeirão Preto,SP,11,Organizador,Casa,39.90,1,39.90,0.00
+41,3,2026-01-08,app,entregue,87,Cliente 087,Ribeirão Preto,SP,21,Tapete de yoga,Esporte,99.00,1,99.00,
+42,1,2026-01-09,site,entregue,50,Cliente 050,Jundiaí,SP,1,Liquidificador,Eletro,189.90,1,189.90,
+42,2,2026-01-09,site,entregue,50,Cliente 050,Jundiaí,SP,18,Marca-texto,Papelaria,12.90,2,12.90,
+42,3,2026-01-09,site,entregue,50,Cliente 050,Jundiaí,SP,4,Cafeteira,Eletro,159.90,2,143.91,
+43,1,2026-01-09,site,entregue,81,Cliente 081,Ribeirão Preto,SP,17,Calculadora,Papelaria,59.90,2,59.90,
+43,2,2026-01-09,site,entregue,81,Cliente 081,Ribeirão Preto,SP,26,Escova,Beleza,34.90,2,34.90,
+43,3,2026-01-09,site,entregue,81,Cliente 081,Ribeirão Preto,SP,13,Caderno,Papelaria,24.90,1,24.90,
+44,1,2026-01-09,site,entregue,119,Cliente 119,Curitiba,PR,23,Corda de pular,Esporte,29.90,1,29.90,0.00
+45,1,2026-01-09,loja,entregue,11,Cliente 011,Campinas,SP,8,Panela,Casa,129.90,1,129.90,
+46,1,2026-01-09,site,entregue,42,Cliente 042,Sorocaba,SP,15,Estojo,Papelaria,19.90,2,19.90,
+47,1,2026-01-09,site,entregue,108,Cliente 108,Limeira,SP,26,Escova,Beleza,34.90,2,31.41,
+47,2,2026-01-09,site,entregue,108,Cliente 108,Limeira,SP,1,Liquidificador,Eletro,189.90,1,189.90,0.00
+48,1,2026-01-10,app,entregue,45,Cliente 045,Sorocaba,SP,2,Ventilador,Eletro,239.90,1,215.91,
+49,1,2026-01-11,loja,entregue,23,Cliente 023,Campinas,SP,4,Cafeteira,Eletro,159.90,1,159.90,
+50,1,2026-01-11,loja,entregue,31,Cliente 031,Sorocaba,SP,30,Chapinha,Beleza,169.00,2,152.10,
+51,1,2026-01-11,app,entregue,33,Cliente 033,Sorocaba,SP,3,Batedeira,Eletro,279.00,2,279.00,
+52,1,2026-01-11,site,entregue,99,Cliente 099,Santos,SP,23,Corda de pular,Esporte,29.90,1,26.91,0.00
+53,1,2026-01-12,site,entregue,68,Cliente 068,Piracicaba,SP,2,Ventilador,Eletro,239.90,2,239.90,
+53,2,2026-01-12,site,entregue,68,Cliente 068,Piracicaba,SP,24,Joelheira,Esporte,49.90,1,49.90,
+54,1,2026-01-12,app,entregue,25,Cliente 025,Campinas,SP,12,Cortina,Casa,149.90,1,134.91,
+55,1,2026-01-12,site,entregue,74,Cliente 074,Piracicaba,SP,16,Mochila,Papelaria,159.00,1,159.00,
+56,1,2026-01-12,site,devolvido,86,Cliente 086,Ribeirão Preto,SP,2,Ventilador,Eletro,239.90,2,239.90,47.98
+57,1,2026-01-12,app,devolvido,99,Cliente 099,Santos,SP,26,Escova,Beleza,34.90,1,34.90,
+58,1,2026-01-12,app,cancelado,11,Cliente 011,Campinas,SP,30,Chapinha,Beleza,169.00,3,169.00,
+59,1,2026-01-12,loja,entregue,74,Cliente 074,Piracicaba,SP,4,Cafeteira,Eletro,159.90,3,143.91,
+60,1,2026-01-13,app,entregue,68,Cliente 068,Piracicaba,SP,20,Garrafa térmica,Esporte,69.90,2,69.90,
+60,2,2026-01-13,app,entregue,68,Cliente 068,Piracicaba,SP,3,Batedeira,Eletro,279.00,1,279.00,0.00
+60,3,2026-01-13,app,entregue,68,Cliente 068,Piracicaba,SP,24,Joelheira,Esporte,49.90,1,49.90,
+61,1,2026-01-13,site,entregue,55,Cliente 055,Jundiaí,SP,14,Agenda,Papelaria,39.90,1,35.91,
+61,2,2026-01-13,site,entregue,55,Cliente 055,Jundiaí,SP,9,Jogo de copos,Casa,49.90,1,49.90,
+61,3,2026-01-13,site,entregue,55,Cliente 055,Jundiaí,SP,1,Liquidificador,Eletro,189.90,1,189.90,
+61,4,2026-01-13,site,entregue,55,Cliente 055,Jundiaí,SP,2,Ventilador,Eletro,239.90,1,239.90,
+62,1,2026-01-13,app,entregue,64,Cliente 064,Piracicaba,SP,14,Agenda,Papelaria,39.90,1,39.90,
+63,1,2026-01-13,site,entregue,117,Cliente 117,Curitiba,PR,18,Marca-texto,Papelaria,12.90,1,12.90,
+63,2,2026-01-13,site,entregue,117,Cliente 117,Curitiba,PR,8,Panela,Casa,129.90,1,129.90,12.99
+64,1,2026-01-14,app,entregue,12,Cliente 012,Campinas,SP,19,Bola,Esporte,79.90,1,79.90,
+65,1,2026-01-14,loja,entregue,21,Cliente 021,Campinas,SP,11,Organizador,Casa,39.90,1,39.90,3.99
+65,2,2026-01-14,loja,entregue,21,Cliente 021,Campinas,SP,7,Jogo de toalhas,Casa,89.90,2,89.90,0.00
+66,1,2026-01-14,site,devolvido,105,Cliente 105,Limeira,SP,13,Caderno,Papelaria,24.90,1,24.90,0.00
+67,1,2026-01-15,app,cancelado,13,Cliente 013,Campinas,SP,20,Garrafa térmica,Esporte,69.90,2,69.90,
+68,1,2026-01-16,app,entregue,32,Cliente 032,Sorocaba,SP,13,Caderno,Papelaria,24.90,2,24.90,
+68,2,2026-01-16,app,entregue,32,Cliente 032,Sorocaba,SP,18,Marca-texto,Papelaria,12.90,2,12.90,
+69,1,2026-01-16,app,entregue,100,Cliente 100,Limeira,SP,23,Corda de pular,Esporte,29.90,1,29.90,
+69,2,2026-01-16,app,entregue,100,Cliente 100,Limeira,SP,18,Marca-texto,Papelaria,12.90,1,12.90,
+70,1,2026-01-16,site,entregue,75,Cliente 075,Piracicaba,SP,3,Batedeira,Eletro,279.00,1,279.00,0.00
+71,1,2026-01-16,site,entregue,115,Cliente 115,Curitiba,PR,11,Organizador,Casa,39.90,1,39.90,
+71,2,2026-01-16,site,entregue,115,Cliente 115,Curitiba,PR,1,Liquidificador,Eletro,189.90,1,170.91,
+71,3,2026-01-16,site,entregue,115,Cliente 115,Curitiba,PR,29,Perfume,Beleza,189.00,1,170.10,
+71,4,2026-01-16,site,entregue,115,Cliente 115,Curitiba,PR,24,Joelheira,Esporte,49.90,3,49.90,
+72,1,2026-01-16,app,entregue,5,Cliente 005,Campinas,SP,7,Jogo de toalhas,Casa,89.90,1,89.90,0.00
+73,1,2026-01-17,site,entregue,54,Cliente 054,Jundiaí,SP,25,Secador,Beleza,199.00,2,179.10,
+73,2,2026-01-17,site,entregue,54,Cliente 054,Jundiaí,SP,4,Cafeteira,Eletro,159.90,1,159.90,
+73,3,2026-01-17,site,entregue,54,Cliente 054,Jundiaí,SP,28,Protetor solar,Beleza,59.90,2,59.90,
+73,4,2026-01-17,site,entregue,54,Cliente 054,Jundiaí,SP,2,Ventilador,Eletro,239.90,1,239.90,
+74,1,2026-01-17,site,entregue,99,Cliente 099,Santos,SP,23,Corda de pular,Esporte,29.90,1,29.90,
+74,2,2026-01-17,site,entregue,99,Cliente 099,Santos,SP,28,Protetor solar,Beleza,59.90,2,59.90,
+75,1,2026-01-17,site,entregue,44,Cliente 044,Sorocaba,SP,21,Tapete de yoga,Esporte,99.00,1,99.00,
+75,2,2026-01-17,site,entregue,44,Cliente 044,Sorocaba,SP,27,Hidratante,Beleza,44.90,1,44.90,
+76,1,2026-01-17,app,entregue,104,Cliente 104,Limeira,SP,13,Caderno,Papelaria,24.90,1,24.90,
+76,2,2026-01-17,app,entregue,104,Cliente 104,Limeira,SP,11,Organizador,Casa,39.90,1,35.91,
+76,3,2026-01-17,app,entregue,104,Cliente 104,Limeira,SP,8,Panela,Casa,129.90,1,116.91,
+77,1,2026-01-18,app,entregue,25,Cliente 025,Campinas,SP,8,Panela,Casa,129.90,1,129.90,
+78,1,2026-01-18,app,entregue,84,Cliente 084,Ribeirão Preto,SP,11,Organizador,Casa,39.90,2,39.90,
+78,2,2026-01-18,app,entregue,84,Cliente 084,Ribeirão Preto,SP,23,Corda de pular,Esporte,29.90,1,26.91,
+79,1,2026-01-18,site,entregue,98,Cliente 098,Santos,SP,29,Perfume,Beleza,189.00,1,170.10,0.00
+80,1,2026-01-18,site,entregue,86,Cliente 086,Ribeirão Preto,SP,3,Batedeira,Eletro,279.00,1,279.00,
+80,2,2026-01-18,site,entregue,86,Cliente 086,Ribeirão Preto,SP,1,Liquidificador,Eletro,189.90,1,189.90,
+81,1,2026-01-18,app,entregue,54,Cliente 054,Jundiaí,SP,28,Protetor solar,Beleza,59.90,1,59.90,
+81,2,2026-01-18,app,entregue,54,Cliente 054,Jundiaí,SP,8,Panela,Casa,129.90,1,129.90,12.99
+82,1,2026-01-18,app,entregue,53,Cliente 053,Jundiaí,SP,6,Sanduicheira,Eletro,99.90,1,99.90,
+83,1,2026-01-18,site,entregue,106,Cliente 106,Limeira,SP,16,Mochila,Papelaria,159.00,1,159.00,
+83,2,2026-01-18,site,entregue,106,Cliente 106,Limeira,SP,5,Aspirador,Eletro,349.00,1,314.10,
+84,1,2026-01-19,site,entregue,101,Cliente 101,Limeira,SP,3,Batedeira,Eletro,279.00,1,279.00,
+84,2,2026-01-19,site,entregue,101,Cliente 101,Limeira,SP,25,Secador,Beleza,199.00,1,199.00,
+84,3,2026-01-19,site,entregue,101,Cliente 101,Limeira,SP,6,Sanduicheira,Eletro,99.90,1,99.90,9.99
+85,1,2026-01-19,site,entregue,3,Cliente 003,Campinas,SP,13,Caderno,Papelaria,24.90,1,24.90,
+86,1,2026-01-19,site,entregue,39,Cliente 039,Sorocaba,SP,30,Chapinha,Beleza,169.00,1,169.00,
+87,1,2026-01-19,app,entregue,42,Cliente 042,Sorocaba,SP,10,Luminária,Casa,119.00,1,119.00,
+88,1,2026-01-19,app,entregue,109,Cliente 109,Bauru,SP,10,Luminária,Casa,119.00,1,119.00,11.90
+88,2,2026-01-19,app,entregue,109,Cliente 109,Bauru,SP,4,Cafeteira,Eletro,159.90,2,159.90,
+88,3,2026-01-19,app,entregue,109,Cliente 109,Bauru,SP,4,Cafeteira,Eletro,159.90,1,159.90,
+89,1,2026-01-19,site,entregue,52,Cliente 052,Jundiaí,SP,23,Corda de pular,Esporte,29.90,3,29.90,0.00
+90,1,2026-01-20,site,entregue,44,Cliente 044,Sorocaba,SP,22,Halter,Esporte,119.90,1,119.90,
+90,2,2026-01-20,site,entregue,44,Cliente 044,Sorocaba,SP,16,Mochila,Papelaria,159.00,1,159.00,
+91,1,2026-01-20,site,entregue,4,Cliente 004,Campinas,SP,29,Perfume,Beleza,189.00,1,189.00,18.90
+92,1,2026-01-21,site,cancelado,32,Cliente 032,Sorocaba,SP,20,Garrafa térmica,Esporte,69.90,1,69.90,
+92,2,2026-01-21,site,cancelado,32,Cliente 032,Sorocaba,SP,19,Bola,Esporte,79.90,1,71.91,
+93,1,2026-01-21,site,entregue,70,Cliente 070,Piracicaba,SP,2,Ventilador,Eletro,239.90,1,239.90,
+93,2,2026-01-21,site,entregue,70,Cliente 070,Piracicaba,SP,10,Luminária,Casa,119.00,1,119.00,
+94,1,2026-01-21,app,entregue,22,Cliente 022,Campinas,SP,9,Jogo de copos,Casa,49.90,1,44.91,
+94,2,2026-01-21,app,entregue,22,Cliente 022,Campinas,SP,4,Cafeteira,Eletro,159.90,1,159.90,
+94,3,2026-01-21,app,entregue,22,Cliente 022,Campinas,SP,8,Panela,Casa,129.90,1,129.90,
+95,1,2026-01-21,app,entregue,21,Cliente 021,Campinas,SP,27,Hidratante,Beleza,44.90,1,44.90,4.49
+96,1,2026-01-21,site,entregue,88,Cliente 088,Santos,SP,16,Mochila,Papelaria,159.00,1,159.00,
+97,1,2026-01-21,loja,entregue,114,Cliente 114,Curitiba,PR,9,Jogo de copos,Casa,49.90,3,49.90,
+98,1,2026-01-21,site,entregue,37,Cliente 037,Sorocaba,SP,7,Jogo de toalhas,Casa,89.90,1,89.90,
+98,2,2026-01-21,site,entregue,37,Cliente 037,Sorocaba,SP,30,Chapinha,Beleza,169.00,2,169.00,33.80
+98,3,2026-01-21,site,entregue,37,Cliente 037,Sorocaba,SP,6,Sanduicheira,Eletro,99.90,1,99.90,
+99,1,2026-01-21,app,devolvido,19,Cliente 019,Campinas,SP,30,Chapinha,Beleza,169.00,2,169.00,
+99,2,2026-01-21,app,devolvido,19,Cliente 019,Campinas,SP,16,Mochila,Papelaria,159.00,1,159.00,
+100,1,2026-01-21,loja,entregue,86,Cliente 086,Ribeirão Preto,SP,29,Perfume,Beleza,189.00,2,189.00,
+101,1,2026-01-22,app,entregue,108,Cliente 108,Limeira,SP,10,Luminária,Casa,119.00,2,119.00,
+101,2,2026-01-22,app,entregue,108,Cliente 108,Limeira,SP,28,Protetor solar,Beleza,59.90,1,53.91,5.39
+102,1,2026-01-22,app,entregue,59,Cliente 059,Jundiaí,SP,11,Organizador,Casa,39.90,3,39.90,
+103,1,2026-01-23,site,entregue,101,Cliente 101,Limeira,SP,3,Batedeira,Eletro,279.00,1,279.00,
+104,1,2026-01-23,site,entregue,119,Cliente 119,Curitiba,PR,26,Escova,Beleza,34.90,1,34.90,0.00
+105,1,2026-01-23,loja,entregue,40,Cliente 040,Sorocaba,SP,29,Perfume,Beleza,189.00,1,189.00,
+105,2,2026-01-23,loja,entregue,40,Cliente 040,Sorocaba,SP,16,Mochila,Papelaria,159.00,1,159.00,
+105,3,2026-01-23,loja,entregue,40,Cliente 040,Sorocaba,SP,26,Escova,Beleza,34.90,1,34.90,3.49
+105,4,2026-01-23,loja,entregue,40,Cliente 040,Sorocaba,SP,26,Escova,Beleza,34.90,1,34.90,
+106,1,2026-01-23,site,entregue,103,Cliente 103,Limeira,SP,17,Calculadora,Papelaria,59.90,1,59.90,
+107,1,2026-01-23,site,entregue,57,Cliente 057,Jundiaí,SP,26,Escova,Beleza,34.90,1,31.41,0.00
+107,2,2026-01-23,site,entregue,57,Cliente 057,Jundiaí,SP,18,Marca-texto,Papelaria,12.90,1,12.90,
+108,1,2026-01-23,site,entregue,106,Cliente 106,Limeira,SP,19,Bola,Esporte,79.90,2,71.91,
+108,2,2026-01-23,site,entregue,106,Cliente 106,Limeira,SP,19,Bola,Esporte,79.90,1,79.90,0.00
+109,1,2026-01-23,site,cancelado,69,Cliente 069,Piracicaba,SP,25,Secador,Beleza,199.00,2,199.00,
+109,2,2026-01-23,site,cancelado,69,Cliente 069,Piracicaba,SP,17,Calculadora,Papelaria,59.90,1,59.90,
+109,3,2026-01-23,site,cancelado,69,Cliente 069,Piracicaba,SP,29,Perfume,Beleza,189.00,1,189.00,
+110,1,2026-01-24,site,entregue,112,Cliente 112,Bauru,SP,17,Calculadora,Papelaria,59.90,1,59.90,
+111,1,2026-01-24,site,entregue,79,Cliente 079,Ribeirão Preto,SP,13,Caderno,Papelaria,24.90,1,24.90,
+112,1,2026-01-24,app,entregue,2,Cliente 002,Campinas,SP,7,Jogo de toalhas,Casa,89.90,1,80.91,8.09
+113,1,2026-01-24,app,entregue,33,Cliente 033,Sorocaba,SP,28,Protetor solar,Beleza,59.90,2,59.90,
+114,1,2026-01-24,app,entregue,30,Cliente 030,Campinas,SP,9,Jogo de copos,Casa,49.90,1,49.90,
+115,1,2026-01-24,app,entregue,43,Cliente 043,Sorocaba,SP,13,Caderno,Papelaria,24.90,1,22.41,0.00
+115,2,2026-01-24,app,entregue,43,Cliente 043,Sorocaba,SP,22,Halter,Esporte,119.90,1,119.90,
+115,3,2026-01-24,app,entregue,43,Cliente 043,Sorocaba,SP,21,Tapete de yoga,Esporte,99.00,1,99.00,
+115,4,2026-01-24,app,entregue,43,Cliente 043,Sorocaba,SP,8,Panela,Casa,129.90,2,129.90,
+116,1,2026-01-24,site,entregue,4,Cliente 004,Campinas,SP,30,Chapinha,Beleza,169.00,1,169.00,
+117,1,2026-01-24,app,entregue,118,Cliente 118,Curitiba,PR,4,Cafeteira,Eletro,159.90,1,159.90,
+118,1,2026-01-25,site,entregue,115,Cliente 115,Curitiba,PR,21,Tapete de yoga,Esporte,99.00,1,99.00,9.90
+118,2,2026-01-25,site,entregue,115,Cliente 115,Curitiba,PR,14,Agenda,Papelaria,39.90,1,39.90,
+118,3,2026-01-25,site,entregue,115,Cliente 115,Curitiba,PR,28,Protetor solar,Beleza,59.90,1,59.90,0.00
+119,1,2026-01-25,site,entregue,96,Cliente 096,Santos,SP,21,Tapete de yoga,Esporte,99.00,2,99.00,
+119,2,2026-01-25,site,entregue,96,Cliente 096,Santos,SP,11,Organizador,Casa,39.90,1,39.90,
+120,1,2026-01-25,site,entregue,69,Cliente 069,Piracicaba,SP,5,Aspirador,Eletro,349.00,1,314.10,
+121,1,2026-01-25,loja,entregue,18,Cliente 018,Campinas,SP,23,Corda de pular,Esporte,29.90,1,26.91,
+121,2,2026-01-25,loja,entregue,18,Cliente 018,Campinas,SP,29,Perfume,Beleza,189.00,1,170.10,
+121,3,2026-01-25,loja,entregue,18,Cliente 018,Campinas,SP,28,Protetor solar,Beleza,59.90,1,59.90,
+122,1,2026-01-25,site,entregue,116,Cliente 116,Curitiba,PR,26,Escova,Beleza,34.90,1,34.90,
+122,2,2026-01-25,site,entregue,116,Cliente 116,Curitiba,PR,11,Organizador,Casa,39.90,2,39.90,
+122,3,2026-01-25,site,entregue,116,Cliente 116,Curitiba,PR,17,Calculadora,Papelaria,59.90,3,59.90,
+123,1,2026-01-25,site,entregue,49,Cliente 049,Jundiaí,SP,5,Aspirador,Eletro,349.00,1,349.00,
+123,2,2026-01-25,site,entregue,49,Cliente 049,Jundiaí,SP,9,Jogo de copos,Casa,49.90,2,49.90,
+123,3,2026-01-25,site,entregue,49,Cliente 049,Jundiaí,SP,9,Jogo de copos,Casa,49.90,2,49.90,0.00
+124,1,2026-01-25,loja,entregue,93,Cliente 093,Santos,SP,25,Secador,Beleza,199.00,1,199.00,
+125,1,2026-01-26,app,entregue,7,Cliente 007,Campinas,SP,24,Joelheira,Esporte,49.90,1,49.90,
+125,2,2026-01-26,app,entregue,7,Cliente 007,Campinas,SP,15,Estojo,Papelaria,19.90,2,19.90,
+125,3,2026-01-26,app,entregue,7,Cliente 007,Campinas,SP,8,Panela,Casa,129.90,1,129.90,
+126,1,2026-01-26,site,entregue,17,Cliente 017,Campinas,SP,19,Bola,Esporte,79.90,1,79.90,
+126,2,2026-01-26,site,entregue,17,Cliente 017,Campinas,SP,27,Hidratante,Beleza,44.90,1,44.90,
+126,3,2026-01-26,site,entregue,17,Cliente 017,Campinas,SP,24,Joelheira,Esporte,49.90,1,49.90,
+126,4,2026-01-26,site,entregue,17,Cliente 017,Campinas,SP,9,Jogo de copos,Casa,49.90,1,49.90,
+127,1,2026-01-26,site,entregue,4,Cliente 004,Campinas,SP,3,Batedeira,Eletro,279.00,1,279.00,
+127,2,2026-01-26,site,entregue,4,Cliente 004,Campinas,SP,16,Mochila,Papelaria,159.00,2,159.00,31.80
+127,3,2026-01-26,site,entregue,4,Cliente 004,Campinas,SP,17,Calculadora,Papelaria,59.90,1,59.90,5.99
+128,1,2026-01-26,app,entregue,93,Cliente 093,Santos,SP,11,Organizador,Casa,39.90,1,39.90,
+129,1,2026-01-27,site,entregue,30,Cliente 030,Campinas,SP,26,Escova,Beleza,34.90,1,34.90,
+129,2,2026-01-27,site,entregue,30,Cliente 030,Campinas,SP,14,Agenda,Papelaria,39.90,1,35.91,
+130,1,2026-01-27,app,entregue,12,Cliente 012,Campinas,SP,26,Escova,Beleza,34.90,1,34.90,
+131,1,2026-01-27,app,entregue,40,Cliente 040,Sorocaba,SP,15,Estojo,Papelaria,19.90,1,19.90,
+132,1,2026-01-27,app,entregue,4,Cliente 004,Campinas,SP,18,Marca-texto,Papelaria,12.90,1,12.90,
+133,1,2026-01-27,site,entregue,36,Cliente 036,Sorocaba,SP,20,Garrafa térmica,Esporte,69.90,1,69.90,
+133,2,2026-01-27,site,entregue,36,Cliente 036,Sorocaba,SP,21,Tapete de yoga,Esporte,99.00,1,99.00,
+133,3,2026-01-27,site,entregue,36,Cliente 036,Sorocaba,SP,23,Corda de pular,Esporte,29.90,1,29.90,0.00
+134,1,2026-01-27,loja,entregue,93,Cliente 093,Santos,SP,23,Corda de pular,Esporte,29.90,1,29.90,
+134,2,2026-01-27,loja,entregue,93,Cliente 093,Santos,SP,29,Perfume,Beleza,189.00,1,189.00,
+134,3,2026-01-27,loja,entregue,93,Cliente 093,Santos,SP,9,Jogo de copos,Casa,49.90,2,49.90,
+135,1,2026-01-28,loja,entregue,25,Cliente 025,Campinas,SP,20,Garrafa térmica,Esporte,69.90,1,62.91,
+136,1,2026-01-28,site,entregue,115,Cliente 115,Curitiba,PR,1,Liquidificador,Eletro,189.90,1,170.91,
+137,1,2026-01-28,site,entregue,84,Cliente 084,Ribeirão Preto,SP,27,Hidratante,Beleza,44.90,1,40.41,
+138,1,2026-01-28,app,entregue,47,Cliente 047,Sorocaba,SP,19,Bola,Esporte,79.90,1,79.90,
+139,1,2026-01-28,app,entregue,120,Cliente 120,Curitiba,PR,20,Garrafa térmica,Esporte,69.90,1,62.91,
+140,1,2026-01-29,site,entregue,50,Cliente 050,Jundiaí,SP,16,Mochila,Papelaria,159.00,1,159.00,
+141,1,2026-01-29,site,entregue,89,Cliente 089,Santos,SP,8,Panela,Casa,129.90,2,129.90,
+142,1,2026-01-29,app,entregue,24,Cliente 024,Campinas,SP,22,Halter,Esporte,119.90,2,119.90,
+142,2,2026-01-29,app,entregue,24,Cliente 024,Campinas,SP,24,Joelheira,Esporte,49.90,3,49.90,
+142,3,2026-01-29,app,entregue,24,Cliente 024,Campinas,SP,23,Corda de pular,Esporte,29.90,1,26.91,
+142,4,2026-01-29,app,entregue,24,Cliente 024,Campinas,SP,1,Liquidificador,Eletro,189.90,1,189.90,
+143,1,2026-01-29,site,entregue,47,Cliente 047,Sorocaba,SP,9,Jogo de copos,Casa,49.90,1,49.90,
+143,2,2026-01-29,site,entregue,47,Cliente 047,Sorocaba,SP,21,Tapete de yoga,Esporte,99.00,1,99.00,9.90
+144,1,2026-01-29,app,entregue,50,Cliente 050,Jundiaí,SP,10,Luminária,Casa,119.00,1,119.00,
+144,2,2026-01-29,app,entregue,50,Cliente 050,Jundiaí,SP,7,Jogo de toalhas,Casa,89.90,1,80.91,
+144,3,2026-01-29,app,entregue,50,Cliente 050,Jundiaí,SP,11,Organizador,Casa,39.90,1,39.90,
+145,1,2026-01-30,site,entregue,78,Cliente 078,Ribeirão Preto,SP,20,Garrafa térmica,Esporte,69.90,1,69.90,0.00
+145,2,2026-01-30,site,entregue,78,Cliente 078,Ribeirão Preto,SP,4,Cafeteira,Eletro,159.90,2,159.90,0.00
+146,1,2026-01-30,site,entregue,23,Cliente 023,Campinas,SP,19,Bola,Esporte,79.90,1,71.91,
+147,1,2026-01-30,site,entregue,104,Cliente 104,Limeira,SP,3,Batedeira,Eletro,279.00,1,279.00,
+148,1,2026-01-30,app,entregue,95,Cliente 095,Santos,SP,8,Panela,Casa,129.90,1,129.90,12.99
+149,1,2026-01-30,site,entregue,12,Cliente 012,Campinas,SP,7,Jogo de toalhas,Casa,89.90,1,89.90,
+150,1,2026-01-30,loja,entregue,42,Cliente 042,Sorocaba,SP,1,Liquidificador,Eletro,189.90,2,189.90,0.00
+151,1,2026-01-30,site,entregue,11,Cliente 011,Campinas,SP,24,Joelheira,Esporte,49.90,2,44.91,8.98
+152,1,2026-01-30,app,entregue,74,Cliente 074,Piracicaba,SP,21,Tapete de yoga,Esporte,99.00,1,99.00,
+153,1,2026-01-30,site,entregue,70,Cliente 070,Piracicaba,SP,26,Escova,Beleza,34.90,3,34.90,
+153,2,2026-01-30,site,entregue,70,Cliente 070,Piracicaba,SP,12,Cortina,Casa,149.90,1,149.90,
+154,1,2026-01-31,site,entregue,74,Cliente 074,Piracicaba,SP,24,Joelheira,Esporte,49.90,1,49.90,
+155,1,2026-01-31,site,devolvido,17,Cliente 017,Campinas,SP,6,Sanduicheira,Eletro,99.90,1,99.90,
+156,1,2026-01-31,app,entregue,11,Cliente 011,Campinas,SP,1,Liquidificador,Eletro,189.90,1,170.91,
+157,1,2026-01-31,loja,entregue,67,Cliente 067,Piracicaba,SP,23,Corda de pular,Esporte,29.90,1,29.90,
+157,2,2026-01-31,loja,entregue,67,Cliente 067,Piracicaba,SP,11,Organizador,Casa,39.90,1,39.90,0.00
+158,1,2026-01-31,loja,entregue,36,Cliente 036,Sorocaba,SP,30,Chapinha,Beleza,169.00,1,169.00,16.90
+159,1,2026-01-31,site,entregue,35,Cliente 035,Sorocaba,SP,20,Garrafa térmica,Esporte,69.90,2,62.91,12.58
+160,1,2026-01-31,loja,cancelado,2,Cliente 002,Campinas,SP,20,Garrafa térmica,Esporte,69.90,1,62.91,0.00
+160,2,2026-01-31,loja,cancelado,2,Cliente 002,Campinas,SP,11,Organizador,Casa,39.90,1,39.90,
+161,1,2026-02-01,site,entregue,101,Cliente 101,Limeira,SP,14,Agenda,Papelaria,39.90,1,39.90,
+162,1,2026-02-01,app,entregue,95,Cliente 095,Santos,SP,3,Batedeira,Eletro,279.00,1,279.00,
+163,1,2026-02-01,app,entregue,39,Cliente 039,Sorocaba,SP,12,Cortina,Casa,149.90,1,149.90,
+164,1,2026-02-01,app,devolvido,71,Cliente 071,Piracicaba,SP,11,Organizador,Casa,39.90,2,39.90,
+165,1,2026-02-01,app,entregue,23,Cliente 023,Campinas,SP,22,Halter,Esporte,119.90,1,119.90,
+166,1,2026-02-01,app,entregue,76,Cliente 076,Ribeirão Preto,SP,21,Tapete de yoga,Esporte,99.00,3,99.00,
+167,1,2026-02-02,site,entregue,71,Cliente 071,Piracicaba,SP,23,Corda de pular,Esporte,29.90,1,29.90,
+168,1,2026-02-02,loja,entregue,35,Cliente 035,Sorocaba,SP,30,Chapinha,Beleza,169.00,3,169.00,
+169,1,2026-02-02,site,entregue,36,Cliente 036,Sorocaba,SP,2,Ventilador,Eletro,239.90,1,239.90,
+169,2,2026-02-02,site,entregue,36,Cliente 036,Sorocaba,SP,17,Calculadora,Papelaria,59.90,1,59.90,
+169,3,2026-02-02,site,entregue,36,Cliente 036,Sorocaba,SP,14,Agenda,Papelaria,39.90,1,39.90,
+170,1,2026-02-03,app,entregue,93,Cliente 093,Santos,SP,16,Mochila,Papelaria,159.00,1,143.10,
+171,1,2026-02-03,app,entregue,53,Cliente 053,Jundiaí,SP,15,Estojo,Papelaria,19.90,1,17.91,1.79
+171,2,2026-02-03,app,entregue,53,Cliente 053,Jundiaí,SP,7,Jogo de toalhas,Casa,89.90,2,89.90,
+171,3,2026-02-03,app,entregue,53,Cliente 053,Jundiaí,SP,16,Mochila,Papelaria,159.00,1,159.00,
+172,1,2026-02-03,app,entregue,74,Cliente 074,Piracicaba,SP,30,Chapinha,Beleza,169.00,2,169.00,
+173,1,2026-02-03,site,entregue,93,Cliente 093,Santos,SP,28,Protetor solar,Beleza,59.90,3,59.90,
+174,1,2026-02-03,app,entregue,117,Cliente 117,Curitiba,PR,19,Bola,Esporte,79.90,1,79.90,
+175,1,2026-02-03,site,entregue,96,Cliente 096,Santos,SP,19,Bola,Esporte,79.90,2,79.90,
+175,2,2026-02-03,site,entregue,96,Cliente 096,Santos,SP,9,Jogo de copos,Casa,49.90,1,49.90,
+176,1,2026-02-03,app,entregue,61,Cliente 061,Jundiaí,SP,14,Agenda,Papelaria,39.90,1,39.90,
+176,2,2026-02-03,app,entregue,61,Cliente 061,Jundiaí,SP,30,Chapinha,Beleza,169.00,2,169.00,
+177,1,2026-02-03,app,devolvido,44,Cliente 044,Sorocaba,SP,10,Luminária,Casa,119.00,1,119.00,
+178,1,2026-02-04,loja,entregue,80,Cliente 080,Ribeirão Preto,SP,3,Batedeira,Eletro,279.00,1,279.00,
+179,1,2026-02-04,site,entregue,71,Cliente 071,Piracicaba,SP,20,Garrafa térmica,Esporte,69.90,2,69.90,
+179,2,2026-02-04,site,entregue,71,Cliente 071,Piracicaba,SP,25,Secador,Beleza,199.00,1,199.00,
+180,1,2026-02-04,site,entregue,68,Cliente 068,Piracicaba,SP,26,Escova,Beleza,34.90,1,34.90,
+181,1,2026-02-04,site,entregue,47,Cliente 047,Sorocaba,SP,23,Corda de pular,Esporte,29.90,1,29.90,
+181,2,2026-02-04,site,entregue,47,Cliente 047,Sorocaba,SP,22,Halter,Esporte,119.90,2,119.90,
+181,3,2026-02-04,site,entregue,47,Cliente 047,Sorocaba,SP,3,Batedeira,Eletro,279.00,1,279.00,0.00
+182,1,2026-02-05,loja,entregue,46,Cliente 046,Sorocaba,SP,13,Caderno,Papelaria,24.90,1,24.90,
+183,1,2026-02-05,site,entregue,47,Cliente 047,Sorocaba,SP,24,Joelheira,Esporte,49.90,1,49.90,
+183,2,2026-02-05,site,entregue,47,Cliente 047,Sorocaba,SP,3,Batedeira,Eletro,279.00,1,279.00,
+184,1,2026-02-05,app,entregue,92,Cliente 092,Santos,SP,13,Caderno,Papelaria,24.90,1,22.41,
+185,1,2026-02-05,loja,entregue,53,Cliente 053,Jundiaí,SP,16,Mochila,Papelaria,159.00,1,143.10,14.31
+186,1,2026-02-06,site,entregue,50,Cliente 050,Jundiaí,SP,15,Estojo,Papelaria,19.90,1,19.90,
+187,1,2026-02-06,loja,entregue,98,Cliente 098,Santos,SP,17,Calculadora,Papelaria,59.90,1,59.90,
+188,1,2026-02-06,site,entregue,45,Cliente 045,Sorocaba,SP,7,Jogo de toalhas,Casa,89.90,1,89.90,
+188,2,2026-02-06,site,entregue,45,Cliente 045,Sorocaba,SP,14,Agenda,Papelaria,39.90,2,39.90,
+188,3,2026-02-06,site,entregue,45,Cliente 045,Sorocaba,SP,21,Tapete de yoga,Esporte,99.00,1,99.00,
+188,4,2026-02-06,site,entregue,45,Cliente 045,Sorocaba,SP,16,Mochila,Papelaria,159.00,2,159.00,
+189,1,2026-02-06,site,entregue,108,Cliente 108,Limeira,SP,18,Marca-texto,Papelaria,12.90,1,12.90,
+190,1,2026-02-06,loja,entregue,43,Cliente 043,Sorocaba,SP,5,Aspirador,Eletro,349.00,1,314.10,
+190,2,2026-02-06,loja,entregue,43,Cliente 043,Sorocaba,SP,27,Hidratante,Beleza,44.90,1,44.90,
+190,3,2026-02-06,loja,entregue,43,Cliente 043,Sorocaba,SP,17,Calculadora,Papelaria,59.90,1,53.91,
+190,4,2026-02-06,loja,entregue,43,Cliente 043,Sorocaba,SP,9,Jogo de copos,Casa,49.90,3,49.90,
+191,1,2026-02-06,site,entregue,12,Cliente 012,Campinas,SP,12,Cortina,Casa,149.90,1,149.90,
+192,1,2026-02-06,loja,entregue,35,Cliente 035,Sorocaba,SP,24,Joelheira,Esporte,49.90,1,49.90,4.99
+193,1,2026-02-06,site,entregue,54,Cliente 054,Jundiaí,SP,23,Corda de pular,Esporte,29.90,1,29.90,
+194,1,2026-02-06,site,entregue,71,Cliente 071,Piracicaba,SP,13,Caderno,Papelaria,24.90,1,24.90,
+195,1,2026-02-06,site,entregue,8,Cliente 008,Campinas,SP,11,Organizador,Casa,39.90,1,39.90,0.00
+196,1,2026-02-07,loja,entregue,89,Cliente 089,Santos,SP,25,Secador,Beleza,199.00,1,199.00,
+197,1,2026-02-07,app,entregue,100,Cliente 100,Limeira,SP,6,Sanduicheira,Eletro,99.90,1,99.90,
+198,1,2026-02-08,site,entregue,9,Cliente 009,Campinas,SP,23,Corda de pular,Esporte,29.90,1,29.90,2.99
+199,1,2026-02-08,site,entregue,101,Cliente 101,Limeira,SP,16,Mochila,Papelaria,159.00,1,159.00,15.90
+200,1,2026-02-08,app,entregue,4,Cliente 004,Campinas,SP,10,Luminária,Casa,119.00,2,119.00,
+200,2,2026-02-08,app,entregue,4,Cliente 004,Campinas,SP,30,Chapinha,Beleza,169.00,1,169.00,16.90
+201,1,2026-02-08,app,entregue,108,Cliente 108,Limeira,SP,5,Aspirador,Eletro,349.00,1,349.00,
+201,2,2026-02-08,app,entregue,108,Cliente 108,Limeira,SP,12,Cortina,Casa,149.90,1,134.91,
+202,1,2026-02-09,site,entregue,37,Cliente 037,Sorocaba,SP,29,Perfume,Beleza,189.00,1,189.00,
+203,1,2026-02-09,site,devolvido,5,Cliente 005,Campinas,SP,21,Tapete de yoga,Esporte,99.00,1,99.00,
+204,1,2026-02-10,app,entregue,63,Cliente 063,Jundiaí,SP,25,Secador,Beleza,199.00,1,199.00,
+205,1,2026-02-10,site,cancelado,1,Cliente 001,Campinas,SP,12,Cortina,Casa,149.90,1,149.90,
+206,1,2026-02-10,site,entregue,110,Cliente 110,Bauru,SP,22,Halter,Esporte,119.90,3,119.90,
+207,1,2026-02-10,site,entregue,93,Cliente 093,Santos,SP,12,Cortina,Casa,149.90,1,149.90,
+207,2,2026-02-10,site,entregue,93,Cliente 093,Santos,SP,25,Secador,Beleza,199.00,3,199.00,
+207,3,2026-02-10,site,entregue,93,Cliente 093,Santos,SP,22,Halter,Esporte,119.90,1,107.91,
+208,1,2026-02-10,loja,entregue,54,Cliente 054,Jundiaí,SP,24,Joelheira,Esporte,49.90,2,49.90,0.00
+209,1,2026-02-10,site,entregue,71,Cliente 071,Piracicaba,SP,20,Garrafa térmica,Esporte,69.90,1,69.90,
+210,1,2026-02-11,site,entregue,59,Cliente 059,Jundiaí,SP,11,Organizador,Casa,39.90,1,35.91,
+210,2,2026-02-11,site,entregue,59,Cliente 059,Jundiaí,SP,3,Batedeira,Eletro,279.00,1,279.00,
+211,1,2026-02-11,site,entregue,52,Cliente 052,Jundiaí,SP,3,Batedeira,Eletro,279.00,1,279.00,
+212,1,2026-02-11,app,entregue,23,Cliente 023,Campinas,SP,30,Chapinha,Beleza,169.00,1,169.00,
+212,2,2026-02-11,app,entregue,23,Cliente 023,Campinas,SP,30,Chapinha,Beleza,169.00,2,169.00,
+213,1,2026-02-11,loja,entregue,116,Cliente 116,Curitiba,PR,9,Jogo de copos,Casa,49.90,1,49.90,
+213,2,2026-02-11,loja,entregue,116,Cliente 116,Curitiba,PR,15,Estojo,Papelaria,19.90,1,19.90,
+214,1,2026-02-11,app,entregue,98,Cliente 098,Santos,SP,2,Ventilador,Eletro,239.90,2,239.90,
+215,1,2026-02-11,site,entregue,87,Cliente 087,Ribeirão Preto,SP,2,Ventilador,Eletro,239.90,1,239.90,
+215,2,2026-02-11,site,entregue,87,Cliente 087,Ribeirão Preto,SP,18,Marca-texto,Papelaria,12.90,2,12.90,
+215,3,2026-02-11,site,entregue,87,Cliente 087,Ribeirão Preto,SP,11,Organizador,Casa,39.90,1,39.90,
+215,4,2026-02-11,site,entregue,87,Cliente 087,Ribeirão Preto,SP,11,Organizador,Casa,39.90,2,39.90,
+216,1,2026-02-12,app,entregue,33,Cliente 033,Sorocaba,SP,8,Panela,Casa,129.90,1,129.90,
+216,2,2026-02-12,app,entregue,33,Cliente 033,Sorocaba,SP,11,Organizador,Casa,39.90,1,39.90,
+216,3,2026-02-12,app,entregue,33,Cliente 033,Sorocaba,SP,2,Ventilador,Eletro,239.90,3,239.90,
+217,1,2026-02-12,site,entregue,70,Cliente 070,Piracicaba,SP,12,Cortina,Casa,149.90,1,149.90,
+218,1,2026-02-12,site,entregue,80,Cliente 080,Ribeirão Preto,SP,19,Bola,Esporte,79.90,1,71.91,
+219,1,2026-02-12,site,entregue,103,Cliente 103,Limeira,SP,10,Luminária,Casa,119.00,1,119.00,11.90
+219,2,2026-02-12,site,entregue,103,Cliente 103,Limeira,SP,3,Batedeira,Eletro,279.00,1,279.00,0.00
+220,1,2026-02-12,site,entregue,27,Cliente 027,Campinas,SP,11,Organizador,Casa,39.90,1,39.90,
+220,2,2026-02-12,site,entregue,27,Cliente 027,Campinas,SP,9,Jogo de copos,Casa,49.90,1,49.90,
+221,1,2026-02-12,site,devolvido,59,Cliente 059,Jundiaí,SP,9,Jogo de copos,Casa,49.90,1,49.90,
+222,1,2026-02-12,site,entregue,68,Cliente 068,Piracicaba,SP,9,Jogo de copos,Casa,49.90,2,49.90,
+222,2,2026-02-12,site,entregue,68,Cliente 068,Piracicaba,SP,4,Cafeteira,Eletro,159.90,1,159.90,
+223,1,2026-02-13,site,entregue,59,Cliente 059,Jundiaí,SP,1,Liquidificador,Eletro,189.90,1,189.90,
+224,1,2026-02-13,app,entregue,22,Cliente 022,Campinas,SP,25,Secador,Beleza,199.00,1,199.00,0.00
+225,1,2026-02-13,site,entregue,19,Cliente 019,Campinas,SP,5,Aspirador,Eletro,349.00,1,349.00,
+226,1,2026-02-13,loja,entregue,23,Cliente 023,Campinas,SP,1,Liquidificador,Eletro,189.90,1,189.90,18.99
+227,1,2026-02-14,app,entregue,96,Cliente 096,Santos,SP,21,Tapete de yoga,Esporte,99.00,1,99.00,
+227,2,2026-02-14,app,entregue,96,Cliente 096,Santos,SP,15,Estojo,Papelaria,19.90,1,19.90,
+227,3,2026-02-14,app,entregue,96,Cliente 096,Santos,SP,10,Luminária,Casa,119.00,1,107.10,
+228,1,2026-02-14,app,entregue,76,Cliente 076,Ribeirão Preto,SP,23,Corda de pular,Esporte,29.90,1,29.90,0.00
+229,1,2026-02-15,app,entregue,90,Cliente 090,Santos,SP,21,Tapete de yoga,Esporte,99.00,1,99.00,
+230,1,2026-02-15,app,cancelado,100,Cliente 100,Limeira,SP,14,Agenda,Papelaria,39.90,1,39.90,
+231,1,2026-02-15,site,entregue,40,Cliente 040,Sorocaba,SP,4,Cafeteira,Eletro,159.90,1,143.91,
+232,1,2026-02-16,site,entregue,55,Cliente 055,Jundiaí,SP,18,Marca-texto,Papelaria,12.90,1,12.90,
+233,1,2026-02-16,app,entregue,90,Cliente 090,Santos,SP,18,Marca-texto,Papelaria,12.90,2,11.61,
+233,2,2026-02-16,app,entregue,90,Cliente 090,Santos,SP,6,Sanduicheira,Eletro,99.90,1,99.90,
+234,1,2026-02-16,site,entregue,11,Cliente 011,Campinas,SP,23,Corda de pular,Esporte,29.90,1,29.90,0.00
+234,2,2026-02-16,site,entregue,11,Cliente 011,Campinas,SP,27,Hidratante,Beleza,44.90,1,44.90,
+235,1,2026-02-16,site,entregue,106,Cliente 106,Limeira,SP,8,Panela,Casa,129.90,1,129.90,
+236,1,2026-02-16,site,entregue,118,Cliente 118,Curitiba,PR,21,Tapete de yoga,Esporte,99.00,1,89.10,
+236,2,2026-02-16,site,entregue,118,Cliente 118,Curitiba,PR,27,Hidratante,Beleza,44.90,1,44.90,
+237,1,2026-02-17,site,entregue,100,Cliente 100,Limeira,SP,26,Escova,Beleza,34.90,1,34.90,
+238,1,2026-02-17,site,devolvido,84,Cliente 084,Ribeirão Preto,SP,4,Cafeteira,Eletro,159.90,1,143.91,
+239,1,2026-02-17,app,entregue,6,Cliente 006,Campinas,SP,17,Calculadora,Papelaria,59.90,1,53.91,
+240,1,2026-02-18,app,entregue,104,Cliente 104,Limeira,SP,15,Estojo,Papelaria,19.90,1,19.90,
+240,2,2026-02-18,app,entregue,104,Cliente 104,Limeira,SP,23,Corda de pular,Esporte,29.90,2,29.90,0.00
+240,3,2026-02-18,app,entregue,104,Cliente 104,Limeira,SP,17,Calculadora,Papelaria,59.90,2,53.91,
+241,1,2026-02-18,loja,entregue,30,Cliente 030,Campinas,SP,19,Bola,Esporte,79.90,1,79.90,7.99
+242,1,2026-02-18,app,entregue,103,Cliente 103,Limeira,SP,5,Aspirador,Eletro,349.00,2,314.10,
+242,2,2026-02-18,app,entregue,103,Cliente 103,Limeira,SP,22,Halter,Esporte,119.90,2,119.90,23.98
+243,1,2026-02-18,site,entregue,37,Cliente 037,Sorocaba,SP,22,Halter,Esporte,119.90,1,119.90,
+243,2,2026-02-18,site,entregue,37,Cliente 037,Sorocaba,SP,3,Batedeira,Eletro,279.00,1,279.00,
+243,3,2026-02-18,site,entregue,37,Cliente 037,Sorocaba,SP,28,Protetor solar,Beleza,59.90,1,59.90,5.99
+244,1,2026-02-18,app,entregue,5,Cliente 005,Campinas,SP,29,Perfume,Beleza,189.00,1,189.00,
+245,1,2026-02-19,loja,entregue,47,Cliente 047,Sorocaba,SP,27,Hidratante,Beleza,44.90,1,44.90,
+246,1,2026-02-19,site,entregue,23,Cliente 023,Campinas,SP,17,Calculadora,Papelaria,59.90,1,59.90,
+246,2,2026-02-19,site,entregue,23,Cliente 023,Campinas,SP,9,Jogo de copos,Casa,49.90,3,49.90,
+247,1,2026-02-19,site,entregue,31,Cliente 031,Sorocaba,SP,1,Liquidificador,Eletro,189.90,1,189.90,
+248,1,2026-02-19,site,entregue,103,Cliente 103,Limeira,SP,2,Ventilador,Eletro,239.90,2,239.90,
+248,2,2026-02-19,site,entregue,103,Cliente 103,Limeira,SP,8,Panela,Casa,129.90,1,129.90,
+248,3,2026-02-19,site,entregue,103,Cliente 103,Limeira,SP,24,Joelheira,Esporte,49.90,3,49.90,14.97
+248,4,2026-02-19,site,entregue,103,Cliente 103,Limeira,SP,15,Estojo,Papelaria,19.90,1,17.91,
+249,1,2026-02-19,app,cancelado,57,Cliente 057,Jundiaí,SP,5,Aspirador,Eletro,349.00,1,349.00,
+249,2,2026-02-19,app,cancelado,57,Cliente 057,Jundiaí,SP,16,Mochila,Papelaria,159.00,1,159.00,15.90
+250,1,2026-02-19,site,cancelado,34,Cliente 034,Sorocaba,SP,14,Agenda,Papelaria,39.90,2,39.90,
+251,1,2026-02-19,site,entregue,107,Cliente 107,Limeira,SP,23,Corda de pular,Esporte,29.90,3,29.90,
+251,2,2026-02-19,site,entregue,107,Cliente 107,Limeira,SP,22,Halter,Esporte,119.90,1,119.90,
+251,3,2026-02-19,site,entregue,107,Cliente 107,Limeira,SP,14,Agenda,Papelaria,39.90,1,39.90,
+252,1,2026-02-19,loja,entregue,58,Cliente 058,Jundiaí,SP,11,Organizador,Casa,39.90,1,39.90,
+252,2,2026-02-19,loja,entregue,58,Cliente 058,Jundiaí,SP,8,Panela,Casa,129.90,1,129.90,
+253,1,2026-02-19,loja,entregue,50,Cliente 050,Jundiaí,SP,8,Panela,Casa,129.90,1,129.90,12.99
+253,2,2026-02-19,loja,entregue,50,Cliente 050,Jundiaí,SP,26,Escova,Beleza,34.90,1,34.90,
+253,3,2026-02-19,loja,entregue,50,Cliente 050,Jundiaí,SP,17,Calculadora,Papelaria,59.90,1,53.91,0.00
+253,4,2026-02-19,loja,entregue,50,Cliente 050,Jundiaí,SP,20,Garrafa térmica,Esporte,69.90,2,69.90,
+254,1,2026-02-20,app,entregue,1,Cliente 001,Campinas,SP,7,Jogo de toalhas,Casa,89.90,1,89.90,8.99
+254,2,2026-02-20,app,entregue,1,Cliente 001,Campinas,SP,26,Escova,Beleza,34.90,1,31.41,3.14
+255,1,2026-02-20,app,devolvido,7,Cliente 007,Campinas,SP,15,Estojo,Papelaria,19.90,1,19.90,
+255,2,2026-02-20,app,devolvido,7,Cliente 007,Campinas,SP,12,Cortina,Casa,149.90,1,149.90,
+256,1,2026-02-20,site,entregue,58,Cliente 058,Jundiaí,SP,27,Hidratante,Beleza,44.90,1,44.90,
+256,2,2026-02-20,site,entregue,58,Cliente 058,Jundiaí,SP,19,Bola,Esporte,79.90,2,79.90,
+257,1,2026-02-21,app,devolvido,12,Cliente 012,Campinas,SP,21,Tapete de yoga,Esporte,99.00,1,99.00,
+257,2,2026-02-21,app,devolvido,12,Cliente 012,Campinas,SP,29,Perfume,Beleza,189.00,1,189.00,
+258,1,2026-02-21,site,entregue,54,Cliente 054,Jundiaí,SP,25,Secador,Beleza,199.00,1,199.00,19.90
+259,1,2026-02-21,loja,devolvido,91,Cliente 091,Santos,SP,27,Hidratante,Beleza,44.90,1,44.90,
+259,2,2026-02-21,loja,devolvido,91,Cliente 091,Santos,SP,12,Cortina,Casa,149.90,1,149.90,14.99
+260,1,2026-02-21,site,entregue,1,Cliente 001,Campinas,SP,15,Estojo,Papelaria,19.90,1,19.90,
+261,1,2026-02-21,app,entregue,79,Cliente 079,Ribeirão Preto,SP,1,Liquidificador,Eletro,189.90,1,189.90,
+261,2,2026-02-21,app,entregue,79,Cliente 079,Ribeirão Preto,SP,9,Jogo de copos,Casa,49.90,2,44.91,
+262,1,2026-02-21,site,entregue,23,Cliente 023,Campinas,SP,11,Organizador,Casa,39.90,1,39.90,3.99
+263,1,2026-02-21,site,entregue,73,Cliente 073,Piracicaba,SP,18,Marca-texto,Papelaria,12.90,1,12.90,
+263,2,2026-02-21,site,entregue,73,Cliente 073,Piracicaba,SP,23,Corda de pular,Esporte,29.90,1,29.90,
+264,1,2026-02-21,site,entregue,82,Cliente 082,Ribeirão Preto,SP,16,Mochila,Papelaria,159.00,1,159.00,0.00
+264,2,2026-02-21,site,entregue,82,Cliente 082,Ribeirão Preto,SP,4,Cafeteira,Eletro,159.90,1,159.90,
+265,1,2026-02-21,app,cancelado,84,Cliente 084,Ribeirão Preto,SP,28,Protetor solar,Beleza,59.90,3,59.90,
+266,1,2026-02-22,loja,entregue,7,Cliente 007,Campinas,SP,21,Tapete de yoga,Esporte,99.00,1,89.10,0.00
+267,1,2026-02-22,site,entregue,50,Cliente 050,Jundiaí,SP,12,Cortina,Casa,149.90,1,149.90,
+267,2,2026-02-22,site,entregue,50,Cliente 050,Jundiaí,SP,9,Jogo de copos,Casa,49.90,1,49.90,4.99
+268,1,2026-02-22,site,entregue,24,Cliente 024,Campinas,SP,2,Ventilador,Eletro,239.90,1,239.90,
+269,1,2026-02-22,loja,entregue,30,Cliente 030,Campinas,SP,8,Panela,Casa,129.90,2,129.90,
+269,2,2026-02-22,loja,entregue,30,Cliente 030,Campinas,SP,11,Organizador,Casa,39.90,2,39.90,7.98
+269,3,2026-02-22,loja,entregue,30,Cliente 030,Campinas,SP,16,Mochila,Papelaria,159.00,1,159.00,
+270,1,2026-02-22,site,entregue,107,Cliente 107,Limeira,SP,21,Tapete de yoga,Esporte,99.00,1,99.00,
+271,1,2026-02-22,loja,entregue,2,Cliente 002,Campinas,SP,17,Calculadora,Papelaria,59.90,1,59.90,
+271,2,2026-02-22,loja,entregue,2,Cliente 002,Campinas,SP,30,Chapinha,Beleza,169.00,1,169.00,
+272,1,2026-02-23,site,cancelado,31,Cliente 031,Sorocaba,SP,13,Caderno,Papelaria,24.90,1,24.90,
+273,1,2026-02-23,site,entregue,63,Cliente 063,Jundiaí,SP,8,Panela,Casa,129.90,1,129.90,
+273,2,2026-02-23,site,entregue,63,Cliente 063,Jundiaí,SP,20,Garrafa térmica,Esporte,69.90,1,69.90,
+274,1,2026-02-23,app,entregue,59,Cliente 059,Jundiaí,SP,8,Panela,Casa,129.90,1,129.90,
+275,1,2026-02-23,app,entregue,54,Cliente 054,Jundiaí,SP,3,Batedeira,Eletro,279.00,1,279.00,
+276,1,2026-02-23,site,entregue,85,Cliente 085,Ribeirão Preto,SP,1,Liquidificador,Eletro,189.90,1,189.90,
+277,1,2026-02-23,site,entregue,119,Cliente 119,Curitiba,PR,3,Batedeira,Eletro,279.00,1,279.00,
+277,2,2026-02-23,site,entregue,119,Cliente 119,Curitiba,PR,20,Garrafa térmica,Esporte,69.90,1,69.90,
+277,3,2026-02-23,site,entregue,119,Cliente 119,Curitiba,PR,20,Garrafa térmica,Esporte,69.90,1,69.90,
+278,1,2026-02-23,site,entregue,2,Cliente 002,Campinas,SP,11,Organizador,Casa,39.90,1,39.90,0.00
+278,2,2026-02-23,site,entregue,2,Cliente 002,Campinas,SP,1,Liquidificador,Eletro,189.90,2,189.90,
+279,1,2026-02-24,app,entregue,93,Cliente 093,Santos,SP,10,Luminária,Casa,119.00,1,119.00,
+279,2,2026-02-24,app,entregue,93,Cliente 093,Santos,SP,5,Aspirador,Eletro,349.00,2,349.00,0.00
+279,3,2026-02-24,app,entregue,93,Cliente 093,Santos,SP,25,Secador,Beleza,199.00,1,199.00,
+280,1,2026-02-24,site,entregue,96,Cliente 096,Santos,SP,13,Caderno,Papelaria,24.90,1,24.90,
+281,1,2026-02-25,loja,entregue,106,Cliente 106,Limeira,SP,27,Hidratante,Beleza,44.90,2,44.90,
+282,1,2026-02-25,app,entregue,44,Cliente 044,Sorocaba,SP,22,Halter,Esporte,119.90,1,119.90,
+283,1,2026-02-26,site,devolvido,119,Cliente 119,Curitiba,PR,2,Ventilador,Eletro,239.90,1,239.90,
+283,2,2026-02-26,site,devolvido,119,Cliente 119,Curitiba,PR,21,Tapete de yoga,Esporte,99.00,1,99.00,
+284,1,2026-02-26,site,entregue,95,Cliente 095,Santos,SP,19,Bola,Esporte,79.90,1,79.90,
+284,2,2026-02-26,site,entregue,95,Cliente 095,Santos,SP,19,Bola,Esporte,79.90,1,79.90,
+285,1,2026-02-26,site,cancelado,56,Cliente 056,Jundiaí,SP,26,Escova,Beleza,34.90,3,34.90,0.00
+285,2,2026-02-26,site,cancelado,56,Cliente 056,Jundiaí,SP,6,Sanduicheira,Eletro,99.90,1,99.90,
+285,3,2026-02-26,site,cancelado,56,Cliente 056,Jundiaí,SP,16,Mochila,Papelaria,159.00,1,143.10,
+286,1,2026-02-26,site,entregue,54,Cliente 054,Jundiaí,SP,23,Corda de pular,Esporte,29.90,1,29.90,
+287,1,2026-02-26,app,cancelado,13,Cliente 013,Campinas,SP,28,Protetor solar,Beleza,59.90,1,59.90,
+288,1,2026-02-27,site,devolvido,12,Cliente 012,Campinas,SP,23,Corda de pular,Esporte,29.90,1,29.90,
+288,2,2026-02-27,site,devolvido,12,Cliente 012,Campinas,SP,29,Perfume,Beleza,189.00,2,189.00,
+288,3,2026-02-27,site,devolvido,12,Cliente 012,Campinas,SP,3,Batedeira,Eletro,279.00,2,279.00,
+289,1,2026-02-27,site,entregue,25,Cliente 025,Campinas,SP,25,Secador,Beleza,199.00,2,199.00,
+289,2,2026-02-27,site,entregue,25,Cliente 025,Campinas,SP,23,Corda de pular,Esporte,29.90,1,29.90,
+290,1,2026-02-27,app,entregue,114,Cliente 114,Curitiba,PR,11,Organizador,Casa,39.90,2,35.91,
+291,1,2026-02-27,app,entregue,17,Cliente 017,Campinas,SP,8,Panela,Casa,129.90,1,129.90,
+292,1,2026-02-28,loja,entregue,30,Cliente 030,Campinas,SP,29,Perfume,Beleza,189.00,1,170.10,
+292,2,2026-02-28,loja,entregue,30,Cliente 030,Campinas,SP,17,Calculadora,Papelaria,59.90,2,59.90,0.00
+292,3,2026-02-28,loja,entregue,30,Cliente 030,Campinas,SP,13,Caderno,Papelaria,24.90,1,24.90,2.49
+293,1,2026-02-28,loja,entregue,84,Cliente 084,Ribeirão Preto,SP,29,Perfume,Beleza,189.00,1,189.00,
+293,2,2026-02-28,loja,entregue,84,Cliente 084,Ribeirão Preto,SP,2,Ventilador,Eletro,239.90,2,239.90,
+293,3,2026-02-28,loja,entregue,84,Cliente 084,Ribeirão Preto,SP,6,Sanduicheira,Eletro,99.90,2,99.90,
+294,1,2026-02-28,loja,entregue,47,Cliente 047,Sorocaba,SP,4,Cafeteira,Eletro,159.90,1,159.90,
+295,1,2026-02-28,site,devolvido,10,Cliente 010,Campinas,SP,10,Luminária,Casa,119.00,1,119.00,
+296,1,2026-02-28,app,entregue,1,Cliente 001,Campinas,SP,12,Cortina,Casa,149.90,1,149.90,
+297,1,2026-02-28,app,entregue,17,Cliente 017,Campinas,SP,2,Ventilador,Eletro,239.90,1,239.90,
+298,1,2026-03-01,app,devolvido,120,Cliente 120,Curitiba,PR,29,Perfume,Beleza,189.00,1,189.00,
+299,1,2026-03-01,app,entregue,54,Cliente 054,Jundiaí,SP,3,Batedeira,Eletro,279.00,1,279.00,
+300,1,2026-03-01,site,entregue,103,Cliente 103,Limeira,SP,16,Mochila,Papelaria,159.00,1,159.00,
+300,2,2026-03-01,site,entregue,103,Cliente 103,Limeira,SP,9,Jogo de copos,Casa,49.90,2,49.90,9.98
+301,1,2026-03-01,app,cancelado,59,Cliente 059,Jundiaí,SP,26,Escova,Beleza,34.90,1,34.90,3.49
+302,1,2026-03-02,app,entregue,59,Cliente 059,Jundiaí,SP,4,Cafeteira,Eletro,159.90,1,159.90,
+303,1,2026-03-02,app,entregue,96,Cliente 096,Santos,SP,27,Hidratante,Beleza,44.90,1,40.41,0.00
+303,2,2026-03-02,app,entregue,96,Cliente 096,Santos,SP,16,Mochila,Papelaria,159.00,1,159.00,
+303,3,2026-03-02,app,entregue,96,Cliente 096,Santos,SP,28,Protetor solar,Beleza,59.90,1,53.91,
+303,4,2026-03-02,app,entregue,96,Cliente 096,Santos,SP,27,Hidratante,Beleza,44.90,2,40.41,
+304,1,2026-03-02,site,entregue,1,Cliente 001,Campinas,SP,3,Batedeira,Eletro,279.00,1,251.10,
+305,1,2026-03-02,app,entregue,92,Cliente 092,Santos,SP,12,Cortina,Casa,149.90,1,149.90,
+306,1,2026-03-02,app,entregue,12,Cliente 012,Campinas,SP,28,Protetor solar,Beleza,59.90,1,53.91,
+306,2,2026-03-02,app,entregue,12,Cliente 012,Campinas,SP,13,Caderno,Papelaria,24.90,1,22.41,
+307,1,2026-03-02,site,cancelado,114,Cliente 114,Curitiba,PR,20,Garrafa térmica,Esporte,69.90,1,62.91,
+307,2,2026-03-02,site,cancelado,114,Cliente 114,Curitiba,PR,22,Halter,Esporte,119.90,1,107.91,
+307,3,2026-03-02,site,cancelado,114,Cliente 114,Curitiba,PR,23,Corda de pular,Esporte,29.90,1,29.90,
+308,1,2026-03-02,loja,entregue,48,Cliente 048,Sorocaba,SP,12,Cortina,Casa,149.90,2,149.90,
+308,2,2026-03-02,loja,entregue,48,Cliente 048,Sorocaba,SP,3,Batedeira,Eletro,279.00,3,279.00,
+309,1,2026-03-02,app,entregue,58,Cliente 058,Jundiaí,SP,2,Ventilador,Eletro,239.90,1,215.91,
+309,2,2026-03-02,app,entregue,58,Cliente 058,Jundiaí,SP,2,Ventilador,Eletro,239.90,1,239.90,
+309,3,2026-03-02,app,entregue,58,Cliente 058,Jundiaí,SP,30,Chapinha,Beleza,169.00,1,152.10,15.21
+310,1,2026-03-03,app,entregue,69,Cliente 069,Piracicaba,SP,4,Cafeteira,Eletro,159.90,2,159.90,
+310,2,2026-03-03,app,entregue,69,Cliente 069,Piracicaba,SP,27,Hidratante,Beleza,44.90,1,44.90,
+311,1,2026-03-03,site,entregue,35,Cliente 035,Sorocaba,SP,6,Sanduicheira,Eletro,99.90,1,99.90,
+312,1,2026-03-03,app,entregue,26,Cliente 026,Campinas,SP,30,Chapinha,Beleza,169.00,1,169.00,
+313,1,2026-03-03,site,entregue,100,Cliente 100,Limeira,SP,6,Sanduicheira,Eletro,99.90,1,99.90,
+313,2,2026-03-03,site,entregue,100,Cliente 100,Limeira,SP,14,Agenda,Papelaria,39.90,2,39.90,
+314,1,2026-03-03,app,entregue,17,Cliente 017,Campinas,SP,27,Hidratante,Beleza,44.90,1,44.90,
+314,2,2026-03-03,app,entregue,17,Cliente 017,Campinas,SP,25,Secador,Beleza,199.00,1,199.00,
+315,1,2026-03-03,app,devolvido,101,Cliente 101,Limeira,SP,28,Protetor solar,Beleza,59.90,1,59.90,5.99
+315,2,2026-03-03,app,devolvido,101,Cliente 101,Limeira,SP,16,Mochila,Papelaria,159.00,1,143.10,
+316,1,2026-03-03,site,entregue,84,Cliente 084,Ribeirão Preto,SP,19,Bola,Esporte,79.90,1,71.91,
+316,2,2026-03-03,site,entregue,84,Cliente 084,Ribeirão Preto,SP,21,Tapete de yoga,Esporte,99.00,1,99.00,
+317,1,2026-03-03,site,entregue,61,Cliente 061,Jundiaí,SP,7,Jogo de toalhas,Casa,89.90,1,89.90,8.99
+318,1,2026-03-03,loja,entregue,100,Cliente 100,Limeira,SP,19,Bola,Esporte,79.90,2,79.90,
+319,1,2026-03-03,site,entregue,53,Cliente 053,Jundiaí,SP,30,Chapinha,Beleza,169.00,1,152.10,
+320,1,2026-03-04,site,entregue,100,Cliente 100,Limeira,SP,21,Tapete de yoga,Esporte,99.00,1,99.00,9.90
+320,2,2026-03-04,site,entregue,100,Cliente 100,Limeira,SP,5,Aspirador,Eletro,349.00,1,349.00,34.90
+320,3,2026-03-04,site,entregue,100,Cliente 100,Limeira,SP,26,Escova,Beleza,34.90,1,34.90,
+320,4,2026-03-04,site,entregue,100,Cliente 100,Limeira,SP,10,Luminária,Casa,119.00,1,119.00,
+321,1,2026-03-04,app,cancelado,17,Cliente 017,Campinas,SP,19,Bola,Esporte,79.90,1,71.91,
+322,1,2026-03-04,site,entregue,47,Cliente 047,Sorocaba,SP,2,Ventilador,Eletro,239.90,1,239.90,
+322,2,2026-03-04,site,entregue,47,Cliente 047,Sorocaba,SP,22,Halter,Esporte,119.90,1,119.90,
+322,3,2026-03-04,site,entregue,47,Cliente 047,Sorocaba,SP,3,Batedeira,Eletro,279.00,1,251.10,
+322,4,2026-03-04,site,entregue,47,Cliente 047,Sorocaba,SP,7,Jogo de toalhas,Casa,89.90,2,80.91,
+323,1,2026-03-05,site,entregue,59,Cliente 059,Jundiaí,SP,10,Luminária,Casa,119.00,1,119.00,
+323,2,2026-03-05,site,entregue,59,Cliente 059,Jundiaí,SP,11,Organizador,Casa,39.90,1,39.90,
+324,1,2026-03-05,app,entregue,53,Cliente 053,Jundiaí,SP,23,Corda de pular,Esporte,29.90,2,29.90,
+324,2,2026-03-05,app,entregue,53,Cliente 053,Jundiaí,SP,22,Halter,Esporte,119.90,1,107.91,
+325,1,2026-03-05,site,cancelado,1,Cliente 001,Campinas,SP,16,Mochila,Papelaria,159.00,1,143.10,
+326,1,2026-03-05,site,entregue,74,Cliente 074,Piracicaba,SP,1,Liquidificador,Eletro,189.90,1,189.90,
+326,2,2026-03-05,site,entregue,74,Cliente 074,Piracicaba,SP,10,Luminária,Casa,119.00,1,119.00,
+326,3,2026-03-05,site,entregue,74,Cliente 074,Piracicaba,SP,27,Hidratante,Beleza,44.90,1,44.90,
+326,4,2026-03-05,site,entregue,74,Cliente 074,Piracicaba,SP,8,Panela,Casa,129.90,1,129.90,
+327,1,2026-03-05,app,entregue,67,Cliente 067,Piracicaba,SP,10,Luminária,Casa,119.00,1,119.00,
+327,2,2026-03-05,app,entregue,67,Cliente 067,Piracicaba,SP,30,Chapinha,Beleza,169.00,1,169.00,
+328,1,2026-03-05,app,entregue,106,Cliente 106,Limeira,SP,21,Tapete de yoga,Esporte,99.00,1,99.00,9.90
+328,2,2026-03-05,app,entregue,106,Cliente 106,Limeira,SP,24,Joelheira,Esporte,49.90,2,49.90,
+329,1,2026-03-05,app,entregue,61,Cliente 061,Jundiaí,SP,7,Jogo de toalhas,Casa,89.90,1,89.90,0.00
+329,2,2026-03-05,app,entregue,61,Cliente 061,Jundiaí,SP,13,Caderno,Papelaria,24.90,2,24.90,0.00
+329,3,2026-03-05,app,entregue,61,Cliente 061,Jundiaí,SP,29,Perfume,Beleza,189.00,1,189.00,
+330,1,2026-03-05,app,entregue,59,Cliente 059,Jundiaí,SP,24,Joelheira,Esporte,49.90,1,49.90,
+331,1,2026-03-05,site,entregue,26,Cliente 026,Campinas,SP,27,Hidratante,Beleza,44.90,1,44.90,0.00
+332,1,2026-03-05,site,entregue,1,Cliente 001,Campinas,SP,1,Liquidificador,Eletro,189.90,2,189.90,
+333,1,2026-03-05,app,entregue,1,Cliente 001,Campinas,SP,16,Mochila,Papelaria,159.00,1,143.10,
+334,1,2026-03-06,site,entregue,117,Cliente 117,Curitiba,PR,16,Mochila,Papelaria,159.00,2,159.00,31.80
+334,2,2026-03-06,site,entregue,117,Cliente 117,Curitiba,PR,27,Hidratante,Beleza,44.90,1,44.90,
+335,1,2026-03-06,site,entregue,26,Cliente 026,Campinas,SP,17,Calculadora,Papelaria,59.90,1,59.90,
+335,2,2026-03-06,site,entregue,26,Cliente 026,Campinas,SP,4,Cafeteira,Eletro,159.90,1,159.90,
+336,1,2026-03-06,app,entregue,24,Cliente 024,Campinas,SP,1,Liquidificador,Eletro,189.90,1,189.90,
+337,1,2026-03-06,site,entregue,54,Cliente 054,Jundiaí,SP,6,Sanduicheira,Eletro,99.90,1,99.90,
+337,2,2026-03-06,site,entregue,54,Cliente 054,Jundiaí,SP,24,Joelheira,Esporte,49.90,2,44.91,
+338,1,2026-03-06,site,entregue,44,Cliente 044,Sorocaba,SP,16,Mochila,Papelaria,159.00,2,159.00,
+339,1,2026-03-06,site,entregue,90,Cliente 090,Santos,SP,20,Garrafa térmica,Esporte,69.90,1,69.90,6.99
+340,1,2026-03-06,loja,entregue,37,Cliente 037,Sorocaba,SP,8,Panela,Casa,129.90,1,116.91,
+340,2,2026-03-06,loja,entregue,37,Cliente 037,Sorocaba,SP,22,Halter,Esporte,119.90,1,119.90,11.99
+340,3,2026-03-06,loja,entregue,37,Cliente 037,Sorocaba,SP,18,Marca-texto,Papelaria,12.90,2,12.90,
+341,1,2026-03-07,app,devolvido,109,Cliente 109,Bauru,SP,22,Halter,Esporte,119.90,1,107.91,
+341,2,2026-03-07,app,devolvido,109,Cliente 109,Bauru,SP,5,Aspirador,Eletro,349.00,1,349.00,
+342,1,2026-03-07,site,devolvido,37,Cliente 037,Sorocaba,SP,16,Mochila,Papelaria,159.00,1,143.10,14.31
+343,1,2026-03-07,site,cancelado,1,Cliente 001,Campinas,SP,4,Cafeteira,Eletro,159.90,1,159.90,0.00
+343,2,2026-03-07,site,cancelado,1,Cliente 001,Campinas,SP,7,Jogo de toalhas,Casa,89.90,1,89.90,
+344,1,2026-03-07,app,entregue,30,Cliente 030,Campinas,SP,28,Protetor solar,Beleza,59.90,1,59.90,
+344,2,2026-03-07,app,entregue,30,Cliente 030,Campinas,SP,3,Batedeira,Eletro,279.00,1,279.00,
+344,3,2026-03-07,app,entregue,30,Cliente 030,Campinas,SP,11,Organizador,Casa,39.90,1,35.91,
+344,4,2026-03-07,app,entregue,30,Cliente 030,Campinas,SP,3,Batedeira,Eletro,279.00,1,279.00,
+345,1,2026-03-08,site,entregue,76,Cliente 076,Ribeirão Preto,SP,21,Tapete de yoga,Esporte,99.00,3,99.00,
+346,1,2026-03-08,app,entregue,42,Cliente 042,Sorocaba,SP,13,Caderno,Papelaria,24.90,1,24.90,
+346,2,2026-03-08,app,entregue,42,Cliente 042,Sorocaba,SP,5,Aspirador,Eletro,349.00,1,349.00,
+346,3,2026-03-08,app,entregue,42,Cliente 042,Sorocaba,SP,26,Escova,Beleza,34.90,1,34.90,3.49
+346,4,2026-03-08,app,entregue,42,Cliente 042,Sorocaba,SP,26,Escova,Beleza,34.90,1,34.90,0.00
+347,1,2026-03-08,app,entregue,43,Cliente 043,Sorocaba,SP,29,Perfume,Beleza,189.00,1,170.10,
+347,2,2026-03-08,app,entregue,43,Cliente 043,Sorocaba,SP,22,Halter,Esporte,119.90,1,119.90,11.99
+348,1,2026-03-08,site,entregue,19,Cliente 019,Campinas,SP,21,Tapete de yoga,Esporte,99.00,3,99.00,
+348,2,2026-03-08,site,entregue,19,Cliente 019,Campinas,SP,8,Panela,Casa,129.90,1,129.90,
+349,1,2026-03-08,app,entregue,78,Cliente 078,Ribeirão Preto,SP,10,Luminária,Casa,119.00,1,119.00,
+349,2,2026-03-08,app,entregue,78,Cliente 078,Ribeirão Preto,SP,23,Corda de pular,Esporte,29.90,3,26.91,
+350,1,2026-03-09,loja,entregue,84,Cliente 084,Ribeirão Preto,SP,4,Cafeteira,Eletro,159.90,2,159.90,31.98
+350,2,2026-03-09,loja,entregue,84,Cliente 084,Ribeirão Preto,SP,2,Ventilador,Eletro,239.90,2,239.90,47.98
+351,1,2026-03-09,site,entregue,47,Cliente 047,Sorocaba,SP,12,Cortina,Casa,149.90,2,149.90,0.00
+352,1,2026-03-09,app,entregue,114,Cliente 114,Curitiba,PR,4,Cafeteira,Eletro,159.90,1,159.90,
+352,2,2026-03-09,app,entregue,114,Cliente 114,Curitiba,PR,1,Liquidificador,Eletro,189.90,2,189.90,37.98
+353,1,2026-03-09,site,entregue,51,Cliente 051,Jundiaí,SP,12,Cortina,Casa,149.90,1,149.90,
+354,1,2026-03-09,app,entregue,44,Cliente 044,Sorocaba,SP,16,Mochila,Papelaria,159.00,1,143.10,14.31
+354,2,2026-03-09,app,entregue,44,Cliente 044,Sorocaba,SP,15,Estojo,Papelaria,19.90,1,19.90,
+354,3,2026-03-09,app,entregue,44,Cliente 044,Sorocaba,SP,23,Corda de pular,Esporte,29.90,1,29.90,
+354,4,2026-03-09,app,entregue,44,Cliente 044,Sorocaba,SP,7,Jogo de toalhas,Casa,89.90,1,89.90,0.00
+355,1,2026-03-09,site,cancelado,68,Cliente 068,Piracicaba,SP,16,Mochila,Papelaria,159.00,1,159.00,0.00
+356,1,2026-03-10,loja,entregue,105,Cliente 105,Limeira,SP,19,Bola,Esporte,79.90,1,79.90,
+357,1,2026-03-10,site,entregue,74,Cliente 074,Piracicaba,SP,6,Sanduicheira,Eletro,99.90,1,99.90,
+358,1,2026-03-10,loja,entregue,109,Cliente 109,Bauru,SP,13,Caderno,Papelaria,24.90,1,24.90,
+359,1,2026-03-10,site,entregue,91,Cliente 091,Santos,SP,22,Halter,Esporte,119.90,2,119.90,
+359,2,2026-03-10,site,entregue,91,Cliente 091,Santos,SP,4,Cafeteira,Eletro,159.90,1,159.90,
+360,1,2026-03-10,site,entregue,57,Cliente 057,Jundiaí,SP,5,Aspirador,Eletro,349.00,1,349.00,34.90
+361,1,2026-03-10,loja,entregue,35,Cliente 035,Sorocaba,SP,16,Mochila,Papelaria,159.00,1,143.10,
+361,2,2026-03-10,loja,entregue,35,Cliente 035,Sorocaba,SP,15,Estojo,Papelaria,19.90,1,19.90,
+362,1,2026-03-10,app,entregue,47,Cliente 047,Sorocaba,SP,22,Halter,Esporte,119.90,2,119.90,
+362,2,2026-03-10,app,entregue,47,Cliente 047,Sorocaba,SP,9,Jogo de copos,Casa,49.90,1,44.91,
+363,1,2026-03-11,site,entregue,86,Cliente 086,Ribeirão Preto,SP,14,Agenda,Papelaria,39.90,1,35.91,
+363,2,2026-03-11,site,entregue,86,Cliente 086,Ribeirão Preto,SP,27,Hidratante,Beleza,44.90,1,44.90,0.00
+364,1,2026-03-11,app,entregue,87,Cliente 087,Ribeirão Preto,SP,15,Estojo,Papelaria,19.90,1,17.91,
+364,2,2026-03-11,app,entregue,87,Cliente 087,Ribeirão Preto,SP,13,Caderno,Papelaria,24.90,1,24.90,
+365,1,2026-03-11,site,entregue,103,Cliente 103,Limeira,SP,3,Batedeira,Eletro,279.00,1,279.00,
+366,1,2026-03-11,site,entregue,1,Cliente 001,Campinas,SP,3,Batedeira,Eletro,279.00,1,279.00,
+366,2,2026-03-11,site,entregue,1,Cliente 001,Campinas,SP,21,Tapete de yoga,Esporte,99.00,2,89.10,
+367,1,2026-03-11,app,entregue,117,Cliente 117,Curitiba,PR,7,Jogo de toalhas,Casa,89.90,1,89.90,
+367,2,2026-03-11,app,entregue,117,Cliente 117,Curitiba,PR,30,Chapinha,Beleza,169.00,2,169.00,33.80
+367,3,2026-03-11,app,entregue,117,Cliente 117,Curitiba,PR,16,Mochila,Papelaria,159.00,1,159.00,
+368,1,2026-03-11,site,entregue,102,Cliente 102,Limeira,SP,19,Bola,Esporte,79.90,1,79.90,
+369,1,2026-03-11,site,entregue,70,Cliente 070,Piracicaba,SP,9,Jogo de copos,Casa,49.90,1,49.90,
+369,2,2026-03-11,site,entregue,70,Cliente 070,Piracicaba,SP,22,Halter,Esporte,119.90,1,119.90,
+369,3,2026-03-11,site,entregue,70,Cliente 070,Piracicaba,SP,13,Caderno,Papelaria,24.90,1,24.90,
+370,1,2026-03-11,app,entregue,113,Cliente 113,Curitiba,PR,26,Escova,Beleza,34.90,1,34.90,
+371,1,2026-03-11,site,entregue,68,Cliente 068,Piracicaba,SP,26,Escova,Beleza,34.90,1,34.90,
+371,2,2026-03-11,site,entregue,68,Cliente 068,Piracicaba,SP,22,Halter,Esporte,119.90,1,119.90,11.99
+372,1,2026-03-11,site,entregue,48,Cliente 048,Sorocaba,SP,23,Corda de pular,Esporte,29.90,2,29.90,
+372,2,2026-03-11,site,entregue,48,Cliente 048,Sorocaba,SP,22,Halter,Esporte,119.90,1,119.90,11.99
+372,3,2026-03-11,site,entregue,48,Cliente 048,Sorocaba,SP,18,Marca-texto,Papelaria,12.90,1,12.90,
+372,4,2026-03-11,site,entregue,48,Cliente 048,Sorocaba,SP,20,Garrafa térmica,Esporte,69.90,1,69.90,
+373,1,2026-03-11,site,devolvido,44,Cliente 044,Sorocaba,SP,3,Batedeira,Eletro,279.00,1,279.00,
+373,2,2026-03-11,site,devolvido,44,Cliente 044,Sorocaba,SP,22,Halter,Esporte,119.90,2,119.90,
+373,3,2026-03-11,site,devolvido,44,Cliente 044,Sorocaba,SP,3,Batedeira,Eletro,279.00,1,279.00,27.90
+374,1,2026-03-12,site,entregue,106,Cliente 106,Limeira,SP,27,Hidratante,Beleza,44.90,1,44.90,
+375,1,2026-03-12,site,cancelado,34,Cliente 034,Sorocaba,SP,19,Bola,Esporte,79.90,1,79.90,
+376,1,2026-03-12,app,entregue,62,Cliente 062,Jundiaí,SP,18,Marca-texto,Papelaria,12.90,2,12.90,
+377,1,2026-03-12,loja,entregue,40,Cliente 040,Sorocaba,SP,9,Jogo de copos,Casa,49.90,1,49.90,
+377,2,2026-03-12,loja,entregue,40,Cliente 040,Sorocaba,SP,13,Caderno,Papelaria,24.90,1,24.90,
+377,3,2026-03-12,loja,entregue,40,Cliente 040,Sorocaba,SP,22,Halter,Esporte,119.90,1,119.90,
+378,1,2026-03-13,site,entregue,23,Cliente 023,Campinas,SP,4,Cafeteira,Eletro,159.90,1,143.91,
+378,2,2026-03-13,site,entregue,23,Cliente 023,Campinas,SP,23,Corda de pular,Esporte,29.90,1,29.90,
+379,1,2026-03-13,app,entregue,20,Cliente 020,Campinas,SP,18,Marca-texto,Papelaria,12.90,1,12.90,
+379,2,2026-03-13,app,entregue,20,Cliente 020,Campinas,SP,29,Perfume,Beleza,189.00,1,170.10,
+380,1,2026-03-13,site,entregue,95,Cliente 095,Santos,SP,12,Cortina,Casa,149.90,1,149.90,14.99
+380,2,2026-03-13,site,entregue,95,Cliente 095,Santos,SP,17,Calculadora,Papelaria,59.90,1,59.90,
+381,1,2026-03-13,site,devolvido,114,Cliente 114,Curitiba,PR,19,Bola,Esporte,79.90,1,79.90,
+381,2,2026-03-13,site,devolvido,114,Cliente 114,Curitiba,PR,22,Halter,Esporte,119.90,1,119.90,0.00
+381,3,2026-03-13,site,devolvido,114,Cliente 114,Curitiba,PR,21,Tapete de yoga,Esporte,99.00,1,99.00,0.00
+381,4,2026-03-13,site,devolvido,114,Cliente 114,Curitiba,PR,21,Tapete de yoga,Esporte,99.00,1,99.00,
+382,1,2026-03-14,app,entregue,13,Cliente 013,Campinas,SP,22,Halter,Esporte,119.90,1,119.90,
+383,1,2026-03-14,app,entregue,77,Cliente 077,Ribeirão Preto,SP,1,Liquidificador,Eletro,189.90,2,170.91,
+383,2,2026-03-14,app,entregue,77,Cliente 077,Ribeirão Preto,SP,15,Estojo,Papelaria,19.90,1,19.90,
+383,3,2026-03-14,app,entregue,77,Cliente 077,Ribeirão Preto,SP,16,Mochila,Papelaria,159.00,2,159.00,
+384,1,2026-03-14,loja,entregue,59,Cliente 059,Jundiaí,SP,9,Jogo de copos,Casa,49.90,3,49.90,
+385,1,2026-03-14,site,entregue,95,Cliente 095,Santos,SP,27,Hidratante,Beleza,44.90,1,40.41,4.04
+385,2,2026-03-14,site,entregue,95,Cliente 095,Santos,SP,14,Agenda,Papelaria,39.90,1,39.90,
+386,1,2026-03-14,site,entregue,19,Cliente 019,Campinas,SP,5,Aspirador,Eletro,349.00,1,349.00,
+387,1,2026-03-15,app,entregue,31,Cliente 031,Sorocaba,SP,30,Chapinha,Beleza,169.00,1,169.00,0.00
+388,1,2026-03-15,site,entregue,26,Cliente 026,Campinas,SP,15,Estojo,Papelaria,19.90,1,19.90,
+389,1,2026-03-15,site,entregue,22,Cliente 022,Campinas,SP,12,Cortina,Casa,149.90,1,149.90,
+389,2,2026-03-15,site,entregue,22,Cliente 022,Campinas,SP,8,Panela,Casa,129.90,1,129.90,
+389,3,2026-03-15,site,entregue,22,Cliente 022,Campinas,SP,14,Agenda,Papelaria,39.90,1,39.90,0.00
+389,4,2026-03-15,site,entregue,22,Cliente 022,Campinas,SP,30,Chapinha,Beleza,169.00,1,169.00,
+390,1,2026-03-16,app,cancelado,17,Cliente 017,Campinas,SP,15,Estojo,Papelaria,19.90,1,19.90,
+390,2,2026-03-16,app,cancelado,17,Cliente 017,Campinas,SP,19,Bola,Esporte,79.90,2,79.90,
+390,3,2026-03-16,app,cancelado,17,Cliente 017,Campinas,SP,25,Secador,Beleza,199.00,1,199.00,0.00
+391,1,2026-03-16,loja,entregue,104,Cliente 104,Limeira,SP,16,Mochila,Papelaria,159.00,2,159.00,31.80
+392,1,2026-03-16,app,entregue,95,Cliente 095,Santos,SP,13,Caderno,Papelaria,24.90,1,24.90,
+393,1,2026-03-16,site,entregue,28,Cliente 028,Campinas,SP,5,Aspirador,Eletro,349.00,1,349.00,
+393,2,2026-03-16,site,entregue,28,Cliente 028,Campinas,SP,2,Ventilador,Eletro,239.90,1,239.90,
+393,3,2026-03-16,site,entregue,28,Cliente 028,Campinas,SP,3,Batedeira,Eletro,279.00,3,279.00,
+393,4,2026-03-16,site,entregue,28,Cliente 028,Campinas,SP,17,Calculadora,Papelaria,59.90,1,53.91,
+394,1,2026-03-16,site,entregue,45,Cliente 045,Sorocaba,SP,29,Perfume,Beleza,189.00,1,189.00,
+395,1,2026-03-17,loja,entregue,40,Cliente 040,Sorocaba,SP,21,Tapete de yoga,Esporte,99.00,1,99.00,
+395,2,2026-03-17,loja,entregue,40,Cliente 040,Sorocaba,SP,23,Corda de pular,Esporte,29.90,1,29.90,
+396,1,2026-03-17,site,entregue,70,Cliente 070,Piracicaba,SP,25,Secador,Beleza,199.00,2,179.10,0.00
+397,1,2026-03-17,site,entregue,78,Cliente 078,Ribeirão Preto,SP,23,Corda de pular,Esporte,29.90,1,29.90,0.00
+398,1,2026-03-18,site,entregue,64,Cliente 064,Piracicaba,SP,22,Halter,Esporte,119.90,1,107.91,
+398,2,2026-03-18,site,entregue,64,Cliente 064,Piracicaba,SP,7,Jogo de toalhas,Casa,89.90,2,89.90,0.00
+398,3,2026-03-18,site,entregue,64,Cliente 064,Piracicaba,SP,26,Escova,Beleza,34.90,2,34.90,
+398,4,2026-03-18,site,entregue,64,Cliente 064,Piracicaba,SP,12,Cortina,Casa,149.90,1,149.90,
+399,1,2026-03-18,site,entregue,100,Cliente 100,Limeira,SP,6,Sanduicheira,Eletro,99.90,2,99.90,19.98
+399,2,2026-03-18,site,entregue,100,Cliente 100,Limeira,SP,27,Hidratante,Beleza,44.90,2,44.90,
+400,1,2026-03-18,app,entregue,24,Cliente 024,Campinas,SP,16,Mochila,Papelaria,159.00,1,159.00,
+400,2,2026-03-18,app,entregue,24,Cliente 024,Campinas,SP,20,Garrafa térmica,Esporte,69.90,2,69.90,
+401,1,2026-03-19,site,entregue,104,Cliente 104,Limeira,SP,12,Cortina,Casa,149.90,1,134.91,
+402,1,2026-03-19,app,entregue,86,Cliente 086,Ribeirão Preto,SP,18,Marca-texto,Papelaria,12.90,1,12.90,
+403,1,2026-03-19,loja,entregue,64,Cliente 064,Piracicaba,SP,12,Cortina,Casa,149.90,1,149.90,0.00
+403,2,2026-03-19,loja,entregue,64,Cliente 064,Piracicaba,SP,17,Calculadora,Papelaria,59.90,1,59.90,
+403,3,2026-03-19,loja,entregue,64,Cliente 064,Piracicaba,SP,22,Halter,Esporte,119.90,1,119.90,
+403,4,2026-03-19,loja,entregue,64,Cliente 064,Piracicaba,SP,8,Panela,Casa,129.90,1,129.90,0.00
+404,1,2026-03-19,app,devolvido,118,Cliente 118,Curitiba,PR,9,Jogo de copos,Casa,49.90,1,49.90,
+404,2,2026-03-19,app,entregue,118,Cliente 118,Curitiba,PR,30,Chapinha,Beleza,169.00,2,169.00,
+404,3,2026-03-19,app,entregue,118,Cliente 118,Curitiba,PR,6,Sanduicheira,Eletro,99.90,2,99.90,
+405,1,2026-03-19,app,entregue,117,Cliente 117,Curitiba,PR,1,Liquidificador,Eletro,189.90,1,189.90,
+405,2,2026-03-19,app,entregue,117,Cliente 117,Curitiba,PR,30,Chapinha,Beleza,169.00,2,169.00,
+405,3,2026-03-19,app,entregue,117,Cliente 117,Curitiba,PR,9,Jogo de copos,Casa,49.90,2,49.90,
+406,1,2026-03-19,loja,entregue,26,Cliente 026,Campinas,SP,15,Estojo,Papelaria,19.90,1,19.90,
+406,2,2026-03-19,loja,entregue,26,Cliente 026,Campinas,SP,26,Escova,Beleza,34.90,1,31.41,
+407,1,2026-03-19,loja,entregue,69,Cliente 069,Piracicaba,SP,20,Garrafa térmica,Esporte,69.90,2,69.90,0.00
+407,2,2026-03-19,loja,entregue,69,Cliente 069,Piracicaba,SP,11,Organizador,Casa,39.90,1,39.90,
+408,1,2026-03-19,site,entregue,72,Cliente 072,Piracicaba,SP,5,Aspirador,Eletro,349.00,1,349.00,
+409,1,2026-03-20,site,entregue,95,Cliente 095,Santos,SP,10,Luminária,Casa,119.00,1,119.00,11.90
+410,1,2026-03-20,site,entregue,101,Cliente 101,Limeira,SP,2,Ventilador,Eletro,239.90,1,239.90,
+411,1,2026-03-20,loja,devolvido,38,Cliente 038,Sorocaba,SP,4,Cafeteira,Eletro,159.90,2,159.90,
+412,1,2026-03-21,site,entregue,43,Cliente 043,Sorocaba,SP,26,Escova,Beleza,34.90,1,34.90,
+413,1,2026-03-21,app,entregue,61,Cliente 061,Jundiaí,SP,24,Joelheira,Esporte,49.90,1,49.90,0.00
+414,1,2026-03-21,loja,entregue,68,Cliente 068,Piracicaba,SP,13,Caderno,Papelaria,24.90,1,24.90,
+414,2,2026-03-21,loja,entregue,68,Cliente 068,Piracicaba,SP,8,Panela,Casa,129.90,1,129.90,
+414,3,2026-03-21,loja,entregue,68,Cliente 068,Piracicaba,SP,4,Cafeteira,Eletro,159.90,1,159.90,15.99
+415,1,2026-03-21,site,entregue,60,Cliente 060,Jundiaí,SP,21,Tapete de yoga,Esporte,99.00,1,99.00,
+415,2,2026-03-21,site,entregue,60,Cliente 060,Jundiaí,SP,9,Jogo de copos,Casa,49.90,1,49.90,
+416,1,2026-03-21,site,entregue,68,Cliente 068,Piracicaba,SP,25,Secador,Beleza,199.00,1,179.10,
+417,1,2026-03-21,app,entregue,78,Cliente 078,Ribeirão Preto,SP,1,Liquidificador,Eletro,189.90,1,189.90,
+418,1,2026-03-22,site,entregue,90,Cliente 090,Santos,SP,19,Bola,Esporte,79.90,1,71.91,0.00
+419,1,2026-03-22,app,entregue,1,Cliente 001,Campinas,SP,28,Protetor solar,Beleza,59.90,1,59.90,
+419,2,2026-03-22,app,entregue,1,Cliente 001,Campinas,SP,5,Aspirador,Eletro,349.00,1,349.00,
+420,1,2026-03-22,app,devolvido,95,Cliente 095,Santos,SP,6,Sanduicheira,Eletro,99.90,1,99.90,
+421,1,2026-03-22,site,entregue,50,Cliente 050,Jundiaí,SP,6,Sanduicheira,Eletro,99.90,3,99.90,29.97
+422,1,2026-03-22,app,entregue,8,Cliente 008,Campinas,SP,19,Bola,Esporte,79.90,2,79.90,15.98
+423,1,2026-03-22,loja,entregue,74,Cliente 074,Piracicaba,SP,26,Escova,Beleza,34.90,1,34.90,
+423,2,2026-03-22,loja,entregue,74,Cliente 074,Piracicaba,SP,28,Protetor solar,Beleza,59.90,2,59.90,
+423,3,2026-03-22,loja,entregue,74,Cliente 074,Piracicaba,SP,1,Liquidificador,Eletro,189.90,1,189.90,
+424,1,2026-03-23,loja,entregue,86,Cliente 086,Ribeirão Preto,SP,21,Tapete de yoga,Esporte,99.00,2,99.00,0.00
+424,2,2026-03-23,loja,entregue,86,Cliente 086,Ribeirão Preto,SP,6,Sanduicheira,Eletro,99.90,2,99.90,0.00
+425,1,2026-03-23,app,entregue,44,Cliente 044,Sorocaba,SP,24,Joelheira,Esporte,49.90,1,49.90,
+425,2,2026-03-23,app,entregue,44,Cliente 044,Sorocaba,SP,23,Corda de pular,Esporte,29.90,1,29.90,
+425,3,2026-03-23,app,entregue,44,Cliente 044,Sorocaba,SP,26,Escova,Beleza,34.90,1,34.90,
+425,4,2026-03-23,app,entregue,44,Cliente 044,Sorocaba,SP,28,Protetor solar,Beleza,59.90,1,59.90,5.99
+426,1,2026-03-23,loja,entregue,57,Cliente 057,Jundiaí,SP,17,Calculadora,Papelaria,59.90,1,59.90,5.99
+427,1,2026-03-23,site,entregue,2,Cliente 002,Campinas,SP,3,Batedeira,Eletro,279.00,1,279.00,
+427,2,2026-03-23,site,entregue,2,Cliente 002,Campinas,SP,29,Perfume,Beleza,189.00,1,189.00,
+428,1,2026-03-23,app,entregue,78,Cliente 078,Ribeirão Preto,SP,22,Halter,Esporte,119.90,1,119.90,
+428,2,2026-03-23,app,entregue,78,Cliente 078,Ribeirão Preto,SP,30,Chapinha,Beleza,169.00,1,169.00,
+428,3,2026-03-23,app,entregue,78,Cliente 078,Ribeirão Preto,SP,19,Bola,Esporte,79.90,2,79.90,
+429,1,2026-03-24,app,entregue,93,Cliente 093,Santos,SP,7,Jogo de toalhas,Casa,89.90,1,89.90,
+430,1,2026-03-24,loja,entregue,2,Cliente 002,Campinas,SP,18,Marca-texto,Papelaria,12.90,1,12.90,
+430,2,2026-03-24,loja,entregue,2,Cliente 002,Campinas,SP,19,Bola,Esporte,79.90,2,79.90,0.00
+430,3,2026-03-24,loja,entregue,2,Cliente 002,Campinas,SP,9,Jogo de copos,Casa,49.90,1,49.90,
+431,1,2026-03-24,site,entregue,1,Cliente 001,Campinas,SP,5,Aspirador,Eletro,349.00,1,349.00,
+431,2,2026-03-24,site,entregue,1,Cliente 001,Campinas,SP,8,Panela,Casa,129.90,1,116.91,0.00
+431,3,2026-03-24,site,entregue,1,Cliente 001,Campinas,SP,30,Chapinha,Beleza,169.00,1,169.00,0.00
+431,4,2026-03-24,site,entregue,1,Cliente 001,Campinas,SP,25,Secador,Beleza,199.00,1,199.00,
+432,1,2026-03-24,app,entregue,113,Cliente 113,Curitiba,PR,21,Tapete de yoga,Esporte,99.00,2,99.00,
+432,2,2026-03-24,app,entregue,113,Cliente 113,Curitiba,PR,26,Escova,Beleza,34.90,1,34.90,
+432,3,2026-03-24,app,entregue,113,Cliente 113,Curitiba,PR,3,Batedeira,Eletro,279.00,1,279.00,
+432,4,2026-03-24,app,entregue,113,Cliente 113,Curitiba,PR,27,Hidratante,Beleza,44.90,2,44.90,
+433,1,2026-03-24,site,entregue,77,Cliente 077,Ribeirão Preto,SP,3,Batedeira,Eletro,279.00,1,279.00,
+434,1,2026-03-24,site,entregue,94,Cliente 094,Santos,SP,26,Escova,Beleza,34.90,2,34.90,0.00
+435,1,2026-03-25,site,entregue,50,Cliente 050,Jundiaí,SP,27,Hidratante,Beleza,44.90,2,44.90,
+436,1,2026-03-25,app,devolvido,71,Cliente 071,Piracicaba,SP,22,Halter,Esporte,119.90,1,107.91,0.00
+437,1,2026-03-25,site,entregue,33,Cliente 033,Sorocaba,SP,1,Liquidificador,Eletro,189.90,2,170.91,
+438,1,2026-03-26,app,entregue,3,Cliente 003,Campinas,SP,9,Jogo de copos,Casa,49.90,2,49.90,
+439,1,2026-03-26,loja,entregue,18,Cliente 018,Campinas,SP,18,Marca-texto,Papelaria,12.90,1,12.90,1.29
+440,1,2026-03-26,site,entregue,72,Cliente 072,Piracicaba,SP,12,Cortina,Casa,149.90,2,149.90,
+440,2,2026-03-26,site,entregue,72,Cliente 072,Piracicaba,SP,11,Organizador,Casa,39.90,1,35.91,
+440,3,2026-03-26,site,entregue,72,Cliente 072,Piracicaba,SP,30,Chapinha,Beleza,169.00,1,169.00,16.90
+441,1,2026-03-26,site,entregue,114,Cliente 114,Curitiba,PR,17,Calculadora,Papelaria,59.90,1,59.90,
+442,1,2026-03-26,loja,cancelado,114,Cliente 114,Curitiba,PR,6,Sanduicheira,Eletro,99.90,1,99.90,
+443,1,2026-03-27,app,devolvido,73,Cliente 073,Piracicaba,SP,27,Hidratante,Beleza,44.90,1,44.90,
+444,1,2026-03-27,site,entregue,2,Cliente 002,Campinas,SP,22,Halter,Esporte,119.90,1,119.90,0.00
+445,1,2026-03-27,app,cancelado,44,Cliente 044,Sorocaba,SP,24,Joelheira,Esporte,49.90,1,49.90,0.00
+446,1,2026-03-28,app,entregue,116,Cliente 116,Curitiba,PR,6,Sanduicheira,Eletro,99.90,1,99.90,
+447,1,2026-03-29,loja,entregue,98,Cliente 098,Santos,SP,27,Hidratante,Beleza,44.90,1,44.90,
+447,2,2026-03-29,loja,entregue,98,Cliente 098,Santos,SP,19,Bola,Esporte,79.90,1,79.90,0.00
+447,3,2026-03-29,loja,entregue,98,Cliente 098,Santos,SP,20,Garrafa térmica,Esporte,69.90,1,69.90,
+447,4,2026-03-29,loja,entregue,98,Cliente 098,Santos,SP,23,Corda de pular,Esporte,29.90,1,29.90,
+448,1,2026-03-30,app,entregue,18,Cliente 018,Campinas,SP,29,Perfume,Beleza,189.00,3,170.10,
+449,1,2026-03-30,site,entregue,92,Cliente 092,Santos,SP,25,Secador,Beleza,199.00,2,199.00,0.00
+449,2,2026-03-30,site,entregue,92,Cliente 092,Santos,SP,29,Perfume,Beleza,189.00,1,189.00,
+449,3,2026-03-30,site,entregue,92,Cliente 092,Santos,SP,1,Liquidificador,Eletro,189.90,1,189.90,
+450,1,2026-03-30,site,entregue,5,Cliente 005,Campinas,SP,2,Ventilador,Eletro,239.90,3,239.90,
+450,2,2026-03-30,site,entregue,5,Cliente 005,Campinas,SP,15,Estojo,Papelaria,19.90,1,17.91,1.79
+450,3,2026-03-30,site,entregue,5,Cliente 005,Campinas,SP,5,Aspirador,Eletro,349.00,1,349.00,34.90
+451,1,2026-03-30,app,entregue,26,Cliente 026,Campinas,SP,9,Jogo de copos,Casa,49.90,1,49.90,
+451,2,2026-03-30,app,entregue,26,Cliente 026,Campinas,SP,27,Hidratante,Beleza,44.90,1,40.41,
+451,3,2026-03-30,app,entregue,26,Cliente 026,Campinas,SP,27,Hidratante,Beleza,44.90,1,44.90,4.49
+452,1,2026-03-30,loja,entregue,24,Cliente 024,Campinas,SP,23,Corda de pular,Esporte,29.90,1,29.90,
+452,2,2026-03-30,loja,entregue,24,Cliente 024,Campinas,SP,29,Perfume,Beleza,189.00,1,170.10,
+453,1,2026-03-30,site,entregue,43,Cliente 043,Sorocaba,SP,16,Mochila,Papelaria,159.00,3,159.00,47.70
+454,1,2026-03-30,site,entregue,63,Cliente 063,Jundiaí,SP,6,Sanduicheira,Eletro,99.90,1,99.90,9.99
+454,2,2026-03-30,site,entregue,63,Cliente 063,Jundiaí,SP,7,Jogo de toalhas,Casa,89.90,1,89.90,0.00
+455,1,2026-03-30,app,entregue,3,Cliente 003,Campinas,SP,11,Organizador,Casa,39.90,1,35.91,
+455,2,2026-03-30,app,entregue,3,Cliente 003,Campinas,SP,26,Escova,Beleza,34.90,1,34.90,
+455,3,2026-03-30,app,entregue,3,Cliente 003,Campinas,SP,30,Chapinha,Beleza,169.00,1,169.00,
+455,4,2026-03-30,app,entregue,3,Cliente 003,Campinas,SP,21,Tapete de yoga,Esporte,99.00,1,99.00,
+456,1,2026-03-31,app,entregue,1,Cliente 001,Campinas,SP,19,Bola,Esporte,79.90,1,79.90,
+457,1,2026-03-31,loja,entregue,119,Cliente 119,Curitiba,PR,17,Calculadora,Papelaria,59.90,1,59.90,5.99
+458,1,2026-03-31,app,entregue,68,Cliente 068,Piracicaba,SP,13,Caderno,Papelaria,24.90,1,24.90,
+459,1,2026-03-31,site,entregue,2,Cliente 002,Campinas,SP,4,Cafeteira,Eletro,159.90,1,159.90,
+460,1,2026-03-31,site,entregue,24,Cliente 024,Campinas,SP,2,Ventilador,Eletro,239.90,1,239.90,
+461,1,2026-03-31,site,devolvido,94,Cliente 094,Santos,SP,3,Batedeira,Eletro,279.00,1,279.00,
+461,2,2026-03-31,site,devolvido,94,Cliente 094,Santos,SP,17,Calculadora,Papelaria,59.90,1,59.90,
+462,1,2026-03-31,app,entregue,34,Cliente 034,Sorocaba,SP,16,Mochila,Papelaria,159.00,1,159.00,
+462,2,2026-03-31,app,entregue,34,Cliente 034,Sorocaba,SP,7,Jogo de toalhas,Casa,89.90,1,89.90,
+463,1,2026-03-31,site,cancelado,94,Cliente 094,Santos,SP,12,Cortina,Casa,149.90,1,149.90,
+463,2,2026-03-31,site,cancelado,94,Cliente 094,Santos,SP,25,Secador,Beleza,199.00,1,179.10,
+464,1,2026-04-01,app,entregue,102,Cliente 102,Limeira,SP,28,Protetor solar,Beleza,59.90,2,59.90,
+465,1,2026-04-01,site,entregue,102,Cliente 102,Limeira,SP,1,Liquidificador,Eletro,189.90,1,189.90,
+465,2,2026-04-01,site,entregue,102,Cliente 102,Limeira,SP,30,Chapinha,Beleza,169.00,1,169.00,16.90
+465,3,2026-04-01,site,entregue,102,Cliente 102,Limeira,SP,18,Marca-texto,Papelaria,12.90,1,12.90,
+466,1,2026-04-01,site,cancelado,54,Cliente 054,Jundiaí,SP,4,Cafeteira,Eletro,159.90,1,159.90,
+466,2,2026-04-01,site,cancelado,54,Cliente 054,Jundiaí,SP,11,Organizador,Casa,39.90,2,35.91,7.18
+467,1,2026-04-01,site,entregue,86,Cliente 086,Ribeirão Preto,SP,2,Ventilador,Eletro,239.90,1,215.91,
+467,2,2026-04-01,site,entregue,86,Cliente 086,Ribeirão Preto,SP,18,Marca-texto,Papelaria,12.90,1,12.90,
+467,3,2026-04-01,site,entregue,86,Cliente 086,Ribeirão Preto,SP,16,Mochila,Papelaria,159.00,1,143.10,0.00
+467,4,2026-04-01,site,entregue,86,Cliente 086,Ribeirão Preto,SP,8,Panela,Casa,129.90,1,129.90,
+468,1,2026-04-01,site,entregue,53,Cliente 053,Jundiaí,SP,11,Organizador,Casa,39.90,1,39.90,
+468,2,2026-04-01,site,entregue,53,Cliente 053,Jundiaí,SP,16,Mochila,Papelaria,159.00,1,159.00,
+469,1,2026-04-02,loja,entregue,103,Cliente 103,Limeira,SP,11,Organizador,Casa,39.90,1,39.90,
+470,1,2026-04-02,loja,entregue,22,Cliente 022,Campinas,SP,2,Ventilador,Eletro,239.90,1,239.90,
+471,1,2026-04-02,site,entregue,57,Cliente 057,Jundiaí,SP,17,Calculadora,Papelaria,59.90,1,59.90,
+471,2,2026-04-02,site,entregue,57,Cliente 057,Jundiaí,SP,2,Ventilador,Eletro,239.90,3,239.90,
+472,1,2026-04-02,site,entregue,34,Cliente 034,Sorocaba,SP,1,Liquidificador,Eletro,189.90,1,189.90,
+473,1,2026-04-02,loja,entregue,35,Cliente 035,Sorocaba,SP,16,Mochila,Papelaria,159.00,1,159.00,
+474,1,2026-04-03,site,entregue,103,Cliente 103,Limeira,SP,5,Aspirador,Eletro,349.00,1,349.00,
+475,1,2026-04-03,loja,entregue,22,Cliente 022,Campinas,SP,2,Ventilador,Eletro,239.90,1,239.90,
+476,1,2026-04-03,app,devolvido,24,Cliente 024,Campinas,SP,15,Estojo,Papelaria,19.90,2,19.90,
+477,1,2026-04-03,loja,entregue,70,Cliente 070,Piracicaba,SP,2,Ventilador,Eletro,239.90,1,215.91,
+477,2,2026-04-03,loja,entregue,70,Cliente 070,Piracicaba,SP,11,Organizador,Casa,39.90,1,35.91,
+477,3,2026-04-03,loja,entregue,70,Cliente 070,Piracicaba,SP,27,Hidratante,Beleza,44.90,1,44.90,
+478,1,2026-04-03,app,entregue,33,Cliente 033,Sorocaba,SP,12,Cortina,Casa,149.90,2,149.90,
+479,1,2026-04-03,app,entregue,8,Cliente 008,Campinas,SP,15,Estojo,Papelaria,19.90,1,19.90,
+479,2,2026-04-03,app,entregue,8,Cliente 008,Campinas,SP,15,Estojo,Papelaria,19.90,2,19.90,3.98
+480,1,2026-04-04,app,entregue,64,Cliente 064,Piracicaba,SP,11,Organizador,Casa,39.90,1,39.90,
+480,2,2026-04-04,app,entregue,64,Cliente 064,Piracicaba,SP,15,Estojo,Papelaria,19.90,1,19.90,
+481,1,2026-04-04,app,entregue,85,Cliente 085,Ribeirão Preto,SP,4,Cafeteira,Eletro,159.90,1,159.90,
+481,2,2026-04-04,app,entregue,85,Cliente 085,Ribeirão Preto,SP,18,Marca-texto,Papelaria,12.90,1,12.90,
+482,1,2026-04-04,site,entregue,57,Cliente 057,Jundiaí,SP,10,Luminária,Casa,119.00,1,119.00,0.00
+482,2,2026-04-04,site,entregue,57,Cliente 057,Jundiaí,SP,12,Cortina,Casa,149.90,1,149.90,14.99
+482,3,2026-04-04,site,entregue,57,Cliente 057,Jundiaí,SP,8,Panela,Casa,129.90,1,116.91,
+482,4,2026-04-04,site,entregue,57,Cliente 057,Jundiaí,SP,10,Luminária,Casa,119.00,3,119.00,35.70
+483,1,2026-04-04,app,entregue,62,Cliente 062,Jundiaí,SP,6,Sanduicheira,Eletro,99.90,1,99.90,9.99
+483,2,2026-04-04,app,entregue,62,Cliente 062,Jundiaí,SP,26,Escova,Beleza,34.90,2,34.90,
+483,3,2026-04-04,app,entregue,62,Cliente 062,Jundiaí,SP,10,Luminária,Casa,119.00,1,119.00,11.90
+483,4,2026-04-04,app,entregue,62,Cliente 062,Jundiaí,SP,18,Marca-texto,Papelaria,12.90,1,12.90,
+484,1,2026-04-04,loja,entregue,117,Cliente 117,Curitiba,PR,3,Batedeira,Eletro,279.00,1,279.00,0.00
+485,1,2026-04-04,site,entregue,19,Cliente 019,Campinas,SP,30,Chapinha,Beleza,169.00,1,169.00,
+486,1,2026-04-05,app,cancelado,27,Cliente 027,Campinas,SP,4,Cafeteira,Eletro,159.90,1,143.91,
+486,2,2026-04-05,app,cancelado,27,Cliente 027,Campinas,SP,30,Chapinha,Beleza,169.00,1,169.00,
+487,1,2026-04-05,app,entregue,102,Cliente 102,Limeira,SP,9,Jogo de copos,Casa,49.90,1,49.90,0.00
+488,1,2026-04-05,app,entregue,25,Cliente 025,Campinas,SP,7,Jogo de toalhas,Casa,89.90,2,89.90,
+489,1,2026-04-05,app,entregue,56,Cliente 056,Jundiaí,SP,30,Chapinha,Beleza,169.00,1,169.00,
+490,1,2026-04-05,app,cancelado,92,Cliente 092,Santos,SP,16,Mochila,Papelaria,159.00,2,159.00,
+491,1,2026-04-05,site,entregue,100,Cliente 100,Limeira,SP,14,Agenda,Papelaria,39.90,1,35.91,
+492,1,2026-04-05,loja,entregue,13,Cliente 013,Campinas,SP,25,Secador,Beleza,199.00,1,179.10,
+492,2,2026-04-05,loja,entregue,13,Cliente 013,Campinas,SP,29,Perfume,Beleza,189.00,1,189.00,18.90
+492,3,2026-04-05,loja,entregue,13,Cliente 013,Campinas,SP,18,Marca-texto,Papelaria,12.90,1,12.90,
+492,4,2026-04-05,loja,entregue,13,Cliente 013,Campinas,SP,13,Caderno,Papelaria,24.90,1,24.90,
+493,1,2026-04-06,site,entregue,61,Cliente 061,Jundiaí,SP,10,Luminária,Casa,119.00,1,107.10,
+493,2,2026-04-06,site,entregue,61,Cliente 061,Jundiaí,SP,17,Calculadora,Papelaria,59.90,2,59.90,
+493,3,2026-04-06,site,entregue,61,Cliente 061,Jundiaí,SP,16,Mochila,Papelaria,159.00,1,143.10,14.31
+493,4,2026-04-06,site,entregue,61,Cliente 061,Jundiaí,SP,16,Mochila,Papelaria,159.00,1,159.00,0.00
+494,1,2026-04-06,loja,entregue,99,Cliente 099,Santos,SP,2,Ventilador,Eletro,239.90,2,239.90,
+494,2,2026-04-06,loja,entregue,99,Cliente 099,Santos,SP,6,Sanduicheira,Eletro,99.90,1,99.90,
+494,3,2026-04-06,loja,entregue,99,Cliente 099,Santos,SP,4,Cafeteira,Eletro,159.90,2,159.90,
+494,4,2026-04-06,loja,entregue,99,Cliente 099,Santos,SP,12,Cortina,Casa,149.90,1,149.90,14.99
+495,1,2026-04-06,loja,entregue,119,Cliente 119,Curitiba,PR,26,Escova,Beleza,34.90,1,34.90,0.00
+495,2,2026-04-06,loja,entregue,119,Cliente 119,Curitiba,PR,10,Luminária,Casa,119.00,1,119.00,
+496,1,2026-04-07,site,entregue,47,Cliente 047,Sorocaba,SP,12,Cortina,Casa,149.90,2,149.90,
+497,1,2026-04-07,site,entregue,19,Cliente 019,Campinas,SP,8,Panela,Casa,129.90,1,129.90,
+498,1,2026-04-07,loja,cancelado,7,Cliente 007,Campinas,SP,5,Aspirador,Eletro,349.00,1,349.00,
+499,1,2026-04-07,site,entregue,48,Cliente 048,Sorocaba,SP,27,Hidratante,Beleza,44.90,1,44.90,
+500,1,2026-04-08,app,entregue,84,Cliente 084,Ribeirão Preto,SP,10,Luminária,Casa,119.00,1,119.00,
+501,1,2026-04-08,site,entregue,92,Cliente 092,Santos,SP,9,Jogo de copos,Casa,49.90,3,44.91,
+502,1,2026-04-09,loja,entregue,23,Cliente 023,Campinas,SP,16,Mochila,Papelaria,159.00,1,159.00,15.90
+502,2,2026-04-09,loja,entregue,23,Cliente 023,Campinas,SP,27,Hidratante,Beleza,44.90,1,44.90,
+502,3,2026-04-09,loja,entregue,23,Cliente 023,Campinas,SP,11,Organizador,Casa,39.90,1,35.91,
+503,1,2026-04-09,loja,entregue,37,Cliente 037,Sorocaba,SP,14,Agenda,Papelaria,39.90,1,35.91,
+504,1,2026-04-09,site,entregue,40,Cliente 040,Sorocaba,SP,27,Hidratante,Beleza,44.90,3,44.90,
+504,2,2026-04-09,site,entregue,40,Cliente 040,Sorocaba,SP,16,Mochila,Papelaria,159.00,1,159.00,
+505,1,2026-04-09,app,cancelado,46,Cliente 046,Sorocaba,SP,9,Jogo de copos,Casa,49.90,1,49.90,
+506,1,2026-04-09,app,entregue,59,Cliente 059,Jundiaí,SP,7,Jogo de toalhas,Casa,89.90,2,80.91,
+507,1,2026-04-09,app,entregue,56,Cliente 056,Jundiaí,SP,12,Cortina,Casa,149.90,2,149.90,29.98
+507,2,2026-04-09,app,entregue,56,Cliente 056,Jundiaí,SP,2,Ventilador,Eletro,239.90,2,239.90,
+508,1,2026-04-09,app,entregue,95,Cliente 095,Santos,SP,13,Caderno,Papelaria,24.90,1,24.90,
+509,1,2026-04-09,site,entregue,78,Cliente 078,Ribeirão Preto,SP,25,Secador,Beleza,199.00,1,199.00,19.90
+510,1,2026-04-10,site,cancelado,1,Cliente 001,Campinas,SP,7,Jogo de toalhas,Casa,89.90,1,89.90,
+511,1,2026-04-10,site,entregue,61,Cliente 061,Jundiaí,SP,6,Sanduicheira,Eletro,99.90,2,99.90,
+511,2,2026-04-10,site,entregue,61,Cliente 061,Jundiaí,SP,27,Hidratante,Beleza,44.90,1,44.90,
+512,1,2026-04-10,app,entregue,61,Cliente 061,Jundiaí,SP,16,Mochila,Papelaria,159.00,1,143.10,0.00
+512,2,2026-04-10,app,entregue,61,Cliente 061,Jundiaí,SP,27,Hidratante,Beleza,44.90,2,44.90,0.00
+512,3,2026-04-10,app,entregue,61,Cliente 061,Jundiaí,SP,16,Mochila,Papelaria,159.00,1,159.00,
+513,1,2026-04-10,site,entregue,84,Cliente 084,Ribeirão Preto,SP,3,Batedeira,Eletro,279.00,2,279.00,55.80
+514,1,2026-04-10,app,entregue,35,Cliente 035,Sorocaba,SP,14,Agenda,Papelaria,39.90,1,39.90,
+514,2,2026-04-10,app,entregue,35,Cliente 035,Sorocaba,SP,6,Sanduicheira,Eletro,99.90,2,99.90,19.98
+515,1,2026-04-10,app,entregue,117,Cliente 117,Curitiba,PR,12,Cortina,Casa,149.90,1,149.90,
+515,2,2026-04-10,app,entregue,117,Cliente 117,Curitiba,PR,3,Batedeira,Eletro,279.00,2,279.00,
+515,3,2026-04-10,app,entregue,117,Cliente 117,Curitiba,PR,9,Jogo de copos,Casa,49.90,1,49.90,
+515,4,2026-04-10,app,entregue,117,Cliente 117,Curitiba,PR,3,Batedeira,Eletro,279.00,1,279.00,
+516,1,2026-04-10,site,entregue,99,Cliente 099,Santos,SP,29,Perfume,Beleza,189.00,1,189.00,
+517,1,2026-04-11,loja,entregue,6,Cliente 006,Campinas,SP,17,Calculadora,Papelaria,59.90,1,59.90,
+517,2,2026-04-11,loja,entregue,6,Cliente 006,Campinas,SP,1,Liquidificador,Eletro,189.90,1,189.90,18.99
+517,3,2026-04-11,loja,entregue,6,Cliente 006,Campinas,SP,26,Escova,Beleza,34.90,1,34.90,
+518,1,2026-04-11,app,entregue,1,Cliente 001,Campinas,SP,15,Estojo,Papelaria,19.90,1,17.91,
+519,1,2026-04-11,site,entregue,25,Cliente 025,Campinas,SP,25,Secador,Beleza,199.00,1,199.00,
+520,1,2026-04-11,app,entregue,93,Cliente 093,Santos,SP,6,Sanduicheira,Eletro,99.90,1,99.90,
+521,1,2026-04-11,app,entregue,19,Cliente 019,Campinas,SP,2,Ventilador,Eletro,239.90,2,239.90,
+522,1,2026-04-12,site,entregue,38,Cliente 038,Sorocaba,SP,27,Hidratante,Beleza,44.90,1,44.90,
+523,1,2026-04-12,loja,entregue,113,Cliente 113,Curitiba,PR,12,Cortina,Casa,149.90,1,149.90,
+524,1,2026-04-12,loja,entregue,118,Cliente 118,Curitiba,PR,17,Calculadora,Papelaria,59.90,3,59.90,
+525,1,2026-04-12,site,entregue,100,Cliente 100,Limeira,SP,17,Calculadora,Papelaria,59.90,1,59.90,
+526,1,2026-04-12,site,entregue,119,Cliente 119,Curitiba,PR,27,Hidratante,Beleza,44.90,1,40.41,
+527,1,2026-04-12,site,entregue,61,Cliente 061,Jundiaí,SP,6,Sanduicheira,Eletro,99.90,1,99.90,
+527,2,2026-04-12,site,entregue,61,Cliente 061,Jundiaí,SP,26,Escova,Beleza,34.90,1,34.90,
+528,1,2026-04-12,loja,entregue,118,Cliente 118,Curitiba,PR,3,Batedeira,Eletro,279.00,1,279.00,
+529,1,2026-04-12,site,entregue,68,Cliente 068,Piracicaba,SP,12,Cortina,Casa,149.90,1,149.90,
+530,1,2026-04-13,site,entregue,61,Cliente 061,Jundiaí,SP,26,Escova,Beleza,34.90,2,34.90,
+531,1,2026-04-13,site,entregue,10,Cliente 010,Campinas,SP,2,Ventilador,Eletro,239.90,1,239.90,
+532,1,2026-04-13,site,entregue,84,Cliente 084,Ribeirão Preto,SP,30,Chapinha,Beleza,169.00,1,169.00,
+532,2,2026-04-13,site,entregue,84,Cliente 084,Ribeirão Preto,SP,12,Cortina,Casa,149.90,1,149.90,
+532,3,2026-04-13,site,entregue,84,Cliente 084,Ribeirão Preto,SP,12,Cortina,Casa,149.90,2,149.90,
+533,1,2026-04-13,site,entregue,54,Cliente 054,Jundiaí,SP,5,Aspirador,Eletro,349.00,1,349.00,
+534,1,2026-04-13,app,entregue,5,Cliente 005,Campinas,SP,7,Jogo de toalhas,Casa,89.90,2,89.90,17.98
+535,1,2026-04-14,app,entregue,30,Cliente 030,Campinas,SP,9,Jogo de copos,Casa,49.90,1,44.91,
+536,1,2026-04-14,app,entregue,93,Cliente 093,Santos,SP,25,Secador,Beleza,199.00,1,199.00,
+537,1,2026-04-14,site,entregue,108,Cliente 108,Limeira,SP,25,Secador,Beleza,199.00,1,199.00,
+538,1,2026-04-14,site,entregue,23,Cliente 023,Campinas,SP,7,Jogo de toalhas,Casa,89.90,1,80.91,0.00
+539,1,2026-04-14,site,entregue,114,Cliente 114,Curitiba,PR,16,Mochila,Papelaria,159.00,3,159.00,
+540,1,2026-04-15,app,entregue,1,Cliente 001,Campinas,SP,1,Liquidificador,Eletro,189.90,1,189.90,0.00
+540,2,2026-04-15,app,entregue,1,Cliente 001,Campinas,SP,4,Cafeteira,Eletro,159.90,1,159.90,
+541,1,2026-04-15,app,entregue,25,Cliente 025,Campinas,SP,10,Luminária,Casa,119.00,1,119.00,
+542,1,2026-04-15,app,entregue,44,Cliente 044,Sorocaba,SP,8,Panela,Casa,129.90,1,129.90,
+543,1,2026-04-15,site,entregue,43,Cliente 043,Sorocaba,SP,16,Mochila,Papelaria,159.00,1,159.00,
+544,1,2026-04-15,app,entregue,47,Cliente 047,Sorocaba,SP,14,Agenda,Papelaria,39.90,2,39.90,
+544,2,2026-04-15,app,entregue,47,Cliente 047,Sorocaba,SP,28,Protetor solar,Beleza,59.90,3,59.90,
+544,3,2026-04-15,app,entregue,47,Cliente 047,Sorocaba,SP,2,Ventilador,Eletro,239.90,1,239.90,
+545,1,2026-04-15,site,entregue,22,Cliente 022,Campinas,SP,7,Jogo de toalhas,Casa,89.90,1,89.90,0.00
+546,1,2026-04-15,app,cancelado,92,Cliente 092,Santos,SP,25,Secador,Beleza,199.00,2,199.00,
+546,2,2026-04-15,app,cancelado,92,Cliente 092,Santos,SP,27,Hidratante,Beleza,44.90,3,40.41,
+546,3,2026-04-15,app,cancelado,92,Cliente 092,Santos,SP,7,Jogo de toalhas,Casa,89.90,1,89.90,
+546,4,2026-04-15,app,cancelado,92,Cliente 092,Santos,SP,12,Cortina,Casa,149.90,1,149.90,0.00
+547,1,2026-04-16,app,entregue,78,Cliente 078,Ribeirão Preto,SP,29,Perfume,Beleza,189.00,1,189.00,
+548,1,2026-04-16,site,entregue,98,Cliente 098,Santos,SP,29,Perfume,Beleza,189.00,2,189.00,
+548,2,2026-04-16,site,entregue,98,Cliente 098,Santos,SP,9,Jogo de copos,Casa,49.90,1,49.90,
+549,1,2026-04-16,site,entregue,61,Cliente 061,Jundiaí,SP,10,Luminária,Casa,119.00,3,119.00,0.00
+550,1,2026-04-16,site,entregue,72,Cliente 072,Piracicaba,SP,11,Organizador,Casa,39.90,2,35.91,
+551,1,2026-04-16,loja,entregue,2,Cliente 002,Campinas,SP,9,Jogo de copos,Casa,49.90,1,49.90,
+552,1,2026-04-16,app,entregue,60,Cliente 060,Jundiaí,SP,16,Mochila,Papelaria,159.00,1,159.00,
+553,1,2026-04-16,site,entregue,90,Cliente 090,Santos,SP,1,Liquidificador,Eletro,189.90,1,189.90,
+553,2,2026-04-16,site,entregue,90,Cliente 090,Santos,SP,16,Mochila,Papelaria,159.00,3,143.10,
+553,3,2026-04-16,site,entregue,90,Cliente 090,Santos,SP,27,Hidratante,Beleza,44.90,1,44.90,
+554,1,2026-04-16,site,cancelado,76,Cliente 076,Ribeirão Preto,SP,2,Ventilador,Eletro,239.90,1,239.90,
+555,1,2026-04-17,app,entregue,97,Cliente 097,Santos,SP,1,Liquidificador,Eletro,189.90,1,189.90,
+555,2,2026-04-17,app,entregue,97,Cliente 097,Santos,SP,29,Perfume,Beleza,189.00,1,189.00,0.00
+555,3,2026-04-17,app,entregue,97,Cliente 097,Santos,SP,16,Mochila,Papelaria,159.00,1,159.00,
+555,4,2026-04-17,app,entregue,97,Cliente 097,Santos,SP,6,Sanduicheira,Eletro,99.90,2,99.90,
+556,1,2026-04-17,site,entregue,120,Cliente 120,Curitiba,PR,9,Jogo de copos,Casa,49.90,1,49.90,
+557,1,2026-04-17,app,entregue,105,Cliente 105,Limeira,SP,3,Batedeira,Eletro,279.00,1,279.00,
+557,2,2026-04-17,app,entregue,105,Cliente 105,Limeira,SP,28,Protetor solar,Beleza,59.90,1,59.90,
+558,1,2026-04-17,app,entregue,114,Cliente 114,Curitiba,PR,13,Caderno,Papelaria,24.90,2,24.90,
+559,1,2026-04-17,app,entregue,1,Cliente 001,Campinas,SP,2,Ventilador,Eletro,239.90,1,239.90,
+559,2,2026-04-17,app,entregue,1,Cliente 001,Campinas,SP,7,Jogo de toalhas,Casa,89.90,1,89.90,
+560,1,2026-04-17,site,entregue,75,Cliente 075,Piracicaba,SP,9,Jogo de copos,Casa,49.90,1,49.90,
+560,2,2026-04-17,site,entregue,75,Cliente 075,Piracicaba,SP,13,Caderno,Papelaria,24.90,1,24.90,
+561,1,2026-04-17,app,entregue,59,Cliente 059,Jundiaí,SP,13,Caderno,Papelaria,24.90,3,24.90,
+562,1,2026-04-17,site,entregue,1,Cliente 001,Campinas,SP,26,Escova,Beleza,34.90,2,31.41,
+562,2,2026-04-17,site,entregue,1,Cliente 001,Campinas,SP,2,Ventilador,Eletro,239.90,1,239.90,
+562,3,2026-04-17,site,entregue,1,Cliente 001,Campinas,SP,1,Liquidificador,Eletro,189.90,1,189.90,
+563,1,2026-04-17,loja,entregue,64,Cliente 064,Piracicaba,SP,12,Cortina,Casa,149.90,1,134.91,
+563,2,2026-04-17,loja,entregue,64,Cliente 064,Piracicaba,SP,7,Jogo de toalhas,Casa,89.90,1,80.91,
+564,1,2026-04-18,app,entregue,31,Cliente 031,Sorocaba,SP,10,Luminária,Casa,119.00,2,119.00,
+565,1,2026-04-18,app,entregue,71,Cliente 071,Piracicaba,SP,13,Caderno,Papelaria,24.90,1,24.90,
+566,1,2026-04-18,loja,entregue,86,Cliente 086,Ribeirão Preto,SP,14,Agenda,Papelaria,39.90,1,39.90,
+567,1,2026-04-18,site,entregue,59,Cliente 059,Jundiaí,SP,15,Estojo,Papelaria,19.90,2,19.90,
+567,2,2026-04-18,site,entregue,59,Cliente 059,Jundiaí,SP,7,Jogo de toalhas,Casa,89.90,1,89.90,
+567,3,2026-04-18,site,entregue,59,Cliente 059,Jundiaí,SP,29,Perfume,Beleza,189.00,1,170.10,
+567,4,2026-04-18,site,entregue,59,Cliente 059,Jundiaí,SP,27,Hidratante,Beleza,44.90,2,44.90,
+568,1,2026-04-18,loja,entregue,93,Cliente 093,Santos,SP,25,Secador,Beleza,199.00,1,199.00,
+568,2,2026-04-18,loja,entregue,93,Cliente 093,Santos,SP,1,Liquidificador,Eletro,189.90,2,170.91,
+569,1,2026-04-19,app,entregue,3,Cliente 003,Campinas,SP,12,Cortina,Casa,149.90,1,149.90,
+570,1,2026-04-19,loja,entregue,90,Cliente 090,Santos,SP,2,Ventilador,Eletro,239.90,1,239.90,
+571,1,2026-04-19,loja,entregue,63,Cliente 063,Jundiaí,SP,13,Caderno,Papelaria,24.90,1,24.90,
+571,2,2026-04-19,loja,entregue,63,Cliente 063,Jundiaí,SP,25,Secador,Beleza,199.00,1,179.10,
+572,1,2026-04-19,site,entregue,55,Cliente 055,Jundiaí,SP,14,Agenda,Papelaria,39.90,1,39.90,
+573,1,2026-04-19,site,entregue,50,Cliente 050,Jundiaí,SP,13,Caderno,Papelaria,24.90,1,24.90,
+574,1,2026-04-19,site,devolvido,26,Cliente 026,Campinas,SP,15,Estojo,Papelaria,19.90,2,19.90,
+574,2,2026-04-19,site,devolvido,26,Cliente 026,Campinas,SP,8,Panela,Casa,129.90,1,129.90,
+575,1,2026-04-19,app,entregue,117,Cliente 117,Curitiba,PR,6,Sanduicheira,Eletro,99.90,1,99.90,
+575,2,2026-04-19,app,entregue,117,Cliente 117,Curitiba,PR,1,Liquidificador,Eletro,189.90,1,189.90,
+575,3,2026-04-19,app,entregue,117,Cliente 117,Curitiba,PR,2,Ventilador,Eletro,239.90,2,239.90,
+576,1,2026-04-19,site,entregue,71,Cliente 071,Piracicaba,SP,4,Cafeteira,Eletro,159.90,1,159.90,
+576,2,2026-04-19,site,entregue,71,Cliente 071,Piracicaba,SP,27,Hidratante,Beleza,44.90,1,44.90,
+576,3,2026-04-19,site,entregue,71,Cliente 071,Piracicaba,SP,8,Panela,Casa,129.90,2,129.90,
+577,1,2026-04-19,site,entregue,118,Cliente 118,Curitiba,PR,15,Estojo,Papelaria,19.90,1,19.90,1.99
+578,1,2026-04-20,app,entregue,94,Cliente 094,Santos,SP,30,Chapinha,Beleza,169.00,3,169.00,50.70
+579,1,2026-04-20,app,cancelado,44,Cliente 044,Sorocaba,SP,4,Cafeteira,Eletro,159.90,1,159.90,
+579,2,2026-04-20,app,cancelado,44,Cliente 044,Sorocaba,SP,7,Jogo de toalhas,Casa,89.90,3,89.90,
+580,1,2026-04-20,app,entregue,13,Cliente 013,Campinas,SP,29,Perfume,Beleza,189.00,1,189.00,
+581,1,2026-04-20,app,entregue,43,Cliente 043,Sorocaba,SP,16,Mochila,Papelaria,159.00,2,159.00,
+581,2,2026-04-20,app,entregue,43,Cliente 043,Sorocaba,SP,14,Agenda,Papelaria,39.90,1,39.90,
+581,3,2026-04-20,app,entregue,43,Cliente 043,Sorocaba,SP,6,Sanduicheira,Eletro,99.90,1,99.90,
+581,4,2026-04-20,app,entregue,43,Cliente 043,Sorocaba,SP,30,Chapinha,Beleza,169.00,1,152.10,
+582,1,2026-04-21,app,entregue,4,Cliente 004,Campinas,SP,25,Secador,Beleza,199.00,1,199.00,
+582,2,2026-04-21,app,entregue,4,Cliente 004,Campinas,SP,14,Agenda,Papelaria,39.90,1,39.90,3.99
+583,1,2026-04-21,app,devolvido,90,Cliente 090,Santos,SP,3,Batedeira,Eletro,279.00,1,279.00,
+584,1,2026-04-22,loja,entregue,34,Cliente 034,Sorocaba,SP,30,Chapinha,Beleza,169.00,1,169.00,16.90
+584,2,2026-04-22,loja,entregue,34,Cliente 034,Sorocaba,SP,29,Perfume,Beleza,189.00,1,189.00,
+584,3,2026-04-22,loja,entregue,34,Cliente 034,Sorocaba,SP,1,Liquidificador,Eletro,189.90,1,189.90,
+585,1,2026-04-22,site,entregue,106,Cliente 106,Limeira,SP,6,Sanduicheira,Eletro,99.90,1,99.90,
+586,1,2026-04-22,site,entregue,37,Cliente 037,Sorocaba,SP,27,Hidratante,Beleza,44.90,2,44.90,
+587,1,2026-04-22,loja,entregue,48,Cliente 048,Sorocaba,SP,12,Cortina,Casa,149.90,1,149.90,
+588,1,2026-04-22,app,entregue,37,Cliente 037,Sorocaba,SP,12,Cortina,Casa,149.90,2,149.90,
+589,1,2026-04-23,site,entregue,110,Cliente 110,Bauru,SP,27,Hidratante,Beleza,44.90,1,44.90,
+589,2,2026-04-23,site,entregue,110,Cliente 110,Bauru,SP,13,Caderno,Papelaria,24.90,1,22.41,
+590,1,2026-04-23,loja,devolvido,100,Cliente 100,Limeira,SP,25,Secador,Beleza,199.00,2,199.00,
+590,2,2026-04-23,loja,devolvido,100,Cliente 100,Limeira,SP,14,Agenda,Papelaria,39.90,1,35.91,0.00
+590,3,2026-04-23,loja,devolvido,100,Cliente 100,Limeira,SP,12,Cortina,Casa,149.90,1,149.90,
+590,4,2026-04-23,loja,devolvido,100,Cliente 100,Limeira,SP,9,Jogo de copos,Casa,49.90,1,49.90,
+591,1,2026-04-23,site,devolvido,92,Cliente 092,Santos,SP,14,Agenda,Papelaria,39.90,1,39.90,
+592,1,2026-04-23,site,entregue,96,Cliente 096,Santos,SP,10,Luminária,Casa,119.00,1,119.00,
+593,1,2026-04-24,app,devolvido,12,Cliente 012,Campinas,SP,14,Agenda,Papelaria,39.90,1,39.90,
+593,2,2026-04-24,app,devolvido,12,Cliente 012,Campinas,SP,12,Cortina,Casa,149.90,1,134.91,13.49
+593,3,2026-04-24,app,devolvido,12,Cliente 012,Campinas,SP,2,Ventilador,Eletro,239.90,1,239.90,
+594,1,2026-04-24,site,entregue,18,Cliente 018,Campinas,SP,9,Jogo de copos,Casa,49.90,1,49.90,
+594,2,2026-04-24,site,entregue,18,Cliente 018,Campinas,SP,3,Batedeira,Eletro,279.00,1,279.00,
+595,1,2026-04-24,app,entregue,55,Cliente 055,Jundiaí,SP,8,Panela,Casa,129.90,2,129.90,
+595,2,2026-04-24,app,entregue,55,Cliente 055,Jundiaí,SP,12,Cortina,Casa,149.90,1,149.90,14.99
+596,1,2026-04-24,site,cancelado,3,Cliente 003,Campinas,SP,17,Calculadora,Papelaria,59.90,1,59.90,
+597,1,2026-04-25,loja,entregue,82,Cliente 082,Ribeirão Preto,SP,4,Cafeteira,Eletro,159.90,1,159.90,
+597,2,2026-04-25,loja,entregue,82,Cliente 082,Ribeirão Preto,SP,4,Cafeteira,Eletro,159.90,1,159.90,
+597,3,2026-04-25,loja,entregue,82,Cliente 082,Ribeirão Preto,SP,18,Marca-texto,Papelaria,12.90,1,12.90,
+598,1,2026-04-25,site,entregue,61,Cliente 061,Jundiaí,SP,25,Secador,Beleza,199.00,1,199.00,19.90
+599,1,2026-04-25,site,entregue,89,Cliente 089,Santos,SP,1,Liquidificador,Eletro,189.90,3,189.90,
+600,1,2026-04-25,loja,entregue,44,Cliente 044,Sorocaba,SP,13,Caderno,Papelaria,24.90,1,24.90,
+601,1,2026-04-26,app,entregue,58,Cliente 058,Jundiaí,SP,5,Aspirador,Eletro,349.00,1,314.10,
+602,1,2026-04-26,site,entregue,113,Cliente 113,Curitiba,PR,2,Ventilador,Eletro,239.90,1,239.90,
+602,2,2026-04-26,site,entregue,113,Cliente 113,Curitiba,PR,14,Agenda,Papelaria,39.90,1,39.90,
+603,1,2026-04-26,loja,entregue,5,Cliente 005,Campinas,SP,15,Estojo,Papelaria,19.90,2,19.90,
+603,2,2026-04-26,loja,entregue,5,Cliente 005,Campinas,SP,5,Aspirador,Eletro,349.00,1,349.00,
+603,3,2026-04-26,loja,entregue,5,Cliente 005,Campinas,SP,2,Ventilador,Eletro,239.90,1,239.90,
+603,4,2026-04-26,loja,entregue,5,Cliente 005,Campinas,SP,18,Marca-texto,Papelaria,12.90,1,11.61,
+604,1,2026-04-26,app,entregue,4,Cliente 004,Campinas,SP,6,Sanduicheira,Eletro,99.90,1,99.90,
+605,1,2026-04-26,app,entregue,44,Cliente 044,Sorocaba,SP,5,Aspirador,Eletro,349.00,1,349.00,
+606,1,2026-04-26,site,entregue,43,Cliente 043,Sorocaba,SP,16,Mochila,Papelaria,159.00,1,159.00,15.90
+607,1,2026-04-26,site,devolvido,44,Cliente 044,Sorocaba,SP,4,Cafeteira,Eletro,159.90,1,159.90,
+607,2,2026-04-26,site,devolvido,44,Cliente 044,Sorocaba,SP,3,Batedeira,Eletro,279.00,1,279.00,
+607,3,2026-04-26,site,devolvido,44,Cliente 044,Sorocaba,SP,30,Chapinha,Beleza,169.00,1,152.10,0.00
+607,4,2026-04-26,site,devolvido,44,Cliente 044,Sorocaba,SP,16,Mochila,Papelaria,159.00,1,143.10,
+608,1,2026-04-27,loja,entregue,30,Cliente 030,Campinas,SP,8,Panela,Casa,129.90,1,129.90,0.00
+608,2,2026-04-27,loja,entregue,30,Cliente 030,Campinas,SP,30,Chapinha,Beleza,169.00,1,169.00,
+609,1,2026-04-27,site,entregue,1,Cliente 001,Campinas,SP,27,Hidratante,Beleza,44.90,1,44.90,
+609,2,2026-04-27,site,entregue,1,Cliente 001,Campinas,SP,4,Cafeteira,Eletro,159.90,2,159.90,
+609,3,2026-04-27,site,entregue,1,Cliente 001,Campinas,SP,29,Perfume,Beleza,189.00,1,170.10,
+610,1,2026-04-28,site,devolvido,61,Cliente 061,Jundiaí,SP,10,Luminária,Casa,119.00,1,119.00,11.90
+610,2,2026-04-28,site,devolvido,61,Cliente 061,Jundiaí,SP,6,Sanduicheira,Eletro,99.90,1,99.90,
+611,1,2026-04-28,app,entregue,61,Cliente 061,Jundiaí,SP,30,Chapinha,Beleza,169.00,2,169.00,
+611,2,2026-04-28,app,entregue,61,Cliente 061,Jundiaí,SP,9,Jogo de copos,Casa,49.90,1,49.90,
+612,1,2026-04-28,site,entregue,114,Cliente 114,Curitiba,PR,5,Aspirador,Eletro,349.00,2,349.00,
+612,2,2026-04-28,site,entregue,114,Cliente 114,Curitiba,PR,14,Agenda,Papelaria,39.90,1,39.90,
+612,3,2026-04-28,site,entregue,114,Cliente 114,Curitiba,PR,9,Jogo de copos,Casa,49.90,1,49.90,
+612,4,2026-04-28,site,entregue,114,Cliente 114,Curitiba,PR,18,Marca-texto,Papelaria,12.90,2,11.61,
+613,1,2026-04-28,app,entregue,84,Cliente 084,Ribeirão Preto,SP,29,Perfume,Beleza,189.00,1,189.00,18.90
+613,2,2026-04-28,app,entregue,84,Cliente 084,Ribeirão Preto,SP,4,Cafeteira,Eletro,159.90,2,159.90,
+613,3,2026-04-28,app,entregue,84,Cliente 084,Ribeirão Preto,SP,26,Escova,Beleza,34.90,1,34.90,3.49
+614,1,2026-04-28,site,cancelado,12,Cliente 012,Campinas,SP,17,Calculadora,Papelaria,59.90,1,53.91,
+614,2,2026-04-28,site,cancelado,12,Cliente 012,Campinas,SP,12,Cortina,Casa,149.90,1,149.90,
+615,1,2026-04-28,loja,entregue,61,Cliente 061,Jundiaí,SP,13,Caderno,Papelaria,24.90,1,22.41,
+616,1,2026-04-29,app,entregue,118,Cliente 118,Curitiba,PR,5,Aspirador,Eletro,349.00,1,349.00,
+617,1,2026-04-29,site,entregue,64,Cliente 064,Piracicaba,SP,27,Hidratante,Beleza,44.90,1,44.90,4.49
+618,1,2026-04-29,loja,entregue,64,Cliente 064,Piracicaba,SP,1,Liquidificador,Eletro,189.90,3,189.90,
+619,1,2026-04-29,app,devolvido,68,Cliente 068,Piracicaba,SP,6,Sanduicheira,Eletro,99.90,1,99.90,9.99
+620,1,2026-04-29,app,cancelado,52,Cliente 052,Jundiaí,SP,29,Perfume,Beleza,189.00,1,170.10,
+620,2,2026-04-29,app,cancelado,52,Cliente 052,Jundiaí,SP,1,Liquidificador,Eletro,189.90,1,189.90,
+621,1,2026-04-30,site,entregue,72,Cliente 072,Piracicaba,SP,25,Secador,Beleza,199.00,1,199.00,
+621,2,2026-04-30,site,entregue,72,Cliente 072,Piracicaba,SP,18,Marca-texto,Papelaria,12.90,2,12.90,
+622,1,2026-04-30,loja,entregue,49,Cliente 049,Jundiaí,SP,1,Liquidificador,Eletro,189.90,1,189.90,
+622,2,2026-04-30,loja,entregue,49,Cliente 049,Jundiaí,SP,1,Liquidificador,Eletro,189.90,1,189.90,
+623,1,2026-04-30,app,entregue,88,Cliente 088,Santos,SP,9,Jogo de copos,Casa,49.90,1,49.90,
+624,1,2026-04-30,site,entregue,112,Cliente 112,Bauru,SP,11,Organizador,Casa,39.90,1,39.90,
+624,2,2026-04-30,site,entregue,112,Cliente 112,Bauru,SP,11,Organizador,Casa,39.90,1,35.91,
+624,3,2026-04-30,site,entregue,112,Cliente 112,Bauru,SP,18,Marca-texto,Papelaria,12.90,2,12.90,
+625,1,2026-04-30,site,entregue,30,Cliente 030,Campinas,SP,10,Luminária,Casa,119.00,1,119.00,11.90
+626,1,2026-04-30,app,cancelado,23,Cliente 023,Campinas,SP,30,Chapinha,Beleza,169.00,1,169.00,
+626,2,2026-04-30,app,cancelado,23,Cliente 023,Campinas,SP,30,Chapinha,Beleza,169.00,1,169.00,
+627,1,2026-05-01,site,entregue,113,Cliente 113,Curitiba,PR,11,Organizador,Casa,39.90,1,39.90,
+628,1,2026-05-01,app,entregue,71,Cliente 071,Piracicaba,SP,11,Organizador,Casa,39.90,1,39.90,
+629,1,2026-05-01,site,entregue,84,Cliente 084,Ribeirão Preto,SP,2,Ventilador,Eletro,239.90,1,239.90,
+629,2,2026-05-01,site,entregue,84,Cliente 084,Ribeirão Preto,SP,4,Cafeteira,Eletro,159.90,1,159.90,
+629,3,2026-05-01,site,entregue,84,Cliente 084,Ribeirão Preto,SP,17,Calculadora,Papelaria,59.90,1,59.90,
+629,4,2026-05-01,site,entregue,84,Cliente 084,Ribeirão Preto,SP,6,Sanduicheira,Eletro,99.90,3,99.90,
+630,1,2026-05-01,site,entregue,95,Cliente 095,Santos,SP,1,Liquidificador,Eletro,189.90,1,170.91,
+631,1,2026-05-01,site,entregue,81,Cliente 081,Ribeirão Preto,SP,11,Organizador,Casa,39.90,1,39.90,3.99
+631,2,2026-05-01,site,entregue,81,Cliente 081,Ribeirão Preto,SP,14,Agenda,Papelaria,39.90,1,39.90,
+632,1,2026-05-02,site,entregue,100,Cliente 100,Limeira,SP,20,Garrafa térmica,Esporte,69.90,1,69.90,
+632,2,2026-05-02,site,entregue,100,Cliente 100,Limeira,SP,21,Tapete de yoga,Esporte,99.00,1,99.00,
+632,3,2026-05-02,site,entregue,100,Cliente 100,Limeira,SP,9,Jogo de copos,Casa,49.90,1,49.90,
+633,1,2026-05-02,site,entregue,108,Cliente 108,Limeira,SP,1,Liquidificador,Eletro,189.90,1,189.90,18.99
+634,1,2026-05-02,app,entregue,95,Cliente 095,Santos,SP,4,Cafeteira,Eletro,159.90,1,143.91,
+634,2,2026-05-02,app,entregue,95,Cliente 095,Santos,SP,28,Protetor solar,Beleza,59.90,1,53.91,
+634,3,2026-05-02,app,entregue,95,Cliente 095,Santos,SP,11,Organizador,Casa,39.90,1,39.90,
+634,4,2026-05-02,app,entregue,95,Cliente 095,Santos,SP,17,Calculadora,Papelaria,59.90,1,59.90,
+635,1,2026-05-02,app,entregue,47,Cliente 047,Sorocaba,SP,11,Organizador,Casa,39.90,1,39.90,
+635,2,2026-05-02,app,entregue,47,Cliente 047,Sorocaba,SP,5,Aspirador,Eletro,349.00,1,349.00,
+635,3,2026-05-02,app,entregue,47,Cliente 047,Sorocaba,SP,10,Luminária,Casa,119.00,1,119.00,
+636,1,2026-05-02,app,entregue,106,Cliente 106,Limeira,SP,9,Jogo de copos,Casa,49.90,1,49.90,4.99
+636,2,2026-05-02,app,entregue,106,Cliente 106,Limeira,SP,2,Ventilador,Eletro,239.90,2,215.91,43.18
+637,1,2026-05-03,site,entregue,12,Cliente 012,Campinas,SP,24,Joelheira,Esporte,49.90,1,49.90,
+637,2,2026-05-03,site,entregue,12,Cliente 012,Campinas,SP,5,Aspirador,Eletro,349.00,1,349.00,
+638,1,2026-05-03,app,entregue,48,Cliente 048,Sorocaba,SP,6,Sanduicheira,Eletro,99.90,1,99.90,9.99
+638,2,2026-05-03,app,entregue,48,Cliente 048,Sorocaba,SP,18,Marca-texto,Papelaria,12.90,1,12.90,
+638,3,2026-05-03,app,entregue,48,Cliente 048,Sorocaba,SP,22,Halter,Esporte,119.90,2,119.90,
+639,1,2026-05-03,site,entregue,28,Cliente 028,Campinas,SP,30,Chapinha,Beleza,169.00,1,169.00,16.90
+639,2,2026-05-03,site,entregue,28,Cliente 028,Campinas,SP,17,Calculadora,Papelaria,59.90,1,59.90,
+639,3,2026-05-03,site,entregue,28,Cliente 028,Campinas,SP,4,Cafeteira,Eletro,159.90,2,159.90,
+640,1,2026-05-03,site,entregue,2,Cliente 002,Campinas,SP,17,Calculadora,Papelaria,59.90,1,59.90,5.99
+641,1,2026-05-03,site,entregue,7,Cliente 007,Campinas,SP,11,Organizador,Casa,39.90,1,39.90,
+642,1,2026-05-03,site,entregue,43,Cliente 043,Sorocaba,SP,11,Organizador,Casa,39.90,1,39.90,
+643,1,2026-05-03,app,entregue,45,Cliente 045,Sorocaba,SP,14,Agenda,Papelaria,39.90,1,39.90,
+644,1,2026-05-03,app,cancelado,118,Cliente 118,Curitiba,PR,1,Liquidificador,Eletro,189.90,1,189.90,
+644,2,2026-05-03,app,cancelado,118,Cliente 118,Curitiba,PR,29,Perfume,Beleza,189.00,1,189.00,
+644,3,2026-05-03,app,cancelado,118,Cliente 118,Curitiba,PR,23,Corda de pular,Esporte,29.90,1,29.90,2.99
+645,1,2026-05-03,site,devolvido,31,Cliente 031,Sorocaba,SP,16,Mochila,Papelaria,159.00,1,159.00,
+646,1,2026-05-04,app,entregue,18,Cliente 018,Campinas,SP,12,Cortina,Casa,149.90,1,149.90,
+647,1,2026-05-04,app,entregue,115,Cliente 115,Curitiba,PR,8,Panela,Casa,129.90,1,129.90,
+648,1,2026-05-04,site,entregue,106,Cliente 106,Limeira,SP,10,Luminária,Casa,119.00,2,119.00,23.80
+649,1,2026-05-05,site,entregue,12,Cliente 012,Campinas,SP,21,Tapete de yoga,Esporte,99.00,1,99.00,
+650,1,2026-05-05,app,cancelado,79,Cliente 079,Ribeirão Preto,SP,6,Sanduicheira,Eletro,99.90,1,89.91,
+651,1,2026-05-05,app,entregue,90,Cliente 090,Santos,SP,13,Caderno,Papelaria,24.90,3,24.90,0.00
+651,2,2026-05-05,app,entregue,90,Cliente 090,Santos,SP,22,Halter,Esporte,119.90,1,119.90,
+651,3,2026-05-05,app,entregue,90,Cliente 090,Santos,SP,13,Caderno,Papelaria,24.90,1,24.90,
+652,1,2026-05-05,app,cancelado,46,Cliente 046,Sorocaba,SP,7,Jogo de toalhas,Casa,89.90,1,89.90,
+652,2,2026-05-05,app,cancelado,46,Cliente 046,Sorocaba,SP,16,Mochila,Papelaria,159.00,3,143.10,
+653,1,2026-05-05,app,entregue,9,Cliente 009,Campinas,SP,5,Aspirador,Eletro,349.00,1,314.10,
+654,1,2026-05-06,site,entregue,75,Cliente 075,Piracicaba,SP,17,Calculadora,Papelaria,59.90,1,53.91,5.39
+654,2,2026-05-06,site,entregue,75,Cliente 075,Piracicaba,SP,5,Aspirador,Eletro,349.00,2,349.00,
+654,3,2026-05-06,site,entregue,75,Cliente 075,Piracicaba,SP,18,Marca-texto,Papelaria,12.90,2,12.90,
+654,4,2026-05-06,site,entregue,75,Cliente 075,Piracicaba,SP,7,Jogo de toalhas,Casa,89.90,1,89.90,
+655,1,2026-05-06,site,cancelado,59,Cliente 059,Jundiaí,SP,23,Corda de pular,Esporte,29.90,1,29.90,
+656,1,2026-05-06,site,entregue,100,Cliente 100,Limeira,SP,8,Panela,Casa,129.90,1,129.90,
+657,1,2026-05-06,app,entregue,114,Cliente 114,Curitiba,PR,28,Protetor solar,Beleza,59.90,1,59.90,0.00
+658,1,2026-05-06,site,entregue,61,Cliente 061,Jundiaí,SP,5,Aspirador,Eletro,349.00,1,349.00,
+659,1,2026-05-06,loja,entregue,107,Cliente 107,Limeira,SP,22,Halter,Esporte,119.90,1,107.91,
+660,1,2026-05-06,site,entregue,95,Cliente 095,Santos,SP,21,Tapete de yoga,Esporte,99.00,1,99.00,
+661,1,2026-05-06,site,entregue,97,Cliente 097,Santos,SP,18,Marca-texto,Papelaria,12.90,1,12.90,
+662,1,2026-05-06,site,entregue,115,Cliente 115,Curitiba,PR,15,Estojo,Papelaria,19.90,1,19.90,
+663,1,2026-05-06,site,entregue,64,Cliente 064,Piracicaba,SP,27,Hidratante,Beleza,44.90,1,44.90,
+663,2,2026-05-06,site,entregue,64,Cliente 064,Piracicaba,SP,9,Jogo de copos,Casa,49.90,1,49.90,
+663,3,2026-05-06,site,entregue,64,Cliente 064,Piracicaba,SP,2,Ventilador,Eletro,239.90,1,239.90,23.99
+663,4,2026-05-06,site,entregue,64,Cliente 064,Piracicaba,SP,4,Cafeteira,Eletro,159.90,1,159.90,
+664,1,2026-05-07,app,entregue,100,Cliente 100,Limeira,SP,4,Cafeteira,Eletro,159.90,2,159.90,
+665,1,2026-05-07,app,entregue,5,Cliente 005,Campinas,SP,11,Organizador,Casa,39.90,1,39.90,
+665,2,2026-05-07,app,entregue,5,Cliente 005,Campinas,SP,6,Sanduicheira,Eletro,99.90,1,99.90,
+666,1,2026-05-08,site,cancelado,96,Cliente 096,Santos,SP,26,Escova,Beleza,34.90,1,34.90,
+666,2,2026-05-08,site,cancelado,96,Cliente 096,Santos,SP,28,Protetor solar,Beleza,59.90,1,59.90,0.00
+667,1,2026-05-08,loja,entregue,31,Cliente 031,Sorocaba,SP,27,Hidratante,Beleza,44.90,1,44.90,4.49
+667,2,2026-05-08,loja,entregue,31,Cliente 031,Sorocaba,SP,14,Agenda,Papelaria,39.90,1,39.90,
+668,1,2026-05-08,site,cancelado,61,Cliente 061,Jundiaí,SP,14,Agenda,Papelaria,39.90,2,39.90,
+669,1,2026-05-08,site,entregue,47,Cliente 047,Sorocaba,SP,1,Liquidificador,Eletro,189.90,1,189.90,
+669,2,2026-05-08,site,entregue,47,Cliente 047,Sorocaba,SP,30,Chapinha,Beleza,169.00,1,169.00,
+670,1,2026-05-08,app,entregue,95,Cliente 095,Santos,SP,27,Hidratante,Beleza,44.90,1,40.41,
+671,1,2026-05-08,app,cancelado,4,Cliente 004,Campinas,SP,26,Escova,Beleza,34.90,1,34.90,3.49
+672,1,2026-05-08,app,entregue,104,Cliente 104,Limeira,SP,22,Halter,Esporte,119.90,1,119.90,11.99
+672,2,2026-05-08,app,entregue,104,Cliente 104,Limeira,SP,30,Chapinha,Beleza,169.00,1,169.00,
+673,1,2026-05-09,site,entregue,43,Cliente 043,Sorocaba,SP,29,Perfume,Beleza,189.00,1,189.00,0.00
+674,1,2026-05-09,loja,entregue,76,Cliente 076,Ribeirão Preto,SP,8,Panela,Casa,129.90,2,129.90,
+674,2,2026-05-09,loja,entregue,76,Cliente 076,Ribeirão Preto,SP,4,Cafeteira,Eletro,159.90,1,159.90,
+675,1,2026-05-09,loja,entregue,64,Cliente 064,Piracicaba,SP,5,Aspirador,Eletro,349.00,2,349.00,0.00
+675,2,2026-05-09,loja,entregue,64,Cliente 064,Piracicaba,SP,11,Organizador,Casa,39.90,1,39.90,3.99
+676,1,2026-05-09,site,entregue,47,Cliente 047,Sorocaba,SP,22,Halter,Esporte,119.90,1,119.90,
+676,2,2026-05-09,site,entregue,47,Cliente 047,Sorocaba,SP,20,Garrafa térmica,Esporte,69.90,2,69.90,
+676,3,2026-05-09,site,entregue,47,Cliente 047,Sorocaba,SP,25,Secador,Beleza,199.00,1,199.00,
+677,1,2026-05-09,site,entregue,91,Cliente 091,Santos,SP,8,Panela,Casa,129.90,1,129.90,0.00
+678,1,2026-05-09,loja,entregue,59,Cliente 059,Jundiaí,SP,12,Cortina,Casa,149.90,2,149.90,
+678,2,2026-05-09,loja,entregue,59,Cliente 059,Jundiaí,SP,1,Liquidificador,Eletro,189.90,1,189.90,
+678,3,2026-05-09,loja,entregue,59,Cliente 059,Jundiaí,SP,10,Luminária,Casa,119.00,1,119.00,
+678,4,2026-05-09,loja,entregue,59,Cliente 059,Jundiaí,SP,26,Escova,Beleza,34.90,2,34.90,
+679,1,2026-05-09,app,entregue,35,Cliente 035,Sorocaba,SP,12,Cortina,Casa,149.90,1,149.90,
+679,2,2026-05-09,app,entregue,35,Cliente 035,Sorocaba,SP,7,Jogo de toalhas,Casa,89.90,1,80.91,0.00
+680,1,2026-05-09,loja,entregue,34,Cliente 034,Sorocaba,SP,28,Protetor solar,Beleza,59.90,1,59.90,
+680,2,2026-05-09,loja,entregue,34,Cliente 034,Sorocaba,SP,30,Chapinha,Beleza,169.00,1,169.00,
+681,1,2026-05-09,site,cancelado,13,Cliente 013,Campinas,SP,23,Corda de pular,Esporte,29.90,1,29.90,
+681,2,2026-05-09,site,cancelado,13,Cliente 013,Campinas,SP,22,Halter,Esporte,119.90,2,119.90,
+682,1,2026-05-09,app,entregue,90,Cliente 090,Santos,SP,14,Agenda,Papelaria,39.90,1,39.90,
+683,1,2026-05-09,loja,entregue,77,Cliente 077,Ribeirão Preto,SP,11,Organizador,Casa,39.90,1,35.91,
+683,2,2026-05-09,loja,entregue,77,Cliente 077,Ribeirão Preto,SP,1,Liquidificador,Eletro,189.90,1,189.90,0.00
+684,1,2026-05-10,app,entregue,25,Cliente 025,Campinas,SP,17,Calculadora,Papelaria,59.90,1,59.90,5.99
+684,2,2026-05-10,app,entregue,25,Cliente 025,Campinas,SP,7,Jogo de toalhas,Casa,89.90,1,89.90,
+684,3,2026-05-10,app,entregue,25,Cliente 025,Campinas,SP,11,Organizador,Casa,39.90,1,35.91,
+684,4,2026-05-10,app,entregue,25,Cliente 025,Campinas,SP,28,Protetor solar,Beleza,59.90,2,59.90,
+685,1,2026-05-10,app,devolvido,4,Cliente 004,Campinas,SP,26,Escova,Beleza,34.90,1,34.90,
+685,2,2026-05-10,app,devolvido,4,Cliente 004,Campinas,SP,6,Sanduicheira,Eletro,99.90,1,99.90,
+685,3,2026-05-10,app,devolvido,4,Cliente 004,Campinas,SP,9,Jogo de copos,Casa,49.90,1,49.90,
+686,1,2026-05-10,loja,entregue,58,Cliente 058,Jundiaí,SP,27,Hidratante,Beleza,44.90,1,44.90,
+687,1,2026-05-11,site,devolvido,93,Cliente 093,Santos,SP,15,Estojo,Papelaria,19.90,1,19.90,
+687,2,2026-05-11,site,devolvido,93,Cliente 093,Santos,SP,24,Joelheira,Esporte,49.90,1,44.91,4.49
+687,3,2026-05-11,site,devolvido,93,Cliente 093,Santos,SP,15,Estojo,Papelaria,19.90,1,19.90,
+687,4,2026-05-11,site,devolvido,93,Cliente 093,Santos,SP,28,Protetor solar,Beleza,59.90,1,59.90,
+688,1,2026-05-11,loja,cancelado,117,Cliente 117,Curitiba,PR,14,Agenda,Papelaria,39.90,1,39.90,
+688,2,2026-05-11,loja,cancelado,117,Cliente 117,Curitiba,PR,2,Ventilador,Eletro,239.90,1,239.90,
+688,3,2026-05-11,loja,cancelado,117,Cliente 117,Curitiba,PR,4,Cafeteira,Eletro,159.90,1,159.90,
+688,4,2026-05-11,loja,cancelado,117,Cliente 117,Curitiba,PR,24,Joelheira,Esporte,49.90,1,49.90,
+689,1,2026-05-11,site,entregue,118,Cliente 118,Curitiba,PR,19,Bola,Esporte,79.90,1,79.90,
+690,1,2026-05-11,site,entregue,73,Cliente 073,Piracicaba,SP,23,Corda de pular,Esporte,29.90,1,29.90,0.00
+691,1,2026-05-12,site,cancelado,47,Cliente 047,Sorocaba,SP,27,Hidratante,Beleza,44.90,1,40.41,
+692,1,2026-05-12,loja,entregue,115,Cliente 115,Curitiba,PR,25,Secador,Beleza,199.00,1,199.00,
+692,2,2026-05-12,loja,entregue,115,Cliente 115,Curitiba,PR,8,Panela,Casa,129.90,1,129.90,
+692,3,2026-05-12,loja,entregue,115,Cliente 115,Curitiba,PR,27,Hidratante,Beleza,44.90,1,44.90,
+693,1,2026-05-12,site,entregue,1,Cliente 001,Campinas,SP,13,Caderno,Papelaria,24.90,1,24.90,
+693,2,2026-05-12,site,entregue,1,Cliente 001,Campinas,SP,24,Joelheira,Esporte,49.90,1,49.90,0.00
+693,3,2026-05-12,site,entregue,1,Cliente 001,Campinas,SP,8,Panela,Casa,129.90,3,129.90,
+694,1,2026-05-12,loja,entregue,98,Cliente 098,Santos,SP,13,Caderno,Papelaria,24.90,1,24.90,2.49
+694,2,2026-05-12,loja,entregue,98,Cliente 098,Santos,SP,29,Perfume,Beleza,189.00,1,170.10,
+695,1,2026-05-12,site,entregue,43,Cliente 043,Sorocaba,SP,23,Corda de pular,Esporte,29.90,1,26.91,
+695,2,2026-05-12,site,entregue,43,Cliente 043,Sorocaba,SP,17,Calculadora,Papelaria,59.90,1,59.90,
+695,3,2026-05-12,site,entregue,43,Cliente 043,Sorocaba,SP,4,Cafeteira,Eletro,159.90,2,159.90,
+696,1,2026-05-12,site,entregue,78,Cliente 078,Ribeirão Preto,SP,3,Batedeira,Eletro,279.00,1,279.00,
+696,2,2026-05-12,site,entregue,78,Cliente 078,Ribeirão Preto,SP,9,Jogo de copos,Casa,49.90,1,49.90,4.99
+696,3,2026-05-12,site,entregue,78,Cliente 078,Ribeirão Preto,SP,21,Tapete de yoga,Esporte,99.00,1,99.00,
+696,4,2026-05-12,site,entregue,78,Cliente 078,Ribeirão Preto,SP,23,Corda de pular,Esporte,29.90,2,29.90,
+697,1,2026-05-13,site,entregue,74,Cliente 074,Piracicaba,SP,20,Garrafa térmica,Esporte,69.90,1,69.90,
+697,2,2026-05-13,site,entregue,74,Cliente 074,Piracicaba,SP,21,Tapete de yoga,Esporte,99.00,1,89.10,
+698,1,2026-05-13,site,entregue,104,Cliente 104,Limeira,SP,2,Ventilador,Eletro,239.90,1,239.90,
+699,1,2026-05-13,app,devolvido,42,Cliente 042,Sorocaba,SP,20,Garrafa térmica,Esporte,69.90,1,69.90,
+699,2,2026-05-13,app,devolvido,42,Cliente 042,Sorocaba,SP,19,Bola,Esporte,79.90,2,79.90,
+700,1,2026-05-13,site,entregue,71,Cliente 071,Piracicaba,SP,20,Garrafa térmica,Esporte,69.90,1,62.91,
+701,1,2026-05-13,loja,entregue,89,Cliente 089,Santos,SP,14,Agenda,Papelaria,39.90,1,39.90,
+701,2,2026-05-13,loja,entregue,89,Cliente 089,Santos,SP,8,Panela,Casa,129.90,1,129.90,
+701,3,2026-05-13,loja,entregue,89,Cliente 089,Santos,SP,26,Escova,Beleza,34.90,1,34.90,
+701,4,2026-05-13,loja,entregue,89,Cliente 089,Santos,SP,21,Tapete de yoga,Esporte,99.00,2,99.00,
+702,1,2026-05-13,loja,cancelado,103,Cliente 103,Limeira,SP,11,Organizador,Casa,39.90,1,39.90,
+702,2,2026-05-13,loja,cancelado,103,Cliente 103,Limeira,SP,1,Liquidificador,Eletro,189.90,2,189.90,
+702,3,2026-05-13,loja,cancelado,103,Cliente 103,Limeira,SP,1,Liquidificador,Eletro,189.90,1,189.90,
+702,4,2026-05-13,loja,cancelado,103,Cliente 103,Limeira,SP,23,Corda de pular,Esporte,29.90,1,26.91,
+703,1,2026-05-13,loja,cancelado,2,Cliente 002,Campinas,SP,27,Hidratante,Beleza,44.90,2,44.90,8.98
+704,1,2026-05-13,app,entregue,90,Cliente 090,Santos,SP,28,Protetor solar,Beleza,59.90,1,59.90,
+705,1,2026-05-13,app,entregue,105,Cliente 105,Limeira,SP,4,Cafeteira,Eletro,159.90,1,159.90,
+706,1,2026-05-14,app,entregue,73,Cliente 073,Piracicaba,SP,16,Mochila,Papelaria,159.00,1,159.00,
+707,1,2026-05-14,app,entregue,27,Cliente 027,Campinas,SP,4,Cafeteira,Eletro,159.90,1,159.90,
+708,1,2026-05-14,site,entregue,19,Cliente 019,Campinas,SP,19,Bola,Esporte,79.90,1,79.90,
+708,2,2026-05-14,site,entregue,19,Cliente 019,Campinas,SP,12,Cortina,Casa,149.90,1,149.90,
+709,1,2026-05-14,site,entregue,100,Cliente 100,Limeira,SP,23,Corda de pular,Esporte,29.90,1,29.90,
+710,1,2026-05-15,app,cancelado,37,Cliente 037,Sorocaba,SP,1,Liquidificador,Eletro,189.90,1,170.91,
+711,1,2026-05-15,loja,entregue,119,Cliente 119,Curitiba,PR,20,Garrafa térmica,Esporte,69.90,2,69.90,13.98
+711,2,2026-05-15,loja,entregue,119,Cliente 119,Curitiba,PR,13,Caderno,Papelaria,24.90,1,24.90,
+712,1,2026-05-15,loja,entregue,107,Cliente 107,Limeira,SP,28,Protetor solar,Beleza,59.90,1,59.90,
+712,2,2026-05-15,loja,entregue,107,Cliente 107,Limeira,SP,15,Estojo,Papelaria,19.90,1,19.90,
+712,3,2026-05-15,loja,entregue,107,Cliente 107,Limeira,SP,1,Liquidificador,Eletro,189.90,1,189.90,
+713,1,2026-05-15,app,entregue,68,Cliente 068,Piracicaba,SP,1,Liquidificador,Eletro,189.90,1,170.91,
+713,2,2026-05-15,app,entregue,68,Cliente 068,Piracicaba,SP,5,Aspirador,Eletro,349.00,1,314.10,
+714,1,2026-05-16,site,entregue,86,Cliente 086,Ribeirão Preto,SP,4,Cafeteira,Eletro,159.90,2,159.90,
+715,1,2026-05-16,site,cancelado,24,Cliente 024,Campinas,SP,3,Batedeira,Eletro,279.00,1,279.00,0.00
+715,2,2026-05-16,site,cancelado,24,Cliente 024,Campinas,SP,25,Secador,Beleza,199.00,1,199.00,
+715,3,2026-05-16,site,cancelado,24,Cliente 024,Campinas,SP,9,Jogo de copos,Casa,49.90,1,49.90,
+716,1,2026-05-16,loja,entregue,98,Cliente 098,Santos,SP,30,Chapinha,Beleza,169.00,1,152.10,
+716,2,2026-05-16,loja,entregue,98,Cliente 098,Santos,SP,11,Organizador,Casa,39.90,1,35.91,0.00
+717,1,2026-05-16,app,entregue,26,Cliente 026,Campinas,SP,18,Marca-texto,Papelaria,12.90,1,11.61,1.16
+717,2,2026-05-16,app,entregue,26,Cliente 026,Campinas,SP,30,Chapinha,Beleza,169.00,3,169.00,
+718,1,2026-05-17,loja,entregue,114,Cliente 114,Curitiba,PR,21,Tapete de yoga,Esporte,99.00,2,99.00,
+719,1,2026-05-17,site,cancelado,78,Cliente 078,Ribeirão Preto,SP,5,Aspirador,Eletro,349.00,1,349.00,0.00
+719,2,2026-05-17,site,cancelado,78,Cliente 078,Ribeirão Preto,SP,2,Ventilador,Eletro,239.90,1,239.90,
+720,1,2026-05-17,site,entregue,38,Cliente 038,Sorocaba,SP,24,Joelheira,Esporte,49.90,1,49.90,
+720,2,2026-05-17,site,entregue,38,Cliente 038,Sorocaba,SP,2,Ventilador,Eletro,239.90,1,239.90,
+721,1,2026-05-17,site,cancelado,15,Cliente 015,Campinas,SP,23,Corda de pular,Esporte,29.90,1,29.90,
+722,1,2026-05-17,site,entregue,13,Cliente 013,Campinas,SP,30,Chapinha,Beleza,169.00,1,152.10,0.00
+723,1,2026-05-17,app,entregue,17,Cliente 017,Campinas,SP,10,Luminária,Casa,119.00,1,119.00,0.00
+723,2,2026-05-17,app,entregue,17,Cliente 017,Campinas,SP,29,Perfume,Beleza,189.00,1,170.10,
+724,1,2026-05-17,loja,entregue,49,Cliente 049,Jundiaí,SP,29,Perfume,Beleza,189.00,2,189.00,37.80
+725,1,2026-05-18,app,entregue,4,Cliente 004,Campinas,SP,8,Panela,Casa,129.90,2,129.90,0.00
+726,1,2026-05-19,app,entregue,24,Cliente 024,Campinas,SP,19,Bola,Esporte,79.90,1,79.90,7.99
+726,2,2026-05-19,app,entregue,24,Cliente 024,Campinas,SP,10,Luminária,Casa,119.00,1,119.00,
+727,1,2026-05-19,app,devolvido,96,Cliente 096,Santos,SP,22,Halter,Esporte,119.90,1,107.91,0.00
+727,2,2026-05-19,app,devolvido,96,Cliente 096,Santos,SP,9,Jogo de copos,Casa,49.90,1,44.91,4.49
+727,3,2026-05-19,app,devolvido,96,Cliente 096,Santos,SP,3,Batedeira,Eletro,279.00,3,279.00,
+728,1,2026-05-19,site,entregue,97,Cliente 097,Santos,SP,25,Secador,Beleza,199.00,1,199.00,19.90
+729,1,2026-05-19,loja,entregue,108,Cliente 108,Limeira,SP,14,Agenda,Papelaria,39.90,1,39.90,
+730,1,2026-05-19,app,entregue,113,Cliente 113,Curitiba,PR,30,Chapinha,Beleza,169.00,2,169.00,33.80
+731,1,2026-05-19,app,devolvido,119,Cliente 119,Curitiba,PR,11,Organizador,Casa,39.90,3,39.90,
+731,2,2026-05-19,app,devolvido,119,Cliente 119,Curitiba,PR,18,Marca-texto,Papelaria,12.90,1,12.90,1.29
+732,1,2026-05-20,loja,entregue,24,Cliente 024,Campinas,SP,29,Perfume,Beleza,189.00,1,189.00,
+732,2,2026-05-20,loja,entregue,24,Cliente 024,Campinas,SP,7,Jogo de toalhas,Casa,89.90,1,89.90,
+733,1,2026-05-20,site,entregue,39,Cliente 039,Sorocaba,SP,25,Secador,Beleza,199.00,3,199.00,
+734,1,2026-05-20,site,entregue,3,Cliente 003,Campinas,SP,10,Luminária,Casa,119.00,1,119.00,
+734,2,2026-05-20,site,entregue,3,Cliente 003,Campinas,SP,5,Aspirador,Eletro,349.00,1,314.10,
+735,1,2026-05-20,site,entregue,102,Cliente 102,Limeira,SP,21,Tapete de yoga,Esporte,99.00,1,99.00,
+735,2,2026-05-20,site,entregue,102,Cliente 102,Limeira,SP,26,Escova,Beleza,34.90,1,31.41,
+736,1,2026-05-20,site,entregue,64,Cliente 064,Piracicaba,SP,9,Jogo de copos,Casa,49.90,1,49.90,
+737,1,2026-05-21,site,cancelado,4,Cliente 004,Campinas,SP,22,Halter,Esporte,119.90,1,107.91,
+737,2,2026-05-21,site,cancelado,4,Cliente 004,Campinas,SP,7,Jogo de toalhas,Casa,89.90,1,89.90,8.99
+737,3,2026-05-21,site,cancelado,4,Cliente 004,Campinas,SP,28,Protetor solar,Beleza,59.90,3,59.90,
+738,1,2026-05-21,site,entregue,36,Cliente 036,Sorocaba,SP,30,Chapinha,Beleza,169.00,1,152.10,
+739,1,2026-05-21,site,entregue,86,Cliente 086,Ribeirão Preto,SP,2,Ventilador,Eletro,239.90,1,239.90,
+740,1,2026-05-21,loja,devolvido,53,Cliente 053,Jundiaí,SP,3,Batedeira,Eletro,279.00,2,279.00,
+741,1,2026-05-21,app,entregue,84,Cliente 084,Ribeirão Preto,SP,21,Tapete de yoga,Esporte,99.00,1,99.00,
+742,1,2026-05-21,site,cancelado,86,Cliente 086,Ribeirão Preto,SP,18,Marca-texto,Papelaria,12.90,1,12.90,
+742,2,2026-05-21,site,cancelado,86,Cliente 086,Ribeirão Preto,SP,30,Chapinha,Beleza,169.00,1,169.00,
+742,3,2026-05-21,site,cancelado,86,Cliente 086,Ribeirão Preto,SP,5,Aspirador,Eletro,349.00,2,349.00,
+742,4,2026-05-21,site,cancelado,86,Cliente 086,Ribeirão Preto,SP,6,Sanduicheira,Eletro,99.90,2,99.90,
+743,1,2026-05-21,site,entregue,17,Cliente 017,Campinas,SP,17,Calculadora,Papelaria,59.90,2,59.90,
+744,1,2026-05-21,app,entregue,118,Cliente 118,Curitiba,PR,22,Halter,Esporte,119.90,1,119.90,
+744,2,2026-05-21,app,entregue,118,Cliente 118,Curitiba,PR,26,Escova,Beleza,34.90,2,34.90,0.00
+745,1,2026-05-22,site,entregue,34,Cliente 034,Sorocaba,SP,19,Bola,Esporte,79.90,1,79.90,
+745,2,2026-05-22,site,entregue,34,Cliente 034,Sorocaba,SP,10,Luminária,Casa,119.00,1,107.10,
+746,1,2026-05-22,app,cancelado,93,Cliente 093,Santos,SP,6,Sanduicheira,Eletro,99.90,1,99.90,
+747,1,2026-05-22,loja,devolvido,102,Cliente 102,Limeira,SP,8,Panela,Casa,129.90,1,116.91,0.00
+748,1,2026-05-22,site,entregue,50,Cliente 050,Jundiaí,SP,10,Luminária,Casa,119.00,1,119.00,
+748,2,2026-05-22,site,entregue,50,Cliente 050,Jundiaí,SP,25,Secador,Beleza,199.00,1,199.00,19.90
+748,3,2026-05-22,site,entregue,50,Cliente 050,Jundiaí,SP,29,Perfume,Beleza,189.00,2,189.00,
+749,1,2026-05-22,app,entregue,74,Cliente 074,Piracicaba,SP,30,Chapinha,Beleza,169.00,1,169.00,
+749,2,2026-05-22,app,entregue,74,Cliente 074,Piracicaba,SP,11,Organizador,Casa,39.90,1,39.90,
+749,3,2026-05-22,app,entregue,74,Cliente 074,Piracicaba,SP,7,Jogo de toalhas,Casa,89.90,2,80.91,
+749,4,2026-05-22,app,entregue,74,Cliente 074,Piracicaba,SP,21,Tapete de yoga,Esporte,99.00,1,99.00,
+750,1,2026-05-23,app,cancelado,103,Cliente 103,Limeira,SP,7,Jogo de toalhas,Casa,89.90,1,80.91,
+750,2,2026-05-23,app,cancelado,103,Cliente 103,Limeira,SP,6,Sanduicheira,Eletro,99.90,2,99.90,
+750,3,2026-05-23,app,cancelado,103,Cliente 103,Limeira,SP,16,Mochila,Papelaria,159.00,1,159.00,
+750,4,2026-05-23,app,cancelado,103,Cliente 103,Limeira,SP,30,Chapinha,Beleza,169.00,1,169.00,16.90
+751,1,2026-05-23,app,entregue,60,Cliente 060,Jundiaí,SP,21,Tapete de yoga,Esporte,99.00,1,89.10,
+751,2,2026-05-23,app,entregue,60,Cliente 060,Jundiaí,SP,14,Agenda,Papelaria,39.90,1,39.90,
+752,1,2026-05-23,site,devolvido,64,Cliente 064,Piracicaba,SP,26,Escova,Beleza,34.90,1,34.90,0.00
+752,2,2026-05-23,site,devolvido,64,Cliente 064,Piracicaba,SP,27,Hidratante,Beleza,44.90,1,44.90,
+753,1,2026-05-23,app,entregue,2,Cliente 002,Campinas,SP,6,Sanduicheira,Eletro,99.90,1,99.90,
+753,2,2026-05-23,app,entregue,2,Cliente 002,Campinas,SP,26,Escova,Beleza,34.90,2,34.90,
+754,1,2026-05-23,app,entregue,13,Cliente 013,Campinas,SP,13,Caderno,Papelaria,24.90,1,24.90,0.00
+755,1,2026-05-23,app,entregue,30,Cliente 030,Campinas,SP,10,Luminária,Casa,119.00,1,119.00,
+756,1,2026-05-24,site,cancelado,54,Cliente 054,Jundiaí,SP,26,Escova,Beleza,34.90,2,34.90,
+756,2,2026-05-24,site,cancelado,54,Cliente 054,Jundiaí,SP,29,Perfume,Beleza,189.00,1,170.10,
+756,3,2026-05-24,site,cancelado,54,Cliente 054,Jundiaí,SP,26,Escova,Beleza,34.90,1,31.41,
+756,4,2026-05-24,site,cancelado,54,Cliente 054,Jundiaí,SP,21,Tapete de yoga,Esporte,99.00,1,89.10,
+757,1,2026-05-24,loja,devolvido,36,Cliente 036,Sorocaba,SP,20,Garrafa térmica,Esporte,69.90,1,69.90,
+758,1,2026-05-24,app,entregue,47,Cliente 047,Sorocaba,SP,4,Cafeteira,Eletro,159.90,1,159.90,
+758,2,2026-05-24,app,entregue,47,Cliente 047,Sorocaba,SP,29,Perfume,Beleza,189.00,1,189.00,0.00
+759,1,2026-05-24,site,entregue,46,Cliente 046,Sorocaba,SP,9,Jogo de copos,Casa,49.90,1,49.90,0.00
+759,2,2026-05-24,site,entregue,46,Cliente 046,Sorocaba,SP,25,Secador,Beleza,199.00,2,199.00,0.00
+759,3,2026-05-24,site,entregue,46,Cliente 046,Sorocaba,SP,18,Marca-texto,Papelaria,12.90,1,11.61,1.16
+760,1,2026-05-24,app,entregue,47,Cliente 047,Sorocaba,SP,4,Cafeteira,Eletro,159.90,1,159.90,
+760,2,2026-05-24,app,entregue,47,Cliente 047,Sorocaba,SP,10,Luminária,Casa,119.00,1,119.00,
+761,1,2026-05-25,site,entregue,84,Cliente 084,Ribeirão Preto,SP,29,Perfume,Beleza,189.00,2,189.00,
+761,2,2026-05-25,site,entregue,84,Cliente 084,Ribeirão Preto,SP,30,Chapinha,Beleza,169.00,1,169.00,16.90
+762,1,2026-05-25,site,entregue,8,Cliente 008,Campinas,SP,20,Garrafa térmica,Esporte,69.90,2,69.90,
+763,1,2026-05-25,app,entregue,100,Cliente 100,Limeira,SP,18,Marca-texto,Papelaria,12.90,2,12.90,
+763,2,2026-05-25,app,entregue,100,Cliente 100,Limeira,SP,26,Escova,Beleza,34.90,1,31.41,
+764,1,2026-05-26,app,cancelado,104,Cliente 104,Limeira,SP,28,Protetor solar,Beleza,59.90,1,59.90,
+765,1,2026-05-26,site,entregue,74,Cliente 074,Piracicaba,SP,3,Batedeira,Eletro,279.00,1,279.00,27.90
+766,1,2026-05-26,site,cancelado,89,Cliente 089,Santos,SP,4,Cafeteira,Eletro,159.90,2,159.90,
+767,1,2026-05-26,loja,entregue,47,Cliente 047,Sorocaba,SP,10,Luminária,Casa,119.00,1,119.00,
+767,2,2026-05-26,loja,entregue,47,Cliente 047,Sorocaba,SP,21,Tapete de yoga,Esporte,99.00,1,99.00,
+768,1,2026-05-27,site,entregue,49,Cliente 049,Jundiaí,SP,5,Aspirador,Eletro,349.00,1,349.00,
+768,2,2026-05-27,site,entregue,49,Cliente 049,Jundiaí,SP,6,Sanduicheira,Eletro,99.90,3,89.91,
+769,1,2026-05-27,loja,entregue,74,Cliente 074,Piracicaba,SP,12,Cortina,Casa,149.90,1,149.90,14.99
+770,1,2026-05-27,site,entregue,23,Cliente 023,Campinas,SP,3,Batedeira,Eletro,279.00,1,251.10,
+770,2,2026-05-27,site,entregue,23,Cliente 023,Campinas,SP,15,Estojo,Papelaria,19.90,1,19.90,
+771,1,2026-05-27,app,entregue,52,Cliente 052,Jundiaí,SP,11,Organizador,Casa,39.90,1,39.90,
+772,1,2026-05-27,site,cancelado,59,Cliente 059,Jundiaí,SP,22,Halter,Esporte,119.90,1,119.90,
+772,2,2026-05-27,site,cancelado,59,Cliente 059,Jundiaí,SP,22,Halter,Esporte,119.90,1,119.90,
+773,1,2026-05-27,app,entregue,37,Cliente 037,Sorocaba,SP,25,Secador,Beleza,199.00,1,199.00,
+773,2,2026-05-27,app,entregue,37,Cliente 037,Sorocaba,SP,3,Batedeira,Eletro,279.00,1,279.00,
+773,3,2026-05-27,app,entregue,37,Cliente 037,Sorocaba,SP,24,Joelheira,Esporte,49.90,1,49.90,
+773,4,2026-05-27,app,entregue,37,Cliente 037,Sorocaba,SP,6,Sanduicheira,Eletro,99.90,1,99.90,
+774,1,2026-05-27,site,entregue,86,Cliente 086,Ribeirão Preto,SP,24,Joelheira,Esporte,49.90,1,49.90,0.00
+775,1,2026-05-28,site,entregue,25,Cliente 025,Campinas,SP,14,Agenda,Papelaria,39.90,1,39.90,
+776,1,2026-05-28,app,cancelado,59,Cliente 059,Jundiaí,SP,4,Cafeteira,Eletro,159.90,3,159.90,
+777,1,2026-05-28,app,entregue,11,Cliente 011,Campinas,SP,22,Halter,Esporte,119.90,1,107.91,
+777,2,2026-05-28,app,entregue,11,Cliente 011,Campinas,SP,15,Estojo,Papelaria,19.90,1,19.90,0.00
+778,1,2026-05-28,site,entregue,77,Cliente 077,Ribeirão Preto,SP,13,Caderno,Papelaria,24.90,2,24.90,
+779,1,2026-05-29,site,entregue,10,Cliente 010,Campinas,SP,18,Marca-texto,Papelaria,12.90,1,12.90,
+780,1,2026-05-29,site,entregue,13,Cliente 013,Campinas,SP,11,Organizador,Casa,39.90,1,39.90,0.00
+780,2,2026-05-29,site,entregue,13,Cliente 013,Campinas,SP,30,Chapinha,Beleza,169.00,1,152.10,
+781,1,2026-05-29,site,entregue,2,Cliente 002,Campinas,SP,17,Calculadora,Papelaria,59.90,1,59.90,
+782,1,2026-05-29,site,entregue,24,Cliente 024,Campinas,SP,2,Ventilador,Eletro,239.90,2,239.90,47.98
+783,1,2026-05-30,loja,entregue,56,Cliente 056,Jundiaí,SP,9,Jogo de copos,Casa,49.90,2,49.90,
+784,1,2026-05-30,site,cancelado,31,Cliente 031,Sorocaba,SP,2,Ventilador,Eletro,239.90,1,239.90,23.99
+784,2,2026-05-30,site,cancelado,31,Cliente 031,Sorocaba,SP,16,Mochila,Papelaria,159.00,1,143.10,14.31
+785,1,2026-05-30,app,entregue,56,Cliente 056,Jundiaí,SP,27,Hidratante,Beleza,44.90,1,44.90,
+786,1,2026-05-30,site,entregue,94,Cliente 094,Santos,SP,30,Chapinha,Beleza,169.00,1,152.10,
+787,1,2026-05-30,site,devolvido,5,Cliente 005,Campinas,SP,18,Marca-texto,Papelaria,12.90,1,12.90,
+787,2,2026-05-30,site,devolvido,5,Cliente 005,Campinas,SP,4,Cafeteira,Eletro,159.90,1,159.90,
+787,3,2026-05-30,site,devolvido,5,Cliente 005,Campinas,SP,30,Chapinha,Beleza,169.00,1,169.00,
+788,1,2026-05-30,site,entregue,68,Cliente 068,Piracicaba,SP,4,Cafeteira,Eletro,159.90,1,159.90,
+788,2,2026-05-30,site,entregue,68,Cliente 068,Piracicaba,SP,9,Jogo de copos,Casa,49.90,1,49.90,4.99
+789,1,2026-05-31,site,entregue,25,Cliente 025,Campinas,SP,7,Jogo de toalhas,Casa,89.90,2,89.90,0.00
+790,1,2026-05-31,site,entregue,87,Cliente 087,Ribeirão Preto,SP,6,Sanduicheira,Eletro,99.90,1,99.90,
+791,1,2026-05-31,site,entregue,17,Cliente 017,Campinas,SP,18,Marca-texto,Papelaria,12.90,1,12.90,
+791,2,2026-05-31,site,entregue,17,Cliente 017,Campinas,SP,17,Calculadora,Papelaria,59.90,1,59.90,
+792,1,2026-05-31,loja,entregue,37,Cliente 037,Sorocaba,SP,28,Protetor solar,Beleza,59.90,1,59.90,
+792,2,2026-05-31,loja,entregue,37,Cliente 037,Sorocaba,SP,1,Liquidificador,Eletro,189.90,1,189.90,
+793,1,2026-05-31,site,entregue,57,Cliente 057,Jundiaí,SP,17,Calculadora,Papelaria,59.90,1,59.90,
+794,1,2026-06-01,site,entregue,93,Cliente 093,Santos,SP,15,Estojo,Papelaria,19.90,3,19.90,
+795,1,2026-06-01,site,entregue,23,Cliente 023,Campinas,SP,24,Joelheira,Esporte,49.90,3,49.90,
+795,2,2026-06-01,site,entregue,23,Cliente 023,Campinas,SP,23,Corda de pular,Esporte,29.90,1,29.90,
+795,3,2026-06-01,site,entregue,23,Cliente 023,Campinas,SP,8,Panela,Casa,129.90,1,129.90,
+796,1,2026-06-01,site,entregue,115,Cliente 115,Curitiba,PR,13,Caderno,Papelaria,24.90,3,24.90,
+797,1,2026-06-01,site,entregue,118,Cliente 118,Curitiba,PR,29,Perfume,Beleza,189.00,1,189.00,
+797,2,2026-06-01,site,entregue,118,Cliente 118,Curitiba,PR,20,Garrafa térmica,Casa,69.90,1,69.90,
+798,1,2026-06-01,site,entregue,12,Cliente 012,Campinas,SP,13,Caderno,Papelaria,24.90,1,22.41,
+799,1,2026-06-02,app,entregue,116,Cliente 116,Curitiba,PR,7,Jogo de toalhas,Casa,89.90,1,89.90,0.00
+800,1,2026-06-02,site,entregue,61,Cliente 061,Jundiaí,SP,5,Aspirador,Eletro,349.00,3,349.00,
+801,1,2026-06-02,site,entregue,24,Cliente 024,Campinas,SP,6,Sanduicheira,Eletro,99.90,2,89.91,
+802,1,2026-06-03,site,entregue,98,Cliente 098,Santos,SP,12,Cortina,Casa,149.90,1,149.90,14.99
+803,1,2026-06-03,app,entregue,119,Cliente 119,Curitiba,PR,7,Jogo de toalhas,Casa,89.90,1,89.90,
+803,2,2026-06-03,app,entregue,119,Cliente 119,Curitiba,PR,9,Jogo de copos,Casa,49.90,1,49.90,
+804,1,2026-06-03,app,entregue,36,Cliente 036,Sorocaba,SP,6,Sanduicheira,Eletro,99.90,2,99.90,
+805,1,2026-06-03,site,entregue,94,Cliente 094,Santos,SP,10,Luminária,Casa,119.00,3,119.00,35.70
+805,2,2026-06-03,site,entregue,94,Cliente 094,Santos,SP,3,Batedeira,Eletro,279.00,1,279.00,
+805,3,2026-06-03,site,entregue,94,Cliente 094,Santos,SP,10,Luminária,Casa,119.00,1,107.10,
+806,1,2026-06-03,site,cancelado,1,Cliente 001,Campinas,SP,1,Liquidificador,Eletro,189.90,1,189.90,
+806,2,2026-06-03,site,cancelado,1,Cliente 001,Campinas,SP,3,Batedeira,Eletro,279.00,2,279.00,
+806,3,2026-06-03,site,cancelado,1,Cliente 001,Campinas,SP,19,Bola,Esporte,79.90,2,79.90,
+807,1,2026-06-03,app,entregue,19,Cliente 019,Campinas,SP,26,Escova,Beleza,34.90,1,34.90,
+807,2,2026-06-03,app,entregue,19,Cliente 019,Campinas,SP,1,Liquidificador,Eletro,189.90,1,189.90,
+808,1,2026-06-04,app,entregue,12,Cliente 012,Campinas,SP,12,Cortina,Casa,149.90,1,134.91,0.00
+809,1,2026-06-04,site,entregue,84,Cliente 084,Ribeirão Preto,SP,20,Garrafa térmica,Casa,69.90,1,62.91,0.00
+809,2,2026-06-04,site,entregue,84,Cliente 084,Ribeirão Preto,SP,25,Secador,Beleza,199.00,1,199.00,19.90
+810,1,2026-06-04,site,entregue,26,Cliente 026,Campinas,SP,17,Calculadora,Papelaria,59.90,1,59.90,
+811,1,2026-06-04,app,entregue,47,Cliente 047,Sorocaba,SP,14,Agenda,Papelaria,39.90,1,39.90,3.99
+811,2,2026-06-04,app,entregue,47,Cliente 047,Sorocaba,SP,22,Halter,Esporte,119.90,1,119.90,
+812,1,2026-06-04,app,entregue,36,Cliente 036,Sorocaba,SP,23,Corda de pular,Esporte,29.90,1,26.91,
+812,2,2026-06-04,app,entregue,36,Cliente 036,Sorocaba,SP,1,Liquidificador,Eletro,189.90,1,189.90,0.00
+813,1,2026-06-05,app,entregue,19,Cliente 019,Campinas,SP,14,Agenda,Papelaria,39.90,1,39.90,3.99
+813,2,2026-06-05,app,entregue,19,Cliente 019,Campinas,SP,7,Jogo de toalhas,Casa,89.90,1,89.90,
+814,1,2026-06-05,loja,entregue,71,Cliente 071,Piracicaba,SP,5,Aspirador,Eletro,349.00,1,349.00,34.90
+814,2,2026-06-05,loja,entregue,71,Cliente 071,Piracicaba,SP,2,Ventilador,Eletro,239.90,1,239.90,
+815,1,2026-06-05,loja,entregue,45,Cliente 045,Sorocaba,SP,20,Garrafa térmica,Casa,69.90,2,69.90,
+816,1,2026-06-05,app,entregue,23,Cliente 023,Campinas,SP,24,Joelheira,Esporte,49.90,1,44.91,
+816,2,2026-06-05,app,entregue,23,Cliente 023,Campinas,SP,30,Chapinha,Beleza,169.00,1,169.00,
+816,3,2026-06-05,app,entregue,23,Cliente 023,Campinas,SP,19,Bola,Esporte,79.90,1,79.90,
+817,1,2026-06-05,app,entregue,49,Cliente 049,Jundiaí,SP,24,Joelheira,Esporte,49.90,1,49.90,
+817,2,2026-06-05,app,entregue,49,Cliente 049,Jundiaí,SP,27,Hidratante,Beleza,44.90,3,44.90,
+818,1,2026-06-05,app,entregue,48,Cliente 048,Sorocaba,SP,26,Escova,Beleza,34.90,1,34.90,
+819,1,2026-06-05,loja,entregue,91,Cliente 091,Santos,SP,2,Ventilador,Eletro,239.90,1,239.90,
+820,1,2026-06-05,app,entregue,77,Cliente 077,Ribeirão Preto,SP,7,Jogo de toalhas,Casa,89.90,1,89.90,8.99
+820,2,2026-06-05,app,entregue,77,Cliente 077,Ribeirão Preto,SP,12,Cortina,Casa,149.90,1,134.91,0.00
+820,3,2026-06-05,app,entregue,77,Cliente 077,Ribeirão Preto,SP,5,Aspirador,Eletro,349.00,1,349.00,
+821,1,2026-06-06,loja,cancelado,12,Cliente 012,Campinas,SP,24,Joelheira,Esporte,49.90,1,49.90,4.99
+822,1,2026-06-06,app,entregue,117,Cliente 117,Curitiba,PR,8,Panela,Casa,129.90,1,129.90,0.00
+822,2,2026-06-06,app,entregue,117,Cliente 117,Curitiba,PR,26,Escova,Beleza,34.90,1,31.41,
+822,3,2026-06-06,app,entregue,117,Cliente 117,Curitiba,PR,10,Luminária,Casa,119.00,1,119.00,11.90
+823,1,2026-06-07,site,entregue,23,Cliente 023,Campinas,SP,15,Estojo,Papelaria,19.90,1,19.90,0.00
+823,2,2026-06-07,site,entregue,23,Cliente 023,Campinas,SP,22,Halter,Esporte,119.90,1,119.90,
+823,3,2026-06-07,site,entregue,23,Cliente 023,Campinas,SP,2,Ventilador,Eletro,239.90,1,239.90,23.99
+824,1,2026-06-07,loja,entregue,50,Cliente 050,Jundiaí,SP,27,Hidratante,Beleza,44.90,1,44.90,
+824,2,2026-06-07,loja,entregue,50,Cliente 050,Jundiaí,SP,17,Calculadora,Papelaria,59.90,1,59.90,
+824,3,2026-06-07,loja,entregue,50,Cliente 050,Jundiaí,SP,30,Chapinha,Beleza,169.00,1,169.00,
+825,1,2026-06-07,app,entregue,119,Cliente 119,Curitiba,PR,4,Cafeteira,Eletro,159.90,2,159.90,
+826,1,2026-06-07,loja,entregue,119,Cliente 119,Curitiba,PR,19,Bola,Esporte,79.90,1,79.90,
+826,2,2026-06-07,loja,entregue,119,Cliente 119,Curitiba,PR,22,Halter,Esporte,119.90,1,119.90,
+827,1,2026-06-07,app,entregue,42,Cliente 042,Sorocaba,SP,6,Sanduicheira,Eletro,99.90,1,99.90,0.00
+828,1,2026-06-07,loja,entregue,78,Cliente 078,Ribeirão Preto,SP,13,Caderno,Papelaria,24.90,1,22.41,
+828,2,2026-06-07,loja,entregue,78,Cliente 078,Ribeirão Preto,SP,27,Hidratante,Beleza,44.90,1,44.90,
+828,3,2026-06-07,loja,entregue,78,Cliente 078,Ribeirão Preto,SP,21,Tapete de yoga,Esporte,99.00,1,99.00,
+829,1,2026-06-08,app,entregue,95,Cliente 095,Santos,SP,26,Escova,Beleza,34.90,1,31.41,
+830,1,2026-06-08,site,entregue,1,Cliente 001,Campinas,SP,16,Mochila,Papelaria,159.00,1,143.10,14.31
+831,1,2026-06-08,site,entregue,70,Cliente 070,Piracicaba,SP,3,Batedeira,Eletro,279.00,2,279.00,55.80
+831,2,2026-06-08,site,entregue,70,Cliente 070,Piracicaba,SP,16,Mochila,Papelaria,159.00,1,143.10,14.31
+831,3,2026-06-08,site,entregue,70,Cliente 070,Piracicaba,SP,24,Joelheira,Esporte,49.90,1,49.90,
+832,1,2026-06-08,site,entregue,89,Cliente 089,Santos,SP,5,Aspirador,Eletro,349.00,1,349.00,
+833,1,2026-06-08,site,entregue,68,Cliente 068,Piracicaba,SP,21,Tapete de yoga,Esporte,99.00,1,89.10,
+834,1,2026-06-08,app,entregue,6,Cliente 006,Campinas,SP,13,Caderno,Papelaria,24.90,1,24.90,
+834,2,2026-06-08,app,entregue,6,Cliente 006,Campinas,SP,7,Jogo de toalhas,Casa,89.90,1,89.90,
+835,1,2026-06-08,site,entregue,8,Cliente 008,Campinas,SP,2,Ventilador,Eletro,239.90,1,215.91,
+836,1,2026-06-09,site,entregue,47,Cliente 047,Sorocaba,SP,19,Bola,Esporte,79.90,1,79.90,
+836,2,2026-06-09,site,entregue,47,Cliente 047,Sorocaba,SP,17,Calculadora,Papelaria,59.90,1,59.90,
+837,1,2026-06-09,site,entregue,101,Cliente 101,Limeira,SP,10,Luminária,Casa,119.00,2,119.00,
+837,2,2026-06-09,site,entregue,101,Cliente 101,Limeira,SP,30,Chapinha,Beleza,169.00,1,169.00,
+838,1,2026-06-09,site,entregue,86,Cliente 086,Ribeirão Preto,SP,30,Chapinha,Beleza,169.00,1,169.00,
+839,1,2026-06-09,site,entregue,59,Cliente 059,Jundiaí,SP,3,Batedeira,Eletro,279.00,1,279.00,
+839,2,2026-06-09,site,entregue,59,Cliente 059,Jundiaí,SP,19,Bola,Esporte,79.90,1,79.90,7.99
+839,3,2026-06-09,site,entregue,59,Cliente 059,Jundiaí,SP,4,Cafeteira,Eletro,159.90,1,159.90,
+840,1,2026-06-10,site,entregue,106,Cliente 106,Limeira,SP,13,Caderno,Papelaria,24.90,1,22.41,2.24
+841,1,2026-06-10,loja,entregue,12,Cliente 012,Campinas,SP,6,Sanduicheira,Eletro,99.90,3,99.90,29.97
+841,2,2026-06-10,loja,entregue,12,Cliente 012,Campinas,SP,25,Secador,Beleza,199.00,1,179.10,
+842,1,2026-06-10,app,entregue,1,Cliente 001,Campinas,SP,10,Luminária,Casa,119.00,2,119.00,
+842,2,2026-06-10,app,entregue,1,Cliente 001,Campinas,SP,22,Halter,Esporte,119.90,1,119.90,
+842,3,2026-06-10,app,entregue,1,Cliente 001,Campinas,SP,14,Agenda,Papelaria,39.90,1,35.91,
+843,1,2026-06-11,app,entregue,94,Cliente 094,Santos,SP,14,Agenda,Papelaria,39.90,1,39.90,
+843,2,2026-06-11,app,entregue,94,Cliente 094,Santos,SP,2,Ventilador,Eletro,239.90,1,239.90,23.99
+843,3,2026-06-11,app,entregue,94,Cliente 094,Santos,SP,17,Calculadora,Papelaria,59.90,1,59.90,
+844,1,2026-06-11,app,entregue,90,Cliente 090,Santos,SP,16,Mochila,Papelaria,159.00,2,159.00,
+845,1,2026-06-11,app,entregue,95,Cliente 095,Santos,SP,16,Mochila,Papelaria,159.00,1,159.00,
+845,2,2026-06-11,app,entregue,95,Cliente 095,Santos,SP,29,Perfume,Beleza,189.00,1,189.00,
+846,1,2026-06-12,app,entregue,64,Cliente 064,Piracicaba,SP,16,Mochila,Papelaria,159.00,1,159.00,
+846,2,2026-06-12,app,entregue,64,Cliente 064,Piracicaba,SP,3,Batedeira,Eletro,279.00,1,279.00,
+847,1,2026-06-12,site,entregue,86,Cliente 086,Ribeirão Preto,SP,28,Protetor solar,Beleza,59.90,2,59.90,
+848,1,2026-06-12,site,entregue,94,Cliente 094,Santos,SP,13,Caderno,Papelaria,24.90,1,24.90,
+849,1,2026-06-12,site,entregue,49,Cliente 049,Jundiaí,SP,3,Batedeira,Eletro,279.00,1,279.00,
+849,2,2026-06-12,site,entregue,49,Cliente 049,Jundiaí,SP,1,Liquidificador,Eletro,189.90,1,189.90,0.00
+850,1,2026-06-12,app,entregue,54,Cliente 054,Jundiaí,SP,7,Jogo de toalhas,Casa,89.90,3,89.90,
+850,2,2026-06-12,app,entregue,54,Cliente 054,Jundiaí,SP,6,Sanduicheira,Eletro,99.90,1,99.90,
+850,3,2026-06-12,app,entregue,54,Cliente 054,Jundiaí,SP,8,Panela,Casa,129.90,2,129.90,
+850,4,2026-06-12,app,entregue,54,Cliente 054,Jundiaí,SP,21,Tapete de yoga,Esporte,99.00,1,99.00,
+851,1,2026-06-12,site,em_andamento,93,Cliente 093,Santos,SP,26,Escova,Beleza,34.90,1,34.90,
+852,1,2026-06-13,site,entregue,114,Cliente 114,Curitiba,PR,9,Jogo de copos,Casa,49.90,1,44.91,
+852,2,2026-06-13,site,entregue,114,Cliente 114,Curitiba,PR,12,Cortina,Casa,149.90,2,149.90,0.00
+852,3,2026-06-13,site,entregue,114,Cliente 114,Curitiba,PR,16,Mochila,Papelaria,159.00,1,159.00,
+852,4,2026-06-13,site,entregue,114,Cliente 114,Curitiba,PR,25,Secador,Beleza,199.00,1,199.00,
+853,1,2026-06-13,app,em_andamento,40,Cliente 040,Sorocaba,SP,13,Caderno,Papelaria,24.90,1,24.90,
+854,1,2026-06-13,loja,em_andamento,12,Cliente 012,Campinas,SP,30,Chapinha,Beleza,169.00,1,169.00,0.00
+855,1,2026-06-13,loja,entregue,113,Cliente 113,Curitiba,PR,20,Garrafa térmica,Casa,69.90,2,69.90,
+856,1,2026-06-13,site,entregue,45,Cliente 045,Sorocaba,SP,9,Jogo de copos,Casa,49.90,1,49.90,4.99
+857,1,2026-06-13,site,entregue,103,Cliente 103,Limeira,SP,14,Agenda,Papelaria,39.90,1,39.90,
+858,1,2026-06-13,loja,entregue,22,Cliente 022,Campinas,SP,13,Caderno,Papelaria,24.90,1,24.90,
+858,2,2026-06-13,loja,entregue,22,Cliente 022,Campinas,SP,9,Jogo de copos,Casa,49.90,1,49.90,
+859,1,2026-06-13,loja,entregue,4,Cliente 004,Campinas,SP,12,Cortina,Casa,149.90,2,149.90,29.98
+860,1,2026-06-13,loja,entregue,96,Cliente 096,Santos,SP,13,Caderno,Papelaria,24.90,1,24.90,
+861,1,2026-06-13,site,entregue,59,Cliente 059,Jundiaí,SP,15,Estojo,Papelaria,19.90,1,17.91,
+861,2,2026-06-13,site,entregue,59,Cliente 059,Jundiaí,SP,12,Cortina,Casa,149.90,1,149.90,
+861,3,2026-06-13,site,entregue,59,Cliente 059,Jundiaí,SP,3,Batedeira,Eletro,279.00,1,251.10,
+862,1,2026-06-14,site,em_andamento,84,Cliente 084,Ribeirão Preto,SP,8,Panela,Casa,129.90,2,129.90,
+862,2,2026-06-14,site,em_andamento,84,Cliente 084,Ribeirão Preto,SP,19,Bola,Esporte,79.90,1,79.90,
+862,3,2026-06-14,site,em_andamento,84,Cliente 084,Ribeirão Preto,SP,2,Ventilador,Eletro,239.90,1,239.90,23.99
+862,4,2026-06-14,site,em_andamento,84,Cliente 084,Ribeirão Preto,SP,24,Joelheira,Esporte,49.90,1,44.91,
+863,1,2026-06-14,app,entregue,84,Cliente 084,Ribeirão Preto,SP,29,Perfume,Beleza,189.00,1,189.00,
+864,1,2026-06-14,site,entregue,1,Cliente 001,Campinas,SP,6,Sanduicheira,Eletro,99.90,3,99.90,
+865,1,2026-06-14,site,entregue,96,Cliente 096,Santos,SP,2,Ventilador,Eletro,239.90,1,239.90,
+865,2,2026-06-14,site,entregue,96,Cliente 096,Santos,SP,8,Panela,Casa,129.90,1,129.90,
+866,1,2026-06-15,app,em_andamento,72,Cliente 072,Piracicaba,SP,3,Batedeira,Eletro,279.00,2,279.00,
+867,1,2026-06-15,site,cancelado,84,Cliente 084,Ribeirão Preto,SP,9,Jogo de copos,Casa,49.90,2,49.90,
+868,1,2026-06-15,app,cancelado,23,Cliente 023,Campinas,SP,27,Hidratante,Beleza,44.90,1,44.90,
+868,2,2026-06-15,app,cancelado,23,Cliente 023,Campinas,SP,10,Luminária,Casa,119.00,2,119.00,
+869,1,2026-06-15,loja,em_andamento,57,Cliente 057,Jundiaí,SP,8,Panela,Casa,129.90,2,129.90,
+869,2,2026-06-15,loja,em_andamento,57,Cliente 057,Jundiaí,SP,13,Caderno,Papelaria,24.90,2,24.90,
+869,3,2026-06-15,loja,em_andamento,57,Cliente 057,Jundiaí,SP,12,Cortina,Casa,149.90,2,149.90,29.98
+870,1,2026-06-16,loja,em_andamento,73,Cliente 073,Piracicaba,SP,28,Protetor solar,Beleza,59.90,1,59.90,
+871,1,2026-06-16,loja,em_andamento,110,Cliente 110,Bauru,SP,18,Marca-texto,Papelaria,12.90,1,12.90,0.00
+872,1,2026-06-16,app,em_andamento,56,Cliente 056,Jundiaí,SP,25,Secador,Beleza,199.00,1,199.00,
+873,1,2026-06-16,site,em_andamento,117,Cliente 117,Curitiba,PR,6,Sanduicheira,Eletro,99.90,1,99.90,0.00
+874,1,2026-06-16,site,cancelado,30,Cliente 030,Campinas,SP,22,Halter,Esporte,119.90,2,119.90,
+874,2,2026-06-16,site,cancelado,30,Cliente 030,Campinas,SP,3,Batedeira,Eletro,279.00,1,279.00,27.90
+874,3,2026-06-16,site,cancelado,30,Cliente 030,Campinas,SP,13,Caderno,Papelaria,24.90,1,24.90,
+874,4,2026-06-16,site,cancelado,30,Cliente 030,Campinas,SP,10,Luminária,Casa,119.00,1,119.00,
+875,1,2026-06-16,app,entregue,113,Cliente 113,Curitiba,PR,1,Liquidificador,Eletro,189.90,2,170.91,
+875,2,2026-06-16,app,entregue,113,Cliente 113,Curitiba,PR,29,Perfume,Beleza,189.00,1,189.00,
+875,3,2026-06-16,app,entregue,113,Cliente 113,Curitiba,PR,21,Tapete de yoga,Esporte,99.00,1,89.10,
+876,1,2026-06-16,loja,em_andamento,71,Cliente 071,Piracicaba,SP,2,Ventilador,Eletro,239.90,1,239.90,
+876,2,2026-06-16,loja,em_andamento,71,Cliente 071,Piracicaba,SP,7,Jogo de toalhas,Casa,89.90,1,89.90,
+877,1,2026-06-17,site,em_andamento,64,Cliente 064,Piracicaba,SP,5,Aspirador,Eletro,349.00,1,349.00,
+877,2,2026-06-17,site,em_andamento,64,Cliente 064,Piracicaba,SP,2,Ventilador,Eletro,239.90,1,239.90,
+878,1,2026-06-17,loja,em_andamento,86,Cliente 086,Ribeirão Preto,SP,23,Corda de pular,Esporte,29.90,1,29.90,
+879,1,2026-06-17,site,em_andamento,77,Cliente 077,Ribeirão Preto,SP,27,Hidratante,Beleza,44.90,1,44.90,
+880,1,2026-06-17,loja,em_andamento,68,Cliente 068,Piracicaba,SP,3,Batedeira,Eletro,279.00,1,279.00,27.90
+881,1,2026-06-17,app,em_andamento,91,Cliente 091,Santos,SP,6,Sanduicheira,Eletro,99.90,1,89.91,
+881,2,2026-06-17,app,em_andamento,91,Cliente 091,Santos,SP,11,Organizador,Casa,39.90,1,39.90,
+882,1,2026-06-17,loja,em_andamento,103,Cliente 103,Limeira,SP,24,Joelheira,Esporte,49.90,1,49.90,
+882,2,2026-06-17,loja,em_andamento,103,Cliente 103,Limeira,SP,21,Tapete de yoga,Esporte,99.00,1,99.00,0.00
+883,1,2026-06-17,app,em_andamento,26,Cliente 026,Campinas,SP,26,Escova,Beleza,34.90,1,34.90,
+883,2,2026-06-17,app,em_andamento,26,Cliente 026,Campinas,SP,2,Ventilador,Eletro,239.90,1,239.90,
+884,1,2026-06-17,app,em_andamento,4,Cliente 004,Sorocaba,SP,4,Cafeteira,Eletro,159.90,1,159.90,
+884,2,2026-06-17,app,em_andamento,4,Cliente 004,Sorocaba,SP,23,Corda de pular,Esporte,29.90,1,29.90,
+884,3,2026-06-17,app,em_andamento,4,Cliente 004,Sorocaba,SP,1,Liquidificador,Eletro,189.90,1,189.90,
+885,1,2026-06-18,app,em_andamento,44,Cliente 044,Sorocaba,SP,28,Protetor solar,Beleza,59.90,1,53.91,
+885,2,2026-06-18,app,em_andamento,44,Cliente 044,Sorocaba,SP,16,Mochila,Papelaria,159.00,2,143.10,
+885,3,2026-06-18,app,em_andamento,44,Cliente 044,Sorocaba,SP,7,Jogo de toalhas,Casa,89.90,1,89.90,8.99
+886,1,2026-06-18,site,em_andamento,55,Cliente 055,Jundiaí,SP,30,Chapinha,Beleza,169.00,1,169.00,16.90
+887,1,2026-06-18,site,cancelado,8,Cliente 008,Campinas,SP,3,Batedeira,Eletro,279.00,2,279.00,
+887,2,2026-06-18,site,cancelado,8,Cliente 008,Campinas,SP,6,Sanduicheira,Eletro,99.90,1,89.91,
+888,1,2026-06-18,site,cancelado,73,Cliente 073,Piracicaba,SP,28,Protetor solar,Beleza,59.90,1,59.90,
+889,1,2026-06-18,site,em_andamento,19,Cliente 019,Campinas,SP,19,Bola,Esporte,79.90,2,79.90,0.00
+889,2,2026-06-18,site,em_andamento,19,Cliente 019,Campinas,SP,18,Marca-texto,Papelaria,12.90,2,12.90,0.00
+890,1,2026-06-18,site,em_andamento,18,Cliente 018,Campinas,SP,16,Mochila,Papelaria,159.00,1,159.00,
+891,1,2026-06-18,site,em_andamento,112,Cliente 112,Bauru,SP,23,Corda de pular,Esporte,29.90,1,29.90,
+892,1,2026-06-19,loja,em_andamento,102,Cliente 102,Limeira,SP,19,Bola,Esporte,79.90,1,79.90,
+892,2,2026-06-19,loja,em_andamento,102,Cliente 102,Limeira,SP,1,Liquidificador,Eletro,189.90,1,189.90,18.99
+892,3,2026-06-19,loja,em_andamento,102,Cliente 102,Limeira,SP,10,Luminária,Casa,119.00,1,119.00,
+893,1,2026-06-19,site,em_andamento,47,Cliente 047,Sorocaba,SP,14,Agenda,Papelaria,39.90,1,39.90,0.00
+894,1,2026-06-19,site,em_andamento,70,Cliente 070,Piracicaba,SP,25,Secador,Beleza,199.00,1,199.00,
+894,2,2026-06-19,site,em_andamento,70,Cliente 070,Piracicaba,SP,19,Bola,Esporte,79.90,2,79.90,0.00
+894,3,2026-06-19,site,em_andamento,70,Cliente 070,Piracicaba,SP,18,Marca-texto,Papelaria,12.90,1,12.90,
+895,1,2026-06-19,app,em_andamento,17,Cliente 017,Campinas,SP,9,Jogo de copos,Casa,49.90,1,49.90,
+896,1,2026-06-19,loja,em_andamento,13,Cliente 013,Campinas,SP,2,Ventilador,Eletro,239.90,1,239.90,
+897,1,2026-06-20,loja,em_andamento,86,Cliente 086,Ribeirão Preto,SP,20,Garrafa térmica,Casa,69.90,2,69.90,
+898,1,2026-06-20,app,em_andamento,87,Cliente 087,Ribeirão Preto,SP,12,Cortina,Casa,149.90,1,149.90,14.99
+899,1,2026-06-20,app,cancelado,53,Cliente 053,Jundiaí,SP,19,Bola,Esporte,79.90,2,79.90,
+900,1,2026-06-20,app,em_andamento,93,Cliente 093,Santos,SP,19,Bola,Esporte,79.90,1,79.90,
+900,2,2026-06-20,app,em_andamento,93,Cliente 093,Santos,SP,25,Secador,Beleza,199.00,1,199.00,

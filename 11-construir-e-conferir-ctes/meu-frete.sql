@@ -1,0 +1,2 @@
+-- Exercício, tarefa 3: o relatório de frete corrigido, com a conferência das etapas no fim.
+-- Escreva a consulta abaixo destes comentários.

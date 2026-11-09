@@ -1,0 +1,16 @@
+id_evento,nome,email,telefone,cidade,atualizado_em
+E01,CARLA MENDES,carla.mendes@correio.example,19 98117-1271,Campinas,2026-06-13
+E02,BRUNO TEIXEIRA,bruno.teixeira@email.example,19924815133,Campinas,2026-06-13
+E03,JOAO VITOR RAMOS,Joao.Ramos@email.example,19 92518-9374,Campinas,2026-06-13
+E04,VANESSA COELHO,vanessa.coelho@email.example,,Jundiaí,2026-06-13
+E05,ELAINE CASTRO,ELAINE.CASTRO@EMAIL.EXAMPLE,+55 19 98195-8785,Campinas,2026-06-13
+E06,ROBERTO SANTANA,,(19)92037-4241,Campinas,2026-06-13
+E07,MIRELA COSTA,MIRELA.COSTA@EMAIL.EXAMPLE,,Campinas,2026-06-13
+E08,PEDRO ROCHA,,19 98156-5028,Campinas,2026-06-13
+E09,JULIANA BATISTA,ju.batista@correio.example,19 92555-3615,Hortolândia,2026-06-13
+E10,RAQUEL DINIZ,raquel.diniz@email.example,19 92592-7856,Campinas,2026-06-13
+E11,RAQUEL DINIZ,Raquel.Diniz@Email.example,,Campinas,2026-06-13
+E12,CAMILA TORRES,,19926292097,Sumaré,2026-06-13
+E13,NELSON VAZ,nelson.vaz@correio.example,19 92666-6338,Campinas,2026-06-13
+E14,ODETE PRATES,odete.prates@email.example,,Valinhos,2026-06-13
+E15,SR ANTONIO,,,Campinas,2026-06-13

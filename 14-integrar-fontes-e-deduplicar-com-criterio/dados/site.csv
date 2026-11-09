@@ -1,0 +1,41 @@
+id_cliente,nome,email,telefone,cidade,atualizado_em
+3,Ana Paula Souza,ana.souza@email.example,(19) 98039-3757,Campinas,2025-08-15
+6,Bruno Teixeira,bruno.teixeira@email.example,(19) 98078-7514,Campinas,2025-04-14
+9,Carla Mendes,carla.mendes@correio.example,(19) 98117-1271,Campinas,2025-08-19
+12,Daniel Rocha,daniel.rocha@email.example,(19) 98156-5028,Campinas,2025-11-01
+15,Elaine Castro,elaine.castro@email.example,(19) 98195-8785,Campinas,2025-02-17
+18,Fábio Nogueira,fabio.nogueira@email.example,(19) 98234-2542,Campinas,2025-08-01
+21,Gisele Pires,gisele.pires@email.example,(19) 98273-6299,Campinas,2025-04-08
+24,Henrique Lopes,henrique.lopes@email.example,(19) 98312-0056,Campinas,2025-05-23
+27,Isabela Martins,isabela.martins@email.example,(19) 98351-3813,Campinas,2025-05-06
+30,João Vitor Ramos,joao.ramos@email.example,(19) 98390-7570,Campinas,2025-06-07
+33,Karina Duarte,karina.duarte@correio.example,(15) 98429-1327,Sorocaba,2025-09-14
+36,Leandro Moura,leandro.moura@email.example,(15) 98468-5084,Sorocaba,2025-08-15
+39,Lúcia Prado,lucia.prado@email.example,(15) 98507-8841,Sorocaba,2025-01-27
+42,Márcio Antunes,marcio.antunes@email.example,(15) 98546-2598,Sorocaba,2025-12-05
+45,Natália Freitas,natalia.freitas@email.example,(15) 98585-6355,Sorocaba,2025-05-14
+48,Otávio Brandão,otavio.brandao@email.example,(15) 98624-0112,Sorocaba,2025-12-03
+51,Patrícia Lemos,patricia.lemos@email.example,(11) 98663-3869,Jundiaí,2025-02-13
+54,Renato Cunha,renato.cunha@email.example,(11) 98702-7626,Jundiaí,2025-12-09
+57,Sandra Vieira,sandra.vieira@email.example,(11) 98741-1383,Jundiaí,2026-06-10
+60,Tiago Barros,tiago.barros@email.example,(11) 98780-5140,Jundiaí,2025-08-20
+63,Vanessa Coelho,vanessa.coelho@email.example,(11) 98819-8897,Jundiaí,2025-11-06
+66,Wagner Siqueira,wagner.siqueira@email.example,(19) 98858-2654,Piracicaba,2026-06-18
+69,Yara Fontes,yara.fontes@email.example,(19) 98897-6411,Piracicaba,2025-11-07
+72,Alexandre Pinto,alexandre.pinto@correio.example,(19) 98936-0168,Piracicaba,2025-09-25
+75,Beatriz Moraes,beatriz.moraes@email.example,(19) 98975-3925,Piracicaba,2025-09-14
+78,Cláudio Rezende,claudio.rezende@email.example,(16) 99014-7682,Ribeirão Preto,2025-03-01
+81,Débora Sales,debora.sales@email.example,(16) 99053-1439,Ribeirão Preto,2025-09-09
+84,Eduardo Paiva,eduardo.paiva@email.example,(16) 99092-5196,Ribeirão Preto,2025-09-27
+87,Fernanda Araújo,fernanda.araujo@email.example,(16) 99131-8953,Ribeirão Preto,2025-07-18
+90,Gustavo Leal,gustavo.leal@email.example,(13) 99170-2710,Santos,2025-03-05
+93,Heloísa Tavares,heloisa.tavares@email.example,(13) 99209-6467,Santos,2025-03-20
+96,Igor Monteiro,igor.monteiro@email.example,(13) 99248-0224,Santos,2025-08-26
+99,Juliana Batista,juliana.batista@email.example,(13) 99287-3981,Santos,2025-01-12
+102,Kleber Assis,kleber.assis@email.example,(19) 99326-7738,Limeira,2025-05-15
+105,Larissa Quintana,larissa.quintana@correio.example,(19) 99365-1495,Limeira,2025-02-15
+108,Mateus Farias,mateus.farias@email.example,(19) 99404-5252,Limeira,2025-10-10
+111,Nádia Correia,nadia.correia@email.example,(14) 99443-9009,Bauru,2026-06-14
+114,Paulo Sérgio Dias,paulo.dias@email.example,(41) 99482-2766,Curitiba,2025-08-06
+117,Renata Gomes,renata.gomes@email.example,(41) 99521-6523,Curitiba,2025-09-05
+120,Sílvio Amaral,silvio.amaral@email.example,(41) 99560-0280,Curitiba,2025-11-12

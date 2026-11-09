@@ -1,0 +1,2 @@
+-- Escreva aqui a sua consulta da tarefa 3 do exercício.
+-- Rode com: python3 consultar.py --dados ../dados --arquivo minhas-consultas.sql

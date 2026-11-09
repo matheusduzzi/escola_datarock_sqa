@@ -1,0 +1,4 @@
+-- Exercício, tarefa 1: a conferência das etapas do frete-ia.sql.
+-- Copie as etapas do frete-ia.sql e troque o SELECT do fim por uma linha por etapa,
+-- com quantas linhas ela tem, quantas chaves diferentes e quanto soma o frete.
+-- Escreva a consulta abaixo destes comentários.

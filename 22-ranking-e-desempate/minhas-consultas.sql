@@ -1,0 +1,3 @@
+-- Escreva aqui a sua consulta do exercício. Deixe uma consulta por vez.
+-- Rode com: python3 consultar.py --dados ../dados --arquivo minhas-consultas.sql
+-- Para ver se a lista muda: python3 repetir.py --dados ../dados --arquivo minhas-consultas.sql

@@ -1,0 +1,2 @@
+-- Escreva aqui a sua série semanal por categoria.
+-- O programa mostra o resultado do último comando do arquivo.

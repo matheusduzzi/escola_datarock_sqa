@@ -1,0 +1,3 @@
+-- Exercício: as contas da lista com o evento.
+-- Faça uma cópia deste arquivo com o seu nome e escreva a consulta abaixo destes comentários.
+-- Ponto de partida: o conferir.sql dessa pasta.

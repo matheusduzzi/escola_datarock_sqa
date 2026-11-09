@@ -1,0 +1,3 @@
+-- Exercício: as regras do histórico de condição comercial.
+-- Copie aqui o checar-endereco.sql e troque o que for preciso para ler dados/condicao_comercial.csv.
+-- Depois, rode de novo com o caminho da sua cópia corrigida.

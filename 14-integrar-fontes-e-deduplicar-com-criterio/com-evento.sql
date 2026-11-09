@@ -1,0 +1,3 @@
+-- Exercício: a lista consolidada com o site, a loja e o evento.
+-- Faça uma cópia deste arquivo com o seu nome e escreva a consulta abaixo destes comentários.
+-- Ponto de partida: o consolidar.sql dessa pasta.

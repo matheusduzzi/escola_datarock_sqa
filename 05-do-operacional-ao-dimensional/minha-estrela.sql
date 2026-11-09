@@ -1,0 +1,7 @@
+-- Exercício: o fato das entregas.
+-- 1. Copie para cá a parte 1 do estrela.sql (as dimensões e o fato das vendas).
+-- 2. Embaixo, escreva o CREATE TABLE fato_entregas AS SELECT ... FROM entregas ...
+-- 3. Por último, deixe um SELECT só: o teste do fato ou a resposta para a Marta.
+--    O programa mostra só o resultado do último SELECT. Troque o SELECT e rode de novo para ver o outro.
+--
+-- python3 consultar.py --dados ../dados --arquivo minha-estrela.sql

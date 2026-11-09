@@ -1,0 +1,4 @@
+-- Exercício: a fatura da Rota Leve.
+-- Escreva aqui uma consulta por vez e rode com:
+--   python3 consultar.py --dados ../dados --arquivo minhas-consultas.sql
+-- Comece pelo CREATE VIEW do ler-fatura.sql.

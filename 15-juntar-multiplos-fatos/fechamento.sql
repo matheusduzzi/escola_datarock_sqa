@@ -1,0 +1,6 @@
+-- Exercício: o fechamento de frete e recebimento por transportadora que a Marta pediu.
+-- Pedidos com status entregue, o semestre todo.
+-- Uma linha por transportadora, uma linha de total e uma linha com as mesmas somas
+-- feitas em cada tabela sozinha.
+-- Escreva a consulta abaixo destes comentários e rode:
+--   python3 consultar.py --dados ../dados --arquivo fechamento.sql

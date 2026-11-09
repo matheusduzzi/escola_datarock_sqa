@@ -1,0 +1,19 @@
+-- Exercício: a situação de cada entrega, para o painel da Marta.
+-- Rode de dentro da pasta da aula: python3 consultar.py --dados ../dados --arquivo situacao-entrega.sql
+--
+-- Antes de escrever aqui, preencha o modelo 2 da folha tabela-decisao.md.
+--
+-- Parte 1: a regra, escrita uma vez.
+--   Escreva a regra da situação (tipo, resultado, data_saida) e a da fatura (custo_frete).
+--   Pode usar CREATE MACRO, como no faixas.sql da aula.
+--   Data de referência: DATE '2026-06-20'.
+--
+-- Parte 2: os casos da sua tabela de decisão.
+--   Um caso por linha com VALUES, com a situação esperada, a que a regra deu e se bate.
+--   Como no casos-fronteira.sql da aula.
+--
+-- Parte 3: a regra na tabela entregas.
+--   Linhas por situação e quantas estão com fatura pendente em cada uma.
+--
+-- O consultar.py mostra o resultado do último comando do arquivo.
+-- Para ver a parte 2, deixe ela por último; depois troque pela parte 3.

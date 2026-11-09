@@ -1,0 +1,3 @@
+-- Escreva aqui as consultas do exercício, uma de cada vez, e rode com:
+-- python3 consultar.py --dados ../dados --arquivo minhas-consultas.sql
+-- O programa roda a última consulta do arquivo. Apague ou comente a anterior antes de rodar a próxima.

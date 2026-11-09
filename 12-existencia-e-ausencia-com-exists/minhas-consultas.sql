@@ -1,0 +1,4 @@
+-- Suas consultas do exercício. Deixe uma consulta por vez neste arquivo e rode:
+--   python3 consultar.py --dados ../dados --arquivo minhas-consultas.sql
+-- Para ler as respostas da pesquisa, comece com:
+--   CREATE VIEW respostas AS SELECT * FROM read_csv('dados/respostas_pesquisa.csv', header = true);

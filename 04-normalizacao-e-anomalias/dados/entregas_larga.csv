@@ -1,0 +1,1075 @@
+id_entrega,id_pedido,id_cliente,cidade,uf,tipo,volume,tentativa,transportadora,tarifa_base,data_saida,data_tentativa,resultado,custo_frete
+1,1,23,Campinas,SP,ida,1,1,TransVale,14.00,2026-01-02,2026-01-05,entregue,15.79
+2,2,12,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-01-04,2026-01-06,entregue,14.30
+3,3,71,Piracicaba,SP,ida,1,1,Rota Leve,11.50,2026-01-03,2026-01-06,nao_encontrado,14.83
+4,3,71,Piracicaba,SP,ida,1,2,Rota Leve,11.50,2026-01-03,2026-01-07,entregue,19.69
+5,4,4,Campinas,SP,ida,1,1,TransVale,14.00,2026-01-05,2026-01-06,entregue,17.07
+6,5,47,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-01-05,2026-01-07,entregue,13.81
+7,6,103,Limeira,SP,ida,1,1,TransVale,14.00,2026-01-06,2026-01-08,entregue,22.84
+8,7,50,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-01-05,2026-01-06,nao_encontrado,12.17
+9,7,50,Jundiaí,SP,ida,1,2,Rota Leve,11.50,2026-01-05,2026-01-08,entregue,18.24
+10,8,96,Santos,SP,ida,1,1,TransVale,14.00,2026-01-04,2026-01-06,entregue,18.33
+11,9,61,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-01-05,2026-01-06,entregue,14.11
+12,10,107,Limeira,SP,ida,1,1,Rota Leve,11.50,2026-01-04,2026-01-07,entregue,16.86
+13,11,3,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-01-04,2026-01-07,entregue,14.66
+14,12,23,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-01-06,2026-01-09,entregue,16.22
+15,13,54,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-01-06,2026-01-07,entregue,20.17
+16,13,54,Jundiaí,SP,devolucao,1,1,TransVale,14.00,2026-01-10,2026-01-12,recebido_cd,22.84
+17,14,5,Campinas,SP,ida,1,1,TransVale,14.00,2026-01-05,2026-01-06,entregue,21.25
+18,15,90,Santos,SP,ida,1,1,TransVale,14.00,2026-01-05,2026-01-06,entregue,15.07
+19,16,49,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-01-07,2026-01-08,entregue,14.70
+20,17,15,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-01-06,2026-01-09,entregue,14.52
+21,18,39,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-01-06,2026-01-07,entregue,17.10
+22,19,87,Ribeirão Preto,SP,ida,1,1,TransVale,14.00,2026-01-06,2026-01-08,nao_encontrado,14.66
+23,19,87,Ribeirão Preto,SP,ida,1,2,TransVale,14.00,2026-01-06,2026-01-11,entregue,20.09
+24,20,2,Campinas,SP,ida,1,1,TransVale,14.00,2026-01-06,2026-01-08,entregue,20.94
+25,21,64,Piracicaba,SP,ida,1,1,Rota Leve,11.50,2026-01-06,2026-01-08,entregue,12.46
+26,21,64,Piracicaba,SP,ida,2,1,Rota Leve,11.50,2026-01-06,2026-01-09,entregue,20.08
+27,21,64,Piracicaba,SP,devolucao,1,1,Rota Leve,11.50,2026-01-15,2026-01-17,recebido_cd,18.49
+28,22,3,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-01-07,2026-01-09,entregue,17.18
+29,23,90,Santos,SP,ida,1,1,TransVale,14.00,2026-01-08,2026-01-10,entregue,16.30
+30,24,61,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-01-08,2026-01-10,entregue,17.19
+31,25,89,Santos,SP,ida,1,1,Rota Leve,11.50,2026-01-09,2026-01-12,entregue,20.23
+32,26,51,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-01-07,2026-01-10,nao_encontrado,19.93
+33,26,37,Sorocaba,SP,ida,1,2,Rota Leve,11.50,2026-01-07,2026-01-12,entregue,18.60
+34,27,79,Ribeirão Preto,SP,ida,1,1,Rota Leve,11.50,2026-01-07,2026-01-10,entregue,14.26
+35,28,55,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-01-08,2026-01-10,entregue,14.08
+36,29,19,Campinas,SP,ida,1,1,TransVale,14.00,2026-01-09,2026-01-10,entregue,14.19
+37,30,48,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-01-08,2026-01-09,entregue,14.37
+38,31,115,Curitiba,PR,ida,1,1,TransVale,14.00,2026-01-08,2026-01-10,entregue,14.85
+39,32,23,Campinas,SP,ida,1,1,TransVale,14.00,2026-01-07,2026-01-08,entregue,18.28
+40,33,20,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-01-08,2026-01-10,entregue,18.50
+41,34,93,Santos,SP,ida,1,1,Rota Leve,11.50,2026-01-11,2026-01-12,nao_encontrado,15.83
+42,34,93,Santos,SP,ida,1,2,Rota Leve,11.50,2026-01-11,2026-01-14,entregue,13.85
+43,35,8,Campinas,SP,ida,1,1,TransVale,14.00,2026-01-11,2026-01-14,entregue,14.25
+44,36,30,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-01-09,2026-01-12,entregue,13.79
+45,37,2,Campinas,SP,ida,1,1,TransVale,14.00,2026-01-10,2026-01-13,entregue,14.55
+46,37,2,Campinas,SP,ida,2,1,TransVale,14.00,2026-01-10,2026-01-11,entregue,16.36
+47,38,67,Piracicaba,SP,ida,1,1,TransVale,14.00,2026-01-09,2026-01-12,entregue,18.12
+48,39,53,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-01-11,2026-01-12,nao_encontrado,14.16
+49,39,53,Jundiaí,SP,ida,1,2,Rota Leve,11.50,2026-01-11,2026-01-13,entregue,12.79
+50,40,76,Ribeirão Preto,SP,ida,1,1,TransVale,14.00,2026-01-10,2026-01-13,entregue,18.96
+51,41,87,Ribeirão Preto,SP,ida,1,1,TransVale,14.00,2026-01-09,2026-01-10,entregue,15.99
+52,42,50,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-01-10,2026-01-12,nao_encontrado,21.55
+53,42,50,Jundiaí,SP,ida,1,2,TransVale,14.00,2026-01-10,2026-01-15,nao_encontrado,14.67
+54,42,50,Jundiaí,SP,ida,1,3,TransVale,14.00,2026-01-10,2026-01-16,entregue,17.83
+55,43,81,Ribeirão Preto,SP,ida,1,1,Rota Leve,11.50,2026-01-11,2026-01-13,entregue,14.43
+56,44,119,Curitiba,PR,ida,1,1,Rota Leve,11.50,2026-01-11,2026-01-14,entregue,16.05
+57,45,11,Campinas,SP,ida,1,1,TransVale,14.00,2026-01-11,2026-01-13,entregue,18.64
+58,46,42,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-01-12,2026-01-14,entregue,12.61
+59,47,108,Limeira,SP,ida,1,1,Rota Leve,11.50,2026-01-11,2026-01-12,nao_encontrado,16.38
+60,47,108,Limeira,SP,ida,1,2,Rota Leve,11.50,2026-01-11,2026-01-14,nao_encontrado,15.48
+61,47,108,Limeira,SP,ida,1,3,Rota Leve,11.50,2026-01-11,2026-01-17,entregue,17.56
+62,48,45,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-01-11,2026-01-14,entregue,19.45
+63,49,23,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-01-13,2026-01-14,entregue,13.30
+64,50,31,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-01-13,2026-01-15,entregue,16.78
+65,51,33,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-01-13,2026-01-16,entregue,13.62
+66,52,99,Santos,SP,ida,1,1,Rota Leve,11.50,2026-01-13,2026-01-16,entregue,18.23
+67,53,68,Piracicaba,SP,ida,1,1,TransVale,14.00,2026-01-14,2026-01-15,entregue,19.38
+68,54,25,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-01-13,2026-01-14,entregue,16.52
+69,55,74,Piracicaba,SP,ida,1,1,Rota Leve,11.50,2026-01-13,2026-01-16,entregue,14.14
+70,56,86,Ribeirão Preto,SP,ida,1,1,Rota Leve,11.50,2026-01-14,2026-01-15,entregue,11.78
+71,56,86,Ribeirão Preto,SP,devolucao,1,1,Rota Leve,11.50,2026-01-21,2026-01-23,recebido_cd,17.96
+72,57,99,Santos,SP,ida,1,1,TransVale,14.00,2026-01-14,2026-01-15,entregue,19.67
+73,57,99,Santos,SP,devolucao,1,1,TransVale,14.00,2026-01-19,2026-01-21,recebido_cd,18.75
+74,59,74,Piracicaba,SP,ida,1,1,TransVale,14.00,2026-01-15,2026-01-16,entregue,21.75
+75,60,68,Piracicaba,SP,ida,1,1,Rota Leve,11.50,2026-01-14,2026-01-17,entregue,13.85
+76,61,55,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-01-16,2026-01-17,entregue,19.23
+77,62,64,Piracicaba,SP,ida,1,1,Rota Leve,11.50,2026-01-14,2026-01-16,entregue,19.60
+78,63,117,Curitiba,PR,ida,1,1,TransVale,14.00,2026-01-16,2026-01-18,entregue,18.71
+79,64,12,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-01-15,2026-01-16,entregue,19.97
+80,65,21,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-01-15,2026-01-18,entregue,16.07
+81,66,105,Limeira,SP,ida,1,1,TransVale,14.00,2026-01-15,2026-01-17,entregue,19.61
+82,66,105,Limeira,SP,devolucao,1,1,TransVale,14.00,2026-01-22,2026-01-24,recebido_cd,15.31
+83,68,32,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-01-17,2026-01-19,entregue,19.30
+84,69,100,Limeira,SP,ida,1,1,TransVale,14.00,2026-01-18,2026-01-21,entregue,18.66
+85,69,100,Limeira,SP,ida,2,1,TransVale,14.00,2026-01-18,2026-01-20,entregue,16.66
+86,70,75,Piracicaba,SP,ida,1,1,TransVale,14.00,2026-01-17,2026-01-19,entregue,17.48
+87,71,115,Curitiba,PR,ida,1,1,Rota Leve,11.50,2026-01-18,2026-01-21,entregue,14.31
+88,72,5,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-01-18,2026-01-20,entregue,13.50
+89,73,54,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-01-18,2026-01-19,nao_encontrado,16.01
+90,73,54,Jundiaí,SP,ida,1,2,TransVale,14.00,2026-01-18,2026-01-21,entregue,19.90
+91,74,99,Santos,SP,ida,1,1,Rota Leve,11.50,2026-01-19,2026-01-22,entregue,16.32
+92,75,44,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-01-20,2026-01-23,entregue,17.76
+93,76,104,Limeira,SP,ida,1,1,Rota Leve,11.50,2026-01-19,2026-01-21,entregue,14.86
+94,77,25,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-01-20,2026-01-21,entregue,16.81
+95,78,84,Ribeirao Preto,SP,ida,1,1,Rota Leve,11.50,2026-01-20,2026-01-22,entregue,14.68
+96,79,98,Santos,SP,ida,1,1,Rota Leve,11.50,2026-01-21,2026-01-24,entregue,17.73
+97,80,86,Ribeirão Preto,SP,ida,1,1,TransVale,14.00,2026-01-20,2026-01-22,entregue,14.53
+98,81,54,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-01-20,2026-01-21,entregue,16.15
+99,82,53,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-01-20,2026-01-22,entregue,13.81
+100,83,106,Limeira,SP,ida,1,1,TransVale,14.00,2026-01-20,2026-01-22,nao_encontrado,18.95
+101,83,106,Limeira,SP,ida,1,2,TransVale,14.00,2026-01-20,2026-01-24,nao_encontrado,18.57
+102,83,106,Limeira,SP,ida,1,3,TransVale,14.00,2026-01-20,2026-01-27,entregue,22.12
+103,84,101,Limeira,SP,ida,1,1,TransVale,14.00,2026-01-22,2026-01-23,entregue,18.59
+104,85,3,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-01-22,2026-01-24,entregue,16.66
+105,86,39,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-01-22,2026-01-23,entregue,15.96
+106,87,42,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-01-21,2026-01-24,entregue,21.75
+107,88,109,Bauru,SP,ida,1,1,Rota Leve,11.50,2026-01-22,2026-01-23,entregue,13.34
+108,89,52,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-01-21,2026-01-23,entregue,17.59
+109,90,44,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-01-21,2026-01-22,entregue,17.98
+110,91,4,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-01-21,2026-01-23,entregue,17.09
+111,93,70,Piracicaba,SP,ida,1,1,TransVale,14.00,2026-01-23,2026-01-26,entregue,17.53
+112,94,22,Campinas,SP,ida,1,1,TransVale,14.00,2026-01-23,2026-01-26,entregue,22.10
+113,94,22,Campinas,SP,ida,2,1,TransVale,14.00,2026-01-23,2026-01-25,nao_encontrado,22.41
+114,94,22,Campinas,SP,ida,2,2,TransVale,14.00,2026-01-23,2026-01-26,entregue,21.42
+115,95,21,Campinas,SP,ida,1,1,TransVale,14.00,2026-01-23,2026-01-25,entregue,19.80
+116,96,88,Santos,SP,ida,1,1,TransVale,14.00,2026-01-24,2026-01-27,entregue,22.24
+117,97,114,Curitiba,PR,ida,1,1,Rota Leve,11.50,2026-01-23,2026-01-25,entregue,13.51
+118,98,37,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-01-22,2026-01-25,entregue,16.11
+119,98,37,Sorocaba,SP,ida,2,1,Rota Leve,11.50,2026-01-22,2026-01-23,entregue,11.83
+120,99,19,Campinas,SP,ida,1,1,TransVale,14.00,2026-01-22,2026-01-23,nao_encontrado,14.32
+121,99,19,Campinas,SP,ida,1,2,TransVale,14.00,2026-01-22,2026-01-26,nao_encontrado,21.41
+122,99,19,Campinas,SP,ida,1,3,Rota Leve,11.50,2026-01-22,2026-01-27,entregue,14.61
+123,99,19,Campinas,SP,devolucao,1,1,TransVale,14.00,2026-02-02,2026-02-04,recebido_cd,17.83
+124,100,86,Ribeirão Preto,SP,ida,1,1,TransVale,14.00,2026-01-22,2026-01-24,entregue,22.76
+125,101,108,Limeira,SP,ida,1,1,TransVale,14.00,2026-01-25,2026-01-27,entregue,15.17
+126,101,108,Limeira,SP,ida,2,1,TransVale,14.00,2026-01-25,2026-01-26,entregue,20.63
+127,102,59,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-01-23,2026-01-25,entregue,18.56
+128,103,101,Limeira,SP,ida,1,1,Rota Leve,11.50,2026-01-26,2026-01-28,nao_encontrado,18.24
+129,103,101,Limeira,SP,ida,1,2,Rota Leve,11.50,2026-01-26,2026-01-29,nao_encontrado,11.95
+130,103,101,Limeira,SP,ida,1,3,Rota Leve,11.50,2026-01-26,2026-01-30,entregue,13.22
+131,104,119,Curitiba,PR,ida,1,1,TransVale,14.90,2026-01-26,2026-01-27,entregue,14.48
+132,105,40,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-01-24,2026-01-27,nao_encontrado,14.82
+133,105,40,Sorocaba,SP,ida,1,2,Rota Leve,11.50,2026-01-24,2026-01-28,nao_encontrado,12.04
+134,105,40,Sorocaba,SP,ida,1,3,Rota Leve,11.50,2026-01-24,2026-01-31,entregue,20.29
+135,106,103,Limeira,SP,ida,1,1,Rota Leve,11.50,2026-01-24,2026-01-26,entregue,15.69
+136,107,57,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-01-26,2026-01-28,entregue,16.50
+137,108,106,Limeira,SP,ida,1,1,TransVale,14.00,2026-01-25,2026-01-27,entregue,18.90
+138,110,112,Bauru,SP,ida,1,1,TransVale,14.00,2026-01-26,2026-01-27,entregue,17.72
+139,111,79,Ribeirão Preto,SP,ida,1,1,TransVale,14.00,2026-01-25,2026-01-26,nao_encontrado,19.66
+140,111,79,Ribeirão Preto,SP,ida,1,2,TransVale,14.00,2026-01-25,2026-01-28,nao_encontrado,17.31
+141,111,79,Ribeirão Preto,SP,ida,1,3,TransVale,14.00,2026-01-25,2026-01-29,entregue,14.44
+142,112,2,Campinas,SP,ida,1,1,TransVale,14.00,2026-01-25,2026-01-27,entregue,15.26
+143,113,33,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-01-27,2026-01-28,entregue,14.93
+144,114,30,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-01-27,2026-01-28,entregue,15.39
+145,115,43,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-01-27,2026-01-29,entregue,17.31
+146,116,4,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-01-25,2026-01-27,entregue,15.01
+147,117,118,Curitiba,PR,ida,1,1,Rota Leve,11.50,2026-01-26,2026-01-29,nao_encontrado,12.27
+148,117,118,Curitiba,PR,ida,1,2,Rota Leve,11.50,2026-01-26,2026-01-30,entregue,13.42
+149,118,115,Curitiba,PR,ida,1,1,TransVale,14.00,2026-01-28,2026-01-30,entregue,21.47
+150,119,96,Santos,SP,ida,1,1,Rota Leve,11.50,2026-01-26,2026-01-29,entregue,17.98
+151,120,69,Piracicaba,SP,ida,1,1,TransVale,14.00,2026-01-27,2026-01-29,entregue,17.44
+152,121,18,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-01-26,2026-01-28,nao_encontrado,13.22
+153,121,18,Campinas,SP,ida,1,2,Rota Leve,11.50,2026-01-26,2026-01-30,entregue,17.87
+154,122,116,Curitiba,PR,ida,1,1,Rota Leve,11.50,2026-01-28,2026-01-29,entregue,12.03
+155,122,116,Curitiba,PR,ida,2,1,Rota Leve,11.50,2026-01-28,2026-01-29,entregue,18.27
+156,123,49,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-01-28,2026-01-30,entregue,14.12
+157,124,93,Santos,SP,ida,1,1,TransVale,14.00,2026-01-28,2026-01-30,entregue,15.02
+158,125,7,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-01-27,2026-01-30,entregue,16.16
+159,126,17,Campinas,SP,ida,1,1,TransVale,14.00,2026-01-28,2026-01-30,entregue,19.82
+160,126,17,Campinas,SP,ida,2,1,TransVale,14.00,2026-01-28,2026-01-30,entregue,17.33
+161,127,4,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-01-28,2026-01-31,entregue,19.39
+162,128,93,Santos,SP,ida,1,1,Rota Leve,11.50,2026-01-27,2026-01-28,entregue,19.63
+163,129,30,Campinas,SP,ida,1,1,TransVale,14.00,2026-01-28,2026-01-31,entregue,22.52
+164,129,30,Campinas,SP,ida,2,1,TransVale,14.00,2026-01-28,2026-01-31,entregue,20.36
+165,130,12,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-01-30,2026-01-31,entregue,18.04
+166,131,40,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-01-30,2026-01-31,entregue,11.72
+167,132,4,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-01-29,2026-01-31,entregue,16.85
+168,133,36,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-01-30,2026-02-02,entregue,13.35
+169,134,93,Santos,SP,ida,1,1,TransVale,14.00,2026-01-29,2026-02-01,nao_encontrado,15.49
+170,134,93,Santos,SP,ida,1,2,TransVale,14.00,2026-01-29,2026-02-03,entregue,15.67
+171,135,25,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-01-30,2026-02-02,entregue,19.61
+172,136,115,Curitiba,PR,ida,1,1,Rota Leve,11.50,2026-01-29,2026-02-01,entregue,19.30
+173,137,84,Ribeirão Preto,SP,ida,1,1,Rota Leve,11.50,2026-01-30,2026-02-01,entregue,20.09
+174,138,47,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-01-30,2026-01-31,entregue,14.26
+175,139,120,Curitiba,PR,ida,1,1,TransVale,14.00,2026-01-29,2026-01-30,entregue,18.61
+176,140,50,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-01-31,2026-02-01,entregue,13.23
+177,141,89,Santos,SP,ida,1,1,TransVale,14.00,2026-01-31,2026-02-02,entregue,16.65
+178,142,24,Campinas,SP,ida,1,1,TransVale,14.00,2026-01-30,2026-01-31,entregue,14.07
+179,142,24,Campinas,SP,ida,2,1,TransVale,14.00,2026-01-30,2026-02-02,entregue,17.08
+180,143,47,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-02-01,2026-02-02,nao_encontrado,19.00
+181,143,47,Sorocaba,SP,ida,1,2,TransVale,14.00,2026-02-01,2026-02-04,entregue,17.07
+182,144,50,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-02-01,2026-02-04,entregue,16.78
+183,145,78,Ribeirão Preto,SP,ida,1,1,TransVale,14.00,2026-02-02,2026-02-03,entregue,14.12
+184,146,23,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-01-31,2026-02-02,entregue,12.30
+185,147,104,Limeira,SP,ida,1,1,Rota Leve,11.50,2026-01-31,2026-02-02,entregue,17.40
+186,148,95,Santos,SP,ida,1,1,Rota Leve,11.50,2026-02-01,2026-02-03,entregue,19.21
+187,149,12,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-01-31,2026-02-03,entregue,16.72
+188,150,42,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-01-31,2026-02-03,entregue,22.53
+189,151,11,Campinas,SP,ida,1,1,TransVale,14.00,2026-02-02,2026-02-04,entregue,20.59
+190,152,74,Piracicaba,SP,ida,1,1,TransVale,14.00,2026-02-01,2026-02-04,entregue,21.36
+191,153,70,Piracicaba,SP,ida,1,1,Rota Leve,11.50,2026-02-02,2026-02-04,entregue,15.99
+192,154,74,Piracicaba,SP,ida,1,1,TransVale,14.00,2026-02-03,2026-02-05,entregue,16.37
+193,155,17,Campinas,SP,ida,1,1,TransVale,14.00,2026-02-01,2026-02-03,entregue,22.75
+194,155,17,Campinas,SP,devolucao,1,1,TransVale,14.00,2026-02-06,2026-02-08,recebido_cd,22.54
+195,156,11,Campinas,SP,ida,1,1,TransVale,14.00,2026-02-02,2026-02-03,entregue,21.94
+196,157,67,Piracicaba,SP,ida,1,1,Rota Leve,11.50,2026-02-03,2026-02-05,entregue,17.53
+197,158,36,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-02-01,2026-02-04,entregue,21.54
+198,159,35,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-02-01,2026-02-04,entregue,12.88
+199,161,101,Limeira,SP,ida,1,1,Rota Leve,11.50,2026-02-03,2026-02-06,entregue,17.00
+200,162,95,Santos,SP,ida,1,1,TransVale,14.00,2026-02-04,2026-02-07,entregue,19.02
+201,163,39,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-02-03,2026-02-05,nao_encontrado,17.79
+202,163,39,Sorocaba,SP,ida,1,2,TransVale,14.00,2026-02-03,2026-02-08,nao_encontrado,22.85
+203,163,39,Sorocaba,SP,ida,1,3,TransVale,14.00,2026-02-03,2026-02-10,entregue,15.88
+204,164,71,Piracicaba,SP,ida,1,1,TransVale,14.00,2026-02-04,2026-02-05,nao_encontrado,17.47
+205,164,71,Piracicaba,SP,ida,1,2,TransVale,14.00,2026-02-04,2026-02-08,entregue,16.03
+206,164,71,Piracicaba,SP,devolucao,1,1,TransVale,14.00,2026-02-15,2026-02-17,recebido_cd,22.69
+207,165,23,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-02-02,2026-02-05,entregue,20.32
+208,166,76,Ribeirão Preto,SP,ida,1,1,TransVale,14.00,2026-02-04,2026-02-07,entregue,15.57
+209,167,71,Piracicaba,SP,ida,1,1,TransVale,14.00,2026-02-04,2026-02-06,entregue,20.00
+210,168,35,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-02-03,2026-02-06,entregue,14.48
+211,169,36,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-02-05,2026-02-07,entregue,13.69
+212,170,93,Santos,SP,ida,1,1,TransVale,14.00,2026-02-05,2026-02-06,entregue,15.42
+213,171,53,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-02-05,2026-02-06,entregue,15.53
+214,172,74,Piracicaba,SP,ida,1,1,Rota Leve,11.50,2026-02-05,2026-02-06,entregue,16.02
+215,173,93,Santos,SP,ida,1,1,TransVale,14.00,2026-02-04,2026-02-07,entregue,21.91
+216,174,117,Curitiba,PR,ida,1,1,TransVale,14.00,2026-02-06,2026-02-07,entregue,15.24
+217,175,96,Santos,SP,ida,1,1,Rota Leve,11.50,2026-02-06,2026-02-07,entregue,15.76
+218,176,61,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-02-04,2026-02-07,entregue,15.05
+219,177,44,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-02-05,2026-02-07,entregue,14.61
+220,177,44,Sorocaba,SP,devolucao,1,1,TransVale,14.00,2026-02-12,2026-02-14,recebido_cd,21.50
+221,178,80,Ribeirão Preto,SP,ida,1,1,Rota Leve,11.50,2026-02-05,2026-02-08,entregue,15.05
+222,179,71,Piracicaba,SP,ida,1,1,TransVale,14.00,2026-02-05,2026-02-06,entregue,20.79
+223,180,68,Piracicaba,SP,ida,1,1,TransVale,14.00,2026-02-05,2026-02-06,entregue,19.85
+224,181,47,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-02-05,2026-02-06,entregue,15.58
+225,182,46,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-02-07,2026-02-08,entregue,12.01
+226,183,47,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-02-06,2026-02-07,entregue,13.69
+227,183,47,Sorocaba,SP,ida,2,1,Rota Leve,11.50,2026-02-06,2026-02-08,entregue,12.61
+228,184,92,Santos,SP,ida,1,1,Rota Leve,11.50,2026-02-07,2026-02-08,entregue,18.51
+229,185,53,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-02-06,2026-02-07,entregue,16.05
+230,186,50,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-02-07,2026-02-09,entregue,14.19
+231,187,98,Santos,SP,ida,1,1,TransVale,14.00,2026-02-09,2026-02-11,entregue,19.26
+232,188,45,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-02-07,2026-02-08,entregue,16.97
+233,189,108,Limeira,SP,ida,1,1,Rota Leve,11.50,2026-02-08,2026-02-09,entregue,16.01
+234,190,43,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-02-07,2026-02-10,entregue,16.79
+235,191,12,Campinas,SP,ida,1,1,TransVale,14.00,2026-02-07,2026-02-08,entregue,20.46
+236,192,35,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-02-09,2026-02-12,entregue,17.97
+237,193,54,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-02-07,2026-02-08,entregue,18.09
+238,194,71,Piracicaba,SP,ida,1,1,Rota Leve,11.50,2026-02-07,2026-02-10,entregue,15.27
+239,195,8,Campinas,SP,ida,1,1,TransVale,14.00,2026-02-07,2026-02-09,entregue,20.80
+240,196,89,Santos,SP,ida,1,1,Rota Leve,11.50,2026-02-08,2026-02-09,entregue,16.33
+241,197,100,Limeira,SP,ida,1,1,Rota Leve,11.50,2026-02-09,2026-02-10,entregue,12.75
+242,198,9,Campinas,SP,ida,1,1,TransVale,14.00,2026-02-09,2026-02-12,entregue,14.46
+243,199,101,Limeira,SP,ida,1,1,Rota Leve,11.50,2026-02-09,2026-02-12,nao_encontrado,16.38
+244,199,101,Limeira,SP,ida,1,2,Rota Leve,11.50,2026-02-09,2026-02-15,nao_encontrado,14.75
+245,199,101,Limeira,SP,ida,1,3,Rota Leve,11.50,2026-02-09,2026-02-18,entregue,16.57
+246,200,4,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-02-10,2026-02-11,entregue,14.45
+247,201,108,Limeira,SP,ida,1,1,Rota Leve,11.50,2026-02-09,2026-02-12,entregue,14.60
+248,202,37,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-02-10,2026-02-13,entregue,20.24
+249,203,5,Campinas,SP,ida,1,1,TransVale,14.00,2026-02-12,2026-02-13,entregue,17.89
+250,203,5,Campinas,SP,devolucao,1,1,TransVale,14.00,2026-02-16,2026-02-18,recebido_cd,19.48
+251,204,63,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-02-12,2026-02-15,entregue,16.38
+252,206,110,Bauru,SP,ida,1,1,Rota Leve,11.50,2026-02-13,2026-02-16,entregue,19.55
+253,207,93,Santos,SP,ida,1,1,Rota Leve,11.50,2026-02-11,2026-02-14,entregue,15.11
+254,208,54,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-02-13,2026-02-14,nao_encontrado,18.46
+255,208,54,Jundiaí,SP,ida,1,2,TransVale,14.00,2026-02-13,2026-02-17,entregue,20.90
+256,209,71,Piracicaba,SP,ida,1,1,Rota Leve,11.50,2026-02-11,2026-02-12,entregue,20.01
+257,210,59,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-02-13,2026-02-14,entregue,18.80
+258,211,52,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-02-12,2026-02-15,entregue,20.66
+259,212,23,Campinas,SP,ida,1,1,TransVale,14.00,2026-02-14,2026-02-17,entregue,16.89
+260,213,116,Curitiba,PR,ida,1,1,Rota Leve,11.50,2026-02-12,2026-02-15,entregue,15.75
+261,214,98,Santos,SP,ida,1,1,TransVale,14.00,2026-02-12,2026-02-15,entregue,15.16
+262,215,87,Ribeirão Preto,SP,ida,1,1,TransVale,14.90,2026-02-14,2026-02-15,entregue,14.68
+263,216,33,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-02-15,2026-02-17,entregue,12.99
+264,217,70,Piracicaba,SP,ida,1,1,Rota Leve,11.50,2026-02-13,2026-02-14,entregue,20.48
+265,218,80,Ribeirão Preto,SP,ida,1,1,TransVale,14.00,2026-02-13,2026-02-16,entregue,20.97
+266,219,103,Limeira,SP,ida,1,1,Rota Leve,11.50,2026-02-13,2026-02-16,entregue,15.31
+267,220,27,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-02-14,2026-02-17,entregue,18.78
+268,221,59,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-02-14,2026-02-15,entregue,22.55
+269,221,59,Jundiaí,SP,devolucao,1,1,TransVale,14.00,2026-02-18,2026-02-20,recebido_cd,16.65
+270,222,68,Piracicaba,SP,ida,1,1,Rota Leve,11.50,2026-02-13,2026-02-14,entregue,18.35
+271,223,59,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-02-16,2026-02-17,entregue,14.55
+272,224,22,Campinas,SP,ida,1,1,TransVale,14.00,2026-02-15,2026-02-18,entregue,19.98
+273,225,19,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-02-16,2026-02-19,entregue,17.46
+274,226,23,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-02-16,2026-02-19,entregue,11.85
+275,227,96,Santos,SP,ida,1,1,Rota Leve,11.50,2026-02-16,2026-02-18,nao_encontrado,19.95
+276,227,96,Santos,SP,ida,1,2,Rota Leve,11.50,2026-02-16,2026-02-19,entregue,16.45
+277,228,76,Ribeirão Preto,SP,ida,1,1,Rota Leve,11.50,2026-02-16,2026-02-19,nao_encontrado,20.18
+278,228,76,Ribeirão Preto,SP,ida,1,2,Rota Leve,11.50,2026-02-16,2026-02-21,entregue,12.05
+279,229,90,Santos,SP,ida,1,1,Rota Leve,11.50,2026-02-17,2026-02-19,entregue,18.04
+280,231,40,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-02-16,2026-02-18,entregue,18.61
+281,232,55,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-02-19,2026-02-21,entregue,12.04
+282,233,90,Santos,SP,ida,1,1,Rota Leve,11.50,2026-02-18,2026-02-21,entregue,15.09
+283,234,11,Campinas,SP,ida,1,1,TransVale,14.00,2026-02-18,2026-02-21,entregue,19.54
+284,235,106,Limeira,SP,ida,1,1,TransVale,14.00,2026-02-18,2026-02-19,entregue,22.40
+285,236,118,Curitiba,PR,ida,1,1,TransVale,14.00,2026-02-18,2026-02-19,entregue,16.98
+286,237,100,Limeira,SP,ida,1,1,TransVale,14.00,2026-02-18,2026-02-20,entregue,22.54
+287,238,84,Ribeirão Preto,SP,ida,1,1,Rota Leve,11.50,2026-02-19,2026-02-21,nao_encontrado,17.08
+288,238,84,Ribeirão Preto,SP,ida,1,2,Rota Leve,11.50,2026-02-19,2026-02-24,entregue,15.24
+289,238,84,Ribeirão Preto,SP,devolucao,1,1,Rota Leve,11.50,2026-02-27,2026-03-01,recebido_cd,17.83
+290,239,6,Campinas,SP,ida,1,1,TransVale,14.00,2026-02-19,2026-02-21,entregue,15.50
+291,240,104,Limeira,SP,ida,1,1,Rota Leve,11.50,2026-02-19,2026-02-20,entregue,11.54
+292,241,30,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-02-19,2026-02-20,entregue,13.72
+293,242,103,Limeira,SP,ida,1,1,Rota Leve,11.50,2026-02-19,2026-02-22,entregue,15.45
+294,243,37,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-02-20,2026-02-22,nao_encontrado,15.07
+295,243,37,Sorocaba,SP,ida,1,2,Rota Leve,11.50,2026-02-20,2026-02-23,nao_encontrado,20.02
+296,243,37,Sorocaba,SP,ida,1,3,Rota Leve,11.50,2026-02-20,2026-02-25,entregue,17.33
+297,244,5,Campinas,SP,ida,1,1,TransVale,14.00,2026-02-21,2026-02-23,entregue,14.19
+298,245,47,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-02-22,2026-02-24,entregue,16.04
+299,246,23,Campinas,SP,ida,1,1,TransVale,14.00,2026-02-22,2026-02-23,entregue,18.83
+300,247,31,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-02-21,2026-02-23,entregue,15.22
+301,248,103,Limeira,SP,ida,1,1,TransVale,14.00,2026-02-22,2026-02-23,nao_encontrado,19.34
+302,248,103,Limeira,SP,ida,1,2,TransVale,14.00,2026-02-22,2026-02-25,entregue,15.28
+303,251,107,Limeira,SP,ida,1,1,Rota Leve,11.50,2026-02-21,2026-02-23,entregue,17.85
+304,252,58,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-02-21,2026-02-23,entregue,17.73
+305,253,50,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-02-21,2026-02-22,nao_encontrado,21.22
+306,253,50,Jundiaí,SP,ida,1,2,TransVale,14.00,2026-02-21,2026-02-23,entregue,17.78
+307,254,1,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-02-22,2026-02-24,entregue,13.44
+308,255,7,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-02-21,2026-02-24,nao_encontrado,11.86
+309,255,7,Campinas,SP,ida,1,2,Rota Leve,11.50,2026-02-21,2026-02-26,entregue,16.88
+310,255,7,Campinas,SP,devolucao,1,1,Rota Leve,11.50,2026-03-05,2026-03-07,recebido_cd,20.31
+311,256,58,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-02-22,2026-02-24,entregue,22.06
+312,256,58,Jundiaí,SP,ida,2,1,TransVale,14.00,2026-02-22,2026-02-25,entregue,16.28
+313,257,12,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-02-24,2026-02-25,entregue,14.56
+314,257,12,Campinas,SP,devolucao,1,1,Rota Leve,11.50,2026-03-04,2026-03-06,recebido_cd,15.03
+315,258,54,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-02-24,2026-02-25,entregue,13.73
+316,259,91,Santos,SP,ida,1,1,TransVale,14.00,2026-02-23,2026-02-25,entregue,16.17
+317,259,91,Santos,SP,devolucao,1,1,TransVale,14.00,2026-03-03,2026-03-05,recebido_cd,15.36
+318,260,1,Campinas,SP,ida,1,1,TransVale,14.00,2026-02-23,2026-02-25,entregue,15.70
+319,261,79,Ribeirão Preto,SP,ida,1,1,Rota Leve,11.50,2026-02-24,2026-02-27,entregue,17.26
+320,262,23,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-02-22,2026-02-23,entregue,13.72
+321,263,73,Piracicaba,SP,ida,1,1,TransVale,14.00,2026-02-24,2026-02-26,entregue,21.89
+322,264,82,Ribeirão Preto,SP,ida,1,1,Rota Leve,11.50,2026-02-24,2026-02-26,entregue,17.03
+323,266,7,Campinas,SP,ida,1,1,TransVale,14.00,2026-02-24,2026-02-27,entregue,14.29
+324,267,50,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-02-25,2026-02-28,entregue,19.54
+325,268,24,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-02-24,2026-02-25,entregue,16.76
+326,269,30,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-02-23,2026-02-26,entregue,15.02
+327,270,107,Limeira,SP,ida,1,1,TransVale,14.00,2026-02-25,2026-02-28,entregue,14.70
+328,271,2,Campinas,SP,ida,1,1,TransVale,14.00,2026-02-24,2026-02-26,entregue,16.40
+329,273,63,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-02-26,2026-02-28,entregue,14.72
+330,274,59,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-02-24,2026-02-25,entregue,13.79
+331,275,54,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-02-26,2026-02-27,entregue,13.72
+332,276,85,Ribeirão Preto,SP,ida,1,1,Rota Leve,11.50,2026-02-24,2026-02-27,entregue,19.48
+333,277,119,Curitiba,PR,ida,1,1,TransVale,14.00,2026-02-24,2026-02-26,entregue,14.00
+334,278,2,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-02-26,2026-02-27,entregue,15.83
+335,279,93,Santos,SP,ida,1,1,TransVale,14.00,2026-02-26,2026-02-28,entregue,21.72
+336,280,96,Santos,SP,ida,1,1,Rota Leve,11.50,2026-02-26,2026-02-27,entregue,19.66
+337,281,106,Limeira,SP,ida,1,1,TransVale,14.00,2026-02-27,2026-02-28,entregue,16.02
+338,282,44,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-02-27,2026-03-01,entregue,18.96
+339,283,119,Curitiba,PR,ida,1,1,TransVale,14.00,2026-03-01,2026-03-03,entregue,18.45
+340,283,119,Curitiba,PR,devolucao,1,1,TransVale,14.00,2026-03-07,2026-03-09,recebido_cd,20.72
+341,284,95,Santos,SP,ida,1,1,TransVale,14.00,2026-02-27,2026-03-01,entregue,16.23
+342,286,54,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-02-28,2026-03-02,entregue,13.64
+343,288,12,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-03-02,2026-03-05,entregue,12.53
+344,288,12,Campinas,SP,devolucao,1,1,Rota Leve,11.50,2026-03-10,2026-03-12,recebido_cd,16.89
+345,289,25,Campinas,SP,ida,1,1,TransVale,14.00,2026-03-01,2026-03-03,entregue,18.45
+346,290,114,Curitiba,PR,ida,1,1,Rota Leve,11.50,2026-03-01,2026-03-02,entregue,19.44
+347,291,17,Campinas,SP,ida,1,1,TransVale,14.00,2026-02-28,2026-03-03,entregue,16.72
+348,292,30,Campinas,SP,ida,1,1,TransVale,14.00,2026-03-03,2026-03-04,entregue,15.23
+349,292,30,Campinas,SP,ida,2,1,TransVale,14.00,2026-03-03,2026-03-04,entregue,22.41
+350,293,84,Ribeirão Preto,SP,ida,1,1,Rota Leve,11.50,2026-03-02,2026-03-05,entregue,12.19
+351,293,84,Ribeirão Preto,SP,ida,2,1,Rota Leve,11.50,2026-03-02,2026-03-03,entregue,18.42
+352,294,47,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-03-01,2026-03-02,entregue,21.88
+353,295,10,Campinas,SP,ida,1,1,TransVale,14.00,2026-03-01,2026-03-02,entregue,20.19
+354,295,10,Campinas,SP,devolucao,1,1,TransVale,14.00,2026-03-08,2026-03-10,recebido_cd,17.48
+355,296,1,Campinas,SP,ida,1,1,TransVale,14.00,2026-03-02,2026-03-03,nao_encontrado,16.33
+356,296,1,Campinas,SP,ida,1,2,TransVale,14.00,2026-03-02,2026-03-04,entregue,15.72
+357,297,17,Campinas,SP,ida,1,1,TransVale,14.00,2026-03-02,2026-03-04,nao_encontrado,19.10
+358,297,17,Campinas,SP,ida,1,2,TransVale,14.00,2026-03-02,2026-03-07,entregue,16.51
+359,298,120,Curitiba,PR,ida,1,1,Rota Leve,11.50,2026-03-02,2026-03-04,entregue,17.67
+360,298,120,Curitiba,PR,devolucao,1,1,Rota Leve,11.50,2026-03-09,2026-03-11,recebido_cd,13.62
+361,299,54,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-03-03,2026-03-04,entregue,14.72
+362,300,103,Limeira,SP,ida,1,1,Rota Leve,11.50,2026-03-02,2026-03-03,nao_encontrado,14.15
+363,300,103,Limeira,SP,ida,1,2,Rota Leve,11.50,2026-03-02,2026-03-05,entregue,16.51
+364,302,59,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-03-05,2026-03-08,entregue,18.66
+365,303,96,Santos,SP,ida,1,1,TransVale,14.00,2026-03-04,2026-03-07,entregue,14.81
+366,304,1,Campinas,SP,ida,1,1,TransVale,14.00,2026-03-05,2026-03-07,nao_encontrado,21.75
+367,304,1,Campinas,SP,ida,1,2,TransVale,14.00,2026-03-05,2026-03-10,entregue,20.09
+368,305,92,Santos,SP,ida,1,1,Rota Leve,11.50,2026-03-03,2026-03-05,nao_encontrado,11.80
+369,305,92,Santos,SP,ida,1,2,Rota Leve,11.50,2026-03-03,2026-03-08,entregue,16.28
+370,306,12,Campinas,SP,ida,1,1,TransVale,14.00,2026-03-04,2026-03-07,entregue,18.75
+371,308,48,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-03-03,2026-03-04,entregue,14.04
+372,309,58,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-03-05,2026-03-07,entregue,18.10
+373,310,69,Piracicaba,SP,ida,1,1,Rota Leve,11.50,2026-03-04,2026-03-06,entregue,15.43
+374,311,35,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-03-05,2026-03-08,nao_encontrado,13.89
+375,311,35,Sorocaba,SP,ida,1,2,Rota Leve,11.50,2026-03-05,2026-03-09,entregue,18.04
+376,312,26,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-03-04,2026-03-06,entregue,19.48
+377,313,100,Limeira,SP,ida,1,1,Rota Leve,11.50,2026-03-06,2026-03-08,entregue,12.88
+378,314,17,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-03-05,2026-03-08,entregue,13.64
+379,315,101,Limeira,SP,ida,1,1,Rota Leve,11.50,2026-03-04,2026-03-06,entregue,20.12
+380,315,101,Limeira,SP,devolucao,1,1,Rota Leve,11.50,2026-03-13,2026-03-15,recebido_cd,14.16
+381,316,84,Ribeirão Preto,SP,ida,1,1,TransVale,14.00,2026-03-04,2026-03-07,entregue,20.75
+382,317,61,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-03-06,2026-03-09,entregue,12.63
+383,318,100,Limeira,SP,ida,1,1,TransVale,14.00,2026-03-04,2026-03-06,entregue,22.34
+384,319,53,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-03-04,2026-03-07,entregue,13.73
+385,320,100,Limeira,SP,ida,1,1,TransVale,14.00,2026-03-05,2026-03-08,nao_encontrado,17.05
+386,320,100,Limeira,SP,ida,1,2,TransVale,14.00,2026-03-05,2026-03-11,entregue,18.85
+387,322,47,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-03-05,2026-03-06,entregue,17.55
+388,323,59,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-03-06,2026-03-07,entregue,22.20
+389,324,53,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-03-06,2026-03-07,entregue,16.21
+390,326,74,Piracicaba,SP,ida,1,1,Rota Leve,11.50,2026-03-07,2026-03-10,entregue,16.78
+391,327,67,Piracicaba,SP,ida,1,1,TransVale,14.00,2026-03-07,2026-03-09,entregue,17.05
+392,328,106,Limeira,SP,ida,1,1,Rota Leve,11.50,2026-03-07,2026-03-10,entregue,14.40
+393,329,61,Jundiaí,SP,ida,1,1,TransVale,14.90,2026-03-06,2026-03-09,entregue,14.78
+394,330,59,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-03-07,2026-03-10,entregue,18.20
+395,331,26,Campinas,SP,ida,1,1,TransVale,14.00,2026-03-08,2026-03-11,entregue,20.63
+396,332,1,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-03-08,2026-03-10,entregue,17.04
+397,333,1,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-03-08,2026-03-09,entregue,13.02
+398,334,117,Curitiba,PR,ida,1,1,TransVale,14.00,2026-03-07,2026-03-10,entregue,22.82
+399,335,26,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-03-09,2026-03-10,entregue,19.52
+400,336,24,Campinas,SP,ida,1,1,TransVale,14.00,2026-03-07,2026-03-08,entregue,18.80
+401,337,54,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-03-08,2026-03-11,entregue,15.20
+402,337,54,Jundiaí,SP,ida,2,1,Rota Leve,11.50,2026-03-08,2026-03-10,entregue,17.57
+403,338,44,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-03-09,2026-03-12,entregue,19.06
+404,339,90,Santos,SP,ida,1,1,TransVale,14.00,2026-03-09,2026-03-10,entregue,22.01
+405,340,37,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-03-07,2026-03-10,entregue,20.05
+406,341,109,Bauru,SP,ida,1,1,TransVale,14.00,2026-03-08,2026-03-11,entregue,15.17
+407,341,109,Bauru,SP,devolucao,1,1,TransVale,14.00,2026-03-16,2026-03-18,recebido_cd,20.56
+408,342,37,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-03-08,2026-03-10,entregue,16.92
+409,342,37,Sorocaba,SP,devolucao,1,1,TransVale,14.00,2026-03-13,2026-03-15,recebido_cd,18.82
+410,344,30,Campinas,SP,ida,1,1,TransVale,14.00,2026-03-09,2026-03-11,entregue,22.64
+411,345,76,Ribeirão Preto,SP,ida,1,1,Rota Leve,11.50,2026-03-10,2026-03-13,entregue,14.51
+412,346,42,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-03-09,2026-03-10,entregue,22.80
+413,347,43,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-03-09,2026-03-12,nao_encontrado,12.36
+414,347,43,Sorocaba,SP,ida,1,2,Rota Leve,11.50,2026-03-09,2026-03-13,nao_encontrado,19.24
+415,347,43,Sorocaba,SP,ida,1,3,Rota Leve,11.50,2026-03-09,2026-03-15,entregue,15.21
+416,348,19,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-03-09,2026-03-10,entregue,13.61
+417,348,19,Campinas,SP,ida,2,1,Rota Leve,11.50,2026-03-09,2026-03-10,entregue,17.73
+418,349,78,Ribeirão Preto,SP,ida,1,1,TransVale,14.00,2026-03-11,2026-03-14,entregue,15.36
+419,349,78,Ribeirão Preto,SP,ida,2,1,TransVale,14.00,2026-03-11,2026-03-13,nao_encontrado,14.79
+420,349,78,Ribeirão Preto,SP,ida,2,2,TransVale,14.00,2026-03-11,2026-03-16,entregue,22.43
+421,350,84,Ribeirão Preto,SP,ida,1,1,Rota Leve,11.50,2026-03-10,2026-03-11,entregue,18.67
+422,350,84,Ribeirão Preto,SP,ida,2,1,Rota Leve,11.50,2026-03-10,2026-03-12,entregue,19.79
+423,351,47,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-03-12,2026-03-14,entregue,12.56
+424,352,114,Curitiba,PR,ida,1,1,Rota Leve,11.50,2026-03-10,2026-03-13,entregue,15.35
+425,353,51,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-03-11,2026-03-14,entregue,18.40
+426,354,44,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-03-10,2026-03-13,entregue,19.00
+427,354,44,Sorocaba,SP,ida,2,1,TransVale,14.00,2026-03-10,2026-03-12,entregue,14.59
+428,356,105,Limeira,SP,ida,1,1,Rota Leve,11.50,2026-03-12,2026-03-15,entregue,18.15
+429,357,74,Piracicaba,SP,ida,1,1,Rota Leve,11.50,2026-03-11,2026-03-14,nao_encontrado,20.01
+430,357,74,Piracicaba,SP,ida,1,2,Rota Leve,11.50,2026-03-11,2026-03-16,entregue,17.17
+431,358,109,Bauru,SP,ida,1,1,TransVale,14.00,2026-03-11,2026-03-13,entregue,14.95
+432,359,91,Santos,SP,ida,1,1,Rota Leve,11.50,2026-03-12,2026-03-15,entregue,12.19
+433,360,57,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-03-11,2026-03-13,entregue,16.13
+434,361,35,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-03-13,2026-03-16,entregue,18.73
+435,362,47,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-03-11,2026-03-12,entregue,13.59
+436,363,86,Ribeirão Preto,SP,ida,1,1,TransVale,14.00,2026-03-12,2026-03-15,entregue,22.76
+437,364,87,Ribeirão Preto,SP,ida,1,1,Rota Leve,11.50,2026-03-13,2026-03-14,entregue,19.12
+438,364,87,Ribeirão Preto,SP,ida,2,1,Rota Leve,11.50,2026-03-13,2026-03-15,nao_encontrado,13.96
+439,364,87,Ribeirão Preto,SP,ida,2,2,Rota Leve,11.50,2026-03-13,2026-03-16,nao_encontrado,13.14
+440,364,87,Ribeirão Preto,SP,ida,2,3,Rota Leve,11.50,2026-03-13,2026-03-19,entregue,18.32
+441,365,103,Limeira,SP,ida,1,1,Rota Leve,11.50,2026-03-12,2026-03-13,entregue,20.01
+442,366,1,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-03-13,2026-03-14,entregue,17.26
+443,367,117,Curitiba,PR,ida,1,1,TransVale,14.00,2026-03-13,2026-03-14,entregue,18.52
+444,368,102,Limeira,SP,ida,1,1,Rota Leve,11.50,2026-03-13,2026-03-15,entregue,13.98
+445,369,70,Piracicaba,SP,ida,1,1,Rota Leve,11.50,2026-03-12,2026-03-13,entregue,17.50
+446,370,113,Curitiba,PR,ida,1,1,TransVale,14.00,2026-03-12,2026-03-14,entregue,22.86
+447,371,68,Piracicaba,SP,ida,1,1,Rota Leve,11.50,2026-03-13,2026-03-15,entregue,11.99
+448,372,48,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-03-12,2026-03-14,entregue,16.40
+449,373,44,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-03-13,2026-03-14,entregue,12.70
+450,373,44,Sorocaba,SP,devolucao,1,1,Rota Leve,11.50,2026-03-21,2026-03-23,recebido_cd,16.25
+451,374,106,Limeira,SP,ida,1,1,TransVale,14.00,2026-03-13,2026-03-16,entregue,21.46
+452,376,62,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-03-13,2026-03-15,entregue,16.07
+453,377,40,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-03-13,2026-03-14,entregue,14.45
+454,377,40,Sorocaba,SP,ida,2,1,Rota Leve,11.50,2026-03-13,2026-03-15,entregue,12.07
+455,378,23,Campinas,SP,ida,1,1,TransVale,14.00,2026-03-14,2026-03-16,entregue,16.49
+456,379,20,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-03-14,2026-03-17,entregue,19.45
+457,380,95,Santos,SP,ida,1,1,Rota Leve,11.50,2026-03-16,2026-03-19,entregue,14.39
+458,381,114,Curitiba,PR,ida,1,1,Rota Leve,11.50,2026-03-15,2026-03-16,entregue,13.05
+459,381,114,Curitiba,PR,devolucao,1,1,Rota Leve,11.50,2026-03-20,2026-03-22,recebido_cd,13.85
+460,382,13,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-03-17,2026-03-18,entregue,11.67
+461,383,77,Ribeirão Preto,SP,ida,1,1,Rota Leve,11.50,2026-03-15,2026-03-17,entregue,16.97
+462,384,59,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-03-17,2026-03-18,entregue,17.05
+463,385,95,Santos,SP,ida,1,1,Rota Leve,11.50,2026-03-16,2026-03-19,entregue,14.07
+464,386,19,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-03-15,2026-03-18,entregue,19.31
+465,387,31,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-03-18,2026-03-21,nao_encontrado,21.12
+466,387,31,Sorocaba,SP,ida,1,2,TransVale,14.00,2026-03-18,2026-03-22,nao_encontrado,16.10
+467,387,31,Sorocaba,SP,ida,1,3,TransVale,14.00,2026-03-18,2026-03-24,entregue,20.32
+468,388,26,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-03-18,2026-03-20,entregue,16.48
+469,389,22,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-03-18,2026-03-21,entregue,16.07
+470,391,104,Limeira,SP,ida,1,1,Rota Leve,11.50,2026-03-17,2026-03-18,entregue,14.06
+471,392,95,Santos,SP,ida,1,1,Rota Leve,11.50,2026-03-19,2026-03-20,entregue,16.45
+472,393,28,Campinas,SP,ida,1,1,TransVale,14.00,2026-03-18,2026-03-21,entregue,15.80
+473,394,45,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-03-18,2026-03-20,nao_encontrado,14.83
+474,394,45,Sorocaba,SP,ida,1,2,Rota Leve,11.50,2026-03-18,2026-03-21,nao_encontrado,16.07
+475,394,45,Sorocaba,SP,ida,1,3,Rota Leve,11.50,2026-03-18,2026-03-23,entregue,17.62
+476,395,40,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-03-20,2026-03-22,entregue,17.72
+477,396,70,Piracicaba,SP,ida,1,1,Rota Leve,11.50,2026-03-19,2026-03-20,nao_encontrado,14.92
+478,396,70,Piracicaba,SP,ida,1,2,Rota Leve,11.50,2026-03-19,2026-03-23,entregue,16.07
+479,397,78,Ribeirão Preto,SP,ida,1,1,TransVale,14.00,2026-03-18,2026-03-20,entregue,18.35
+480,398,64,Piracicaba,SP,ida,1,1,TransVale,14.00,2026-03-20,2026-03-23,entregue,20.48
+481,399,100,Limeira,SP,ida,1,1,Rota Leve,11.50,2026-03-19,2026-03-20,entregue,17.62
+482,400,24,Campinas,SP,ida,1,1,TransVale,14.00,2026-03-19,2026-03-20,entregue,18.36
+483,401,104,Limeira,SP,ida,1,1,TransVale,14.00,2026-03-20,2026-03-22,nao_encontrado,21.93
+484,401,104,Limeira,SP,ida,1,2,TransVale,14.00,2026-03-20,2026-03-25,entregue,18.08
+485,402,86,Ribeirão Preto,SP,ida,1,1,TransVale,14.00,2026-03-20,2026-03-23,entregue,21.22
+486,403,64,Piracicaba,SP,ida,1,1,TransVale,14.00,2026-03-21,2026-03-23,entregue,16.84
+487,404,118,Curitiba,PR,ida,1,1,TransVale,14.00,2026-03-20,2026-03-22,nao_encontrado,22.26
+488,404,118,Curitiba,PR,ida,1,2,TransVale,14.00,2026-03-20,2026-03-23,nao_encontrado,18.85
+489,404,118,Curitiba,PR,ida,1,3,TransVale,14.00,2026-03-20,2026-03-25,entregue,14.68
+490,404,118,Curitiba,PR,devolucao,1,1,TransVale,14.00,2026-03-28,2026-03-30,recebido_cd,23.00
+491,405,117,Curitiba,PR,ida,1,1,TransVale,14.00,2026-03-20,2026-03-21,entregue,16.61
+492,405,117,Curitiba,PR,ida,2,1,TransVale,14.00,2026-03-20,2026-03-21,entregue,15.12
+493,406,26,Campinas,SP,ida,1,1,TransVale,14.00,2026-03-22,2026-03-24,entregue,17.08
+494,407,69,Piracicaba,SP,ida,1,1,Rota Leve,11.50,2026-03-20,2026-03-23,entregue,13.06
+495,408,72,Piracicaba,SP,ida,1,1,TransVale,14.00,2026-03-21,2026-03-22,entregue,22.86
+496,409,95,Santos,SP,ida,1,1,TransVale,14.00,2026-03-21,2026-03-22,entregue,18.90
+497,410,101,Limeira,SP,ida,1,1,TransVale,14.00,2026-03-21,2026-03-23,nao_encontrado,20.23
+498,410,101,Limeira,SP,ida,1,2,TransVale,14.00,2026-03-21,2026-03-24,entregue,15.76
+499,411,38,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-03-22,2026-03-24,entregue,22.61
+500,411,38,Sorocaba,SP,devolucao,1,1,TransVale,14.00,2026-03-31,2026-04-02,recebido_cd,21.90
+501,412,43,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-03-23,2026-03-24,entregue,15.63
+502,413,61,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-03-24,2026-03-26,entregue,15.51
+503,414,68,Piracicaba,SP,ida,1,1,TransVale,14.00,2026-03-23,2026-03-25,entregue,22.02
+504,415,60,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-03-24,2026-03-27,entregue,17.38
+505,416,68,Piracicaba,SP,ida,1,1,TransVale,14.00,2026-03-23,2026-03-26,entregue,14.36
+506,417,78,Ribeirão Preto,SP,ida,1,1,TransVale,14.00,2026-03-24,2026-03-26,entregue,22.48
+507,418,90,Santos,SP,ida,1,1,TransVale,14.00,2026-03-23,2026-03-25,entregue,14.64
+508,419,1,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-03-23,2026-03-26,nao_encontrado,19.31
+509,419,1,Campinas,SP,ida,1,2,Rota Leve,11.50,2026-03-23,2026-03-27,nao_encontrado,13.10
+510,419,1,Campinas,SP,ida,1,3,Rota Leve,11.50,2026-03-23,2026-03-30,entregue,12.54
+511,420,95,Santos,SP,ida,1,1,TransVale,14.00,2026-03-23,2026-03-25,nao_encontrado,14.48
+512,420,95,Santos,SP,ida,1,2,TransVale,14.00,2026-03-23,2026-03-27,entregue,18.15
+513,420,95,Santos,SP,devolucao,1,1,TransVale,14.00,2026-03-30,2026-04-01,recebido_cd,21.61
+514,421,50,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-03-23,2026-03-24,entregue,18.62
+515,422,8,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-03-25,2026-03-27,nao_encontrado,15.77
+516,422,8,Campinas,SP,ida,1,2,Rota Leve,11.50,2026-03-25,2026-03-30,nao_encontrado,19.39
+517,422,8,Campinas,SP,ida,1,3,Rota Leve,11.50,2026-03-25,2026-04-02,entregue,13.59
+518,423,74,Piracicaba,SP,ida,1,1,TransVale,14.00,2026-03-24,2026-03-25,entregue,21.68
+519,424,86,Ribeirão Preto,SP,ida,1,1,Rota Leve,11.50,2026-03-24,2026-03-27,entregue,15.46
+520,425,44,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-03-25,2026-03-28,entregue,16.48
+521,426,57,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-03-25,2026-03-28,entregue,15.11
+522,427,2,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-03-26,2026-03-28,entregue,15.23
+523,428,78,Ribeirão Preto,SP,ida,1,1,TransVale,14.00,2026-03-24,2026-03-27,entregue,22.23
+524,428,78,Ribeirão Preto,SP,ida,2,1,TransVale,14.90,2026-03-24,2026-03-25,entregue,22.78
+525,429,93,Santos,SP,ida,1,1,TransVale,14.00,2026-03-26,2026-03-29,entregue,21.78
+526,430,2,Campinas,SP,ida,1,1,TransVale,14.00,2026-03-25,2026-03-26,entregue,22.96
+527,431,1,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-03-25,2026-03-27,entregue,16.38
+528,432,113,Curitiba,PR,ida,1,1,Rota Leve,11.50,2026-03-25,2026-03-27,nao_encontrado,14.25
+529,432,113,Curitiba,PR,ida,1,2,Rota Leve,11.50,2026-03-25,2026-03-28,entregue,12.25
+530,432,113,Curitiba,PR,ida,2,1,Rota Leve,11.50,2026-03-25,2026-03-26,nao_encontrado,13.06
+531,432,113,Curitiba,PR,ida,2,2,Rota Leve,11.50,2026-03-25,2026-03-28,entregue,17.78
+532,433,77,Ribeirão Preto,SP,ida,1,1,TransVale,14.00,2026-03-25,2026-03-27,entregue,17.10
+533,434,94,Santos,SP,ida,1,1,Rota Leve,11.50,2026-03-25,2026-03-26,entregue,14.78
+534,435,50,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-03-28,2026-03-31,entregue,16.29
+535,436,71,Piracicaba,SP,ida,1,1,TransVale,14.00,2026-03-28,2026-03-29,entregue,22.09
+536,436,71,Piracicaba,SP,devolucao,1,1,TransVale,14.00,2026-04-01,2026-04-03,recebido_cd,18.58
+537,437,33,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-03-27,2026-03-29,entregue,14.27
+538,438,3,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-03-27,2026-03-29,entregue,19.17
+539,439,18,Campinas,SP,ida,1,1,TransVale,14.00,2026-03-28,2026-03-29,entregue,17.48
+540,440,72,Piracicaba,SP,ida,1,1,TransVale,14.00,2026-03-27,2026-03-28,nao_encontrado,14.49
+541,440,72,Piracicaba,SP,ida,1,2,TransVale,14.00,2026-03-27,2026-03-31,entregue,22.94
+542,441,114,Curitiba,PR,ida,1,1,Rota Leve,11.50,2026-03-28,2026-03-31,entregue,14.34
+543,443,73,Piracicaba,SP,ida,1,1,Rota Leve,11.50,2026-03-30,2026-03-31,entregue,19.18
+544,443,73,Piracicaba,SP,devolucao,1,1,Rota Leve,11.50,2026-04-05,2026-04-07,recebido_cd,15.80
+545,444,2,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-03-30,2026-03-31,entregue,11.98
+546,446,116,Curitiba,PR,ida,1,1,Rota Leve,11.50,2026-03-29,2026-04-01,entregue,11.97
+547,447,98,Santos,SP,ida,1,1,TransVale,14.00,2026-03-31,2026-04-02,entregue,22.03
+548,448,18,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-03-31,2026-04-02,entregue,12.94
+549,449,92,Santos,SP,ida,1,1,Rota Leve,11.50,2026-04-02,2026-04-05,entregue,12.00
+550,450,5,Campinas,SP,ida,1,1,TransVale,14.00,2026-03-31,2026-04-03,entregue,20.78
+551,451,26,Campinas,SP,ida,1,1,TransVale,14.00,2026-04-02,2026-04-03,entregue,19.19
+552,452,24,Campinas,SP,ida,1,1,TransVale,14.00,2026-03-31,2026-04-03,entregue,19.97
+553,452,24,Campinas,SP,ida,2,1,TransVale,14.00,2026-03-31,2026-04-01,nao_encontrado,21.00
+554,452,24,Campinas,SP,ida,2,2,TransVale,14.00,2026-03-31,2026-04-04,nao_encontrado,22.01
+555,452,24,Campinas,SP,ida,2,3,TransVale,14.00,2026-03-31,2026-04-07,entregue,22.19
+556,453,43,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-03-31,2026-04-01,entregue,16.67
+557,454,63,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-04-01,2026-04-02,entregue,19.75
+558,455,3,Campinas,SP,ida,1,1,TransVale,14.00,2026-03-31,2026-04-01,entregue,18.24
+559,456,1,Campinas,SP,ida,1,1,TransVale,14.00,2026-04-03,2026-04-06,entregue,21.68
+560,457,119,Curitiba,PR,ida,1,1,TransVale,14.00,2026-04-03,2026-04-05,entregue,15.10
+561,458,68,Piracicaba,SP,ida,1,1,Rota Leve,11.50,2026-04-02,2026-04-03,entregue,12.06
+562,459,2,Campinas,SP,ida,1,1,TransVale,14.00,2026-04-01,2026-04-02,entregue,20.05
+563,460,24,Campinas,SP,ida,1,1,TransVale,14.00,2026-04-01,2026-04-04,entregue,21.41
+564,461,94,Santos,SP,ida,1,1,Rota Leve,11.50,2026-04-02,2026-04-05,entregue,14.12
+565,461,94,Santos,SP,devolucao,1,1,Rota Leve,11.50,2026-04-09,2026-04-11,recebido_cd,11.66
+566,462,34,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-04-03,2026-04-04,entregue,14.02
+567,464,102,Limeira,SP,ida,1,1,Rota Leve,11.50,2026-04-03,2026-04-06,nao_encontrado,14.79
+568,464,102,Limeira,SP,ida,1,2,Rota Leve,11.50,2026-04-03,2026-04-08,nao_encontrado,16.74
+569,464,102,Limeira,SP,ida,1,3,Rota Leve,11.50,2026-04-03,2026-04-09,entregue,18.96
+570,465,102,Limeira,SP,ida,1,1,Rota Leve,11.50,2026-04-04,2026-04-07,entregue,15.59
+571,467,86,Ribeirão Preto,SP,ida,1,1,Rota Leve,11.50,2026-04-04,2026-04-05,entregue,19.65
+572,467,86,Ribeirão Preto,SP,ida,2,1,Rota Leve,11.50,2026-04-04,2026-04-06,nao_encontrado,12.08
+573,467,86,Ribeirão Preto,SP,ida,2,2,Rota Leve,11.50,2026-04-04,2026-04-09,entregue,17.08
+574,468,53,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-04-04,2026-04-05,entregue,19.23
+575,469,103,Limeira,SP,ida,1,1,Rota Leve,11.50,2026-04-03,2026-04-04,entregue,12.55
+576,470,22,Campinas,SP,ida,1,1,TransVale,14.00,2026-04-04,2026-04-07,entregue,19.69
+577,471,57,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-04-03,2026-04-06,entregue,18.30
+578,471,57,Jundiaí,SP,ida,2,1,TransVale,14.00,2026-04-03,2026-04-04,entregue,14.92
+579,472,34,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-04-05,2026-04-08,entregue,20.20
+580,473,35,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-04-04,2026-04-07,entregue,12.67
+581,474,103,Limeira,SP,ida,1,1,TransVale,14.00,2026-04-04,2026-04-05,entregue,22.86
+582,475,22,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-04-04,2026-04-06,entregue,15.57
+583,476,24,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-04-06,2026-04-07,nao_encontrado,13.67
+584,476,24,Campinas,SP,ida,1,2,Rota Leve,11.50,2026-04-06,2026-04-08,entregue,17.25
+585,476,24,Campinas,SP,devolucao,1,1,Rota Leve,11.50,2026-04-12,2026-04-14,recebido_cd,12.57
+586,477,70,Piracicaba,SP,ida,1,1,Rota Leve,11.50,2026-04-06,2026-04-08,entregue,14.98
+587,478,33,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-04-04,2026-04-05,entregue,20.06
+588,479,8,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-04-06,2026-04-09,entregue,18.64
+589,479,8,Campinas,SP,ida,2,1,Rota Leve,11.50,2026-04-06,2026-04-07,nao_encontrado,20.37
+590,479,8,Campinas,SP,ida,2,2,Rota Leve,11.50,2026-04-06,2026-04-10,nao_encontrado,15.52
+591,479,8,Campinas,SP,ida,2,3,Rota Leve,11.50,2026-04-06,2026-04-13,entregue,19.97
+592,480,64,Piracicaba,SP,ida,1,1,TransVale,14.00,2026-04-06,2026-04-08,entregue,21.85
+593,481,85,Ribeirão Preto,SP,ida,1,1,TransVale,14.00,2026-04-07,2026-04-08,nao_encontrado,20.40
+594,481,85,Ribeirão Preto,SP,ida,1,2,TransVale,14.00,2026-04-07,2026-04-11,entregue,16.84
+595,482,57,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-04-06,2026-04-08,entregue,17.08
+596,483,62,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-04-06,2026-04-09,entregue,18.12
+597,484,117,Curitiba,PR,ida,1,1,Rota Leve,11.50,2026-04-05,2026-04-06,nao_encontrado,17.37
+598,484,117,Curitiba,PR,ida,1,2,Rota Leve,11.50,2026-04-05,2026-04-09,entregue,15.65
+599,485,19,Campinas,SP,ida,1,1,TransVale,14.00,2026-04-05,2026-04-08,entregue,20.89
+600,487,102,Limeira,SP,ida,1,1,TransVale,14.00,2026-04-07,2026-04-08,entregue,20.58
+601,488,25,Campinas,SP,ida,1,1,TransVale,14.00,2026-04-07,2026-04-10,nao_encontrado,19.30
+602,488,25,Campinas,SP,ida,1,2,TransVale,14.00,2026-04-07,2026-04-13,entregue,22.24
+603,489,56,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-04-08,2026-04-09,entregue,16.30
+604,491,100,Limeira,SP,ida,1,1,Rota Leve,11.50,2026-04-07,2026-04-10,entregue,17.62
+605,492,13,Campinas,SP,ida,1,1,TransVale,14.00,2026-04-08,2026-04-10,entregue,21.74
+606,493,61,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-04-07,2026-04-10,entregue,18.70
+607,494,99,Santos,SP,ida,1,1,Rota Leve,11.50,2026-04-09,2026-04-10,entregue,13.78
+608,495,119,Curitiba,PR,ida,1,1,Rota Leve,11.50,2026-04-08,2026-04-09,entregue,14.21
+609,496,47,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-04-10,2026-04-11,entregue,18.49
+610,497,19,Campinas,SP,ida,1,1,TransVale,14.00,2026-04-09,2026-04-11,entregue,21.81
+611,499,48,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-04-08,2026-04-10,entregue,20.17
+612,500,84,Ribeirão Preto,SP,ida,1,1,Rota Leve,11.50,2026-04-11,2026-04-14,entregue,12.18
+613,501,92,Santos,SP,ida,1,1,Rota Leve,11.50,2026-04-09,2026-04-12,entregue,20.01
+614,502,23,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-04-10,2026-04-12,nao_encontrado,18.62
+615,502,23,Campinas,SP,ida,1,2,Rota Leve,11.50,2026-04-10,2026-04-14,entregue,19.02
+616,503,37,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-04-12,2026-04-15,entregue,22.64
+617,504,40,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-04-10,2026-04-13,entregue,18.84
+618,506,59,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-04-10,2026-04-13,nao_encontrado,19.92
+619,506,59,Jundiaí,SP,ida,1,2,TransVale,14.00,2026-04-10,2026-04-14,entregue,18.09
+620,507,56,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-04-12,2026-04-14,entregue,12.41
+621,508,95,Santos,SP,ida,1,1,TransVale,14.00,2026-04-12,2026-04-15,entregue,19.01
+622,509,78,Ribeirão Preto,SP,ida,1,1,Rota Leve,11.50,2026-04-10,2026-04-12,entregue,13.13
+623,511,61,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-04-11,2026-04-14,entregue,12.74
+624,512,61,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-04-12,2026-04-15,entregue,15.23
+625,513,84,Ribeirão Preto,SP,ida,1,1,TransVale,14.00,2026-04-12,2026-04-15,entregue,22.29
+626,514,35,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-04-13,2026-04-14,entregue,13.01
+627,514,35,Sorocaba,SP,ida,2,1,Rota Leve,11.50,2026-04-13,2026-04-16,entregue,18.08
+628,515,117,Curitiba,PR,ida,1,1,Rota Leve,11.50,2026-04-13,2026-04-16,entregue,15.95
+629,516,99,Santos,SP,ida,1,1,TransVale,14.00,2026-04-11,2026-04-14,entregue,15.20
+630,517,6,Campinas,SP,ida,1,1,TransVale,14.00,2026-04-12,2026-04-14,entregue,21.23
+631,518,1,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-04-13,2026-04-14,entregue,12.27
+632,519,25,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-04-13,2026-04-14,entregue,12.77
+633,520,93,Santos,SP,ida,1,1,TransVale,14.00,2026-04-14,2026-04-16,entregue,19.86
+634,521,19,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-04-12,2026-04-14,entregue,17.08
+635,522,38,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-04-13,2026-04-16,entregue,18.37
+636,523,113,Curitiba,PR,ida,1,1,Rota Leve,11.50,2026-04-14,2026-04-15,entregue,17.41
+637,524,118,Curitiba,PR,ida,1,1,Rota Leve,11.50,2026-04-14,2026-04-16,entregue,15.87
+638,525,100,Limeira,SP,ida,1,1,Rota Leve,11.50,2026-04-15,2026-04-18,entregue,20.14
+639,526,119,Curitiba,PR,ida,1,1,Rota Leve,11.50,2026-04-15,2026-04-18,entregue,15.26
+640,527,61,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-04-13,2026-04-14,entregue,17.00
+641,528,118,Curitiba,PR,ida,1,1,TransVale,14.00,2026-04-14,2026-04-15,nao_encontrado,20.74
+642,528,118,Curitiba,PR,ida,1,2,TransVale,14.00,2026-04-14,2026-04-17,nao_encontrado,14.47
+643,528,118,Curitiba,PR,ida,1,3,TransVale,14.00,2026-04-14,2026-04-20,entregue,17.33
+644,529,68,Piracicaba,SP,ida,1,1,Rota Leve,11.50,2026-04-13,2026-04-16,entregue,18.48
+645,530,61,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-04-16,2026-04-17,entregue,22.16
+646,531,10,Campinas,SP,ida,1,1,TransVale,14.00,2026-04-16,2026-04-19,entregue,19.24
+647,532,84,Ribeirão Preto,SP,ida,1,1,Rota Leve,11.50,2026-04-15,2026-04-18,entregue,16.60
+648,533,54,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-04-15,2026-04-18,entregue,13.07
+649,534,5,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-04-16,2026-04-19,entregue,14.42
+650,535,30,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-04-16,2026-04-18,entregue,14.66
+651,536,93,Santos,SP,ida,1,1,Rota Leve,11.50,2026-04-16,2026-04-19,entregue,18.45
+652,537,108,Limeira,SP,ida,1,1,TransVale,14.00,2026-04-15,2026-04-16,entregue,16.68
+653,538,23,Campinas,SP,ida,1,1,TransVale,14.00,2026-04-17,2026-04-19,entregue,18.26
+654,539,114,Curitiba,PR,ida,1,1,Rota Leve,11.50,2026-04-16,2026-04-19,entregue,13.53
+655,540,1,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-04-18,2026-04-21,nao_encontrado,16.64
+656,540,1,Campinas,SP,ida,1,2,Rota Leve,11.50,2026-04-18,2026-04-22,nao_encontrado,15.28
+657,540,1,Campinas,SP,ida,1,3,Rota Leve,11.50,2026-04-18,2026-04-25,entregue,20.35
+658,541,25,Campinas,SP,ida,1,1,TransVale,14.00,2026-04-16,2026-04-18,entregue,21.11
+659,542,44,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-04-16,2026-04-19,entregue,17.81
+660,543,43,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-04-16,2026-04-17,entregue,16.86
+661,544,47,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-04-16,2026-04-18,nao_encontrado,19.29
+662,544,47,Sorocaba,SP,ida,1,2,TransVale,14.00,2026-04-16,2026-04-20,entregue,14.89
+663,545,22,Campinas,SP,ida,1,1,TransVale,14.00,2026-04-17,2026-04-20,entregue,16.77
+664,547,78,Ribeirão Preto,SP,ida,1,1,Rota Leve,11.50,2026-04-19,2026-04-21,entregue,13.99
+665,548,98,Santos,SP,ida,1,1,TransVale,14.00,2026-04-17,2026-04-19,entregue,20.83
+666,548,98,Santos,SP,ida,2,1,TransVale,14.00,2026-04-17,2026-04-20,entregue,15.57
+667,549,61,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-04-17,2026-04-19,entregue,16.43
+668,550,72,Piracicaba,SP,ida,1,1,TransVale,14.00,2026-04-17,2026-04-20,entregue,15.03
+669,551,2,Campinas,SP,ida,1,1,TransVale,14.00,2026-04-18,2026-04-19,entregue,22.00
+670,552,60,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-04-19,2026-04-21,entregue,12.83
+671,553,90,Santos,SP,ida,1,1,TransVale,14.00,2026-04-19,2026-04-21,entregue,16.23
+672,555,97,Santos,SP,ida,1,1,Rota Leve,11.50,2026-04-20,2026-04-23,entregue,12.66
+673,556,120,Curitiba,PR,ida,1,1,TransVale,14.00,2026-04-19,2026-04-22,entregue,19.92
+674,557,105,Limeira,SP,ida,1,1,TransVale,14.00,2026-04-20,2026-04-23,entregue,19.05
+675,558,114,Curitiba,PR,ida,1,1,Rota Leve,11.50,2026-04-18,2026-04-20,entregue,19.79
+676,559,1,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-04-18,2026-04-19,entregue,16.02
+677,560,75,Piracicaba,SP,ida,1,1,TransVale,14.00,2026-04-19,2026-04-22,entregue,20.49
+678,561,59,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-04-20,2026-04-23,entregue,16.40
+679,562,1,Campinas,SP,ida,1,1,TransVale,14.00,2026-04-20,2026-04-21,entregue,15.96
+680,563,64,Piracicaba,SP,ida,1,1,TransVale,14.00,2026-04-19,2026-04-20,entregue,18.21
+681,564,31,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-04-20,2026-04-22,entregue,17.69
+682,565,71,Piracicaba,SP,ida,1,1,TransVale,14.00,2026-04-21,2026-04-22,entregue,21.90
+683,566,86,Ribeirão Preto,SP,ida,1,1,TransVale,14.00,2026-04-20,2026-04-21,entregue,16.11
+684,567,59,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-04-20,2026-04-21,entregue,11.64
+685,567,59,Jundiaí,SP,ida,2,1,Rota Leve,11.50,2026-04-20,2026-04-23,nao_encontrado,19.71
+686,567,59,Jundiaí,SP,ida,2,2,Rota Leve,11.50,2026-04-20,2026-04-25,entregue,13.08
+687,568,93,Santos,SP,ida,1,1,TransVale,14.00,2026-04-20,2026-04-23,entregue,17.14
+688,569,3,Campinas,SP,ida,1,1,TransVale,14.00,2026-04-22,2026-04-23,entregue,17.26
+689,570,90,Santos,SP,ida,1,1,TransVale,14.00,2026-04-22,2026-04-24,nao_encontrado,15.04
+690,570,90,Santos,SP,ida,1,2,TransVale,14.00,2026-04-22,2026-04-26,entregue,17.89
+691,571,63,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-04-22,2026-04-24,entregue,18.52
+692,572,55,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-04-20,2026-04-21,nao_encontrado,15.37
+693,572,55,Jundiaí,SP,ida,1,2,Rota Leve,11.50,2026-04-20,2026-04-24,entregue,11.63
+694,573,50,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-04-20,2026-04-22,entregue,18.00
+695,574,26,Campinas,SP,ida,1,1,TransVale,14.00,2026-04-22,2026-04-25,entregue,14.52
+696,574,26,Campinas,SP,devolucao,1,1,TransVale,14.00,2026-04-28,2026-04-30,recebido_cd,17.92
+697,575,117,Curitiba,PR,ida,1,1,Rota Leve,11.50,2026-04-22,2026-04-25,entregue,17.16
+698,575,117,Curitiba,PR,ida,2,1,Rota Leve,11.50,2026-04-22,2026-04-25,entregue,14.64
+699,576,71,Piracicaba,SP,ida,1,1,Rota Leve,11.50,2026-04-22,2026-04-24,entregue,14.89
+700,576,71,Piracicaba,SP,ida,2,1,Rota Leve,11.50,2026-04-22,2026-04-23,nao_encontrado,14.37
+701,576,71,Piracicaba,SP,ida,2,2,Rota Leve,11.50,2026-04-22,2026-04-26,entregue,16.57
+702,577,118,Curitiba,PR,ida,1,1,Rota Leve,11.50,2026-04-20,2026-04-23,entregue,19.20
+703,578,94,Santos,SP,ida,1,1,Rota Leve,11.50,2026-04-23,2026-04-25,entregue,16.16
+704,580,13,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-04-22,2026-04-25,nao_encontrado,13.11
+705,580,13,Campinas,SP,ida,1,2,Rota Leve,11.50,2026-04-22,2026-04-27,entregue,11.84
+706,581,43,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-04-22,2026-04-24,entregue,13.02
+707,582,4,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-04-24,2026-04-26,entregue,11.75
+708,583,90,Santos,SP,ida,1,1,Rota Leve,11.50,2026-04-22,2026-04-23,entregue,12.22
+709,583,90,Santos,SP,devolucao,1,1,Rota Leve,11.50,2026-04-28,2026-04-30,recebido_cd,17.83
+710,584,34,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-04-25,2026-04-28,entregue,15.22
+711,584,34,Sorocaba,SP,ida,2,1,TransVale,14.00,2026-04-25,2026-04-27,entregue,17.42
+712,585,106,Limeira,SP,ida,1,1,TransVale,14.00,2026-04-23,2026-04-25,entregue,16.09
+713,586,37,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-04-25,2026-04-27,entregue,18.40
+714,587,48,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-04-24,2026-04-27,entregue,17.98
+715,588,37,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-04-25,2026-04-28,entregue,19.73
+716,589,110,Bauru,SP,ida,1,1,TransVale,14.00,2026-04-26,2026-04-29,entregue,19.75
+717,590,100,Limeira,SP,ida,1,1,TransVale,14.00,2026-04-24,2026-04-25,entregue,20.14
+718,590,100,Limeira,SP,devolucao,1,1,TransVale,14.00,2026-05-02,2026-05-04,recebido_cd,22.37
+719,591,92,Santos,SP,ida,1,1,Rota Leve,11.50,2026-04-25,2026-04-28,entregue,13.82
+720,591,92,Santos,SP,devolucao,1,1,Rota Leve,11.50,2026-05-01,2026-05-03,recebido_cd,17.05
+721,592,96,Santos,SP,ida,1,1,Rota Leve,11.50,2026-04-26,2026-04-28,entregue,13.92
+722,593,12,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-04-26,2026-04-29,entregue,18.89
+723,593,12,Campinas,SP,devolucao,1,1,Rota Leve,11.50,2026-05-02,2026-05-04,recebido_cd,18.87
+724,594,18,Campinas,SP,ida,1,1,TransVale,14.00,2026-04-27,2026-04-29,entregue,17.95
+725,595,55,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-04-26,2026-04-29,entregue,18.09
+726,597,82,Ribeirão Preto,SP,ida,1,1,TransVale,14.00,2026-04-27,2026-04-29,entregue,21.24
+727,598,61,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-04-27,2026-04-29,entregue,18.94
+728,599,89,Santos,SP,ida,1,1,TransVale,14.00,2026-04-28,2026-04-30,entregue,21.69
+729,600,44,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-04-28,2026-05-01,entregue,19.07
+730,601,58,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-04-29,2026-05-01,entregue,22.61
+731,602,113,Curitiba,PR,ida,1,1,TransVale,14.00,2026-04-29,2026-05-01,nao_encontrado,17.80
+732,602,113,Curitiba,PR,ida,1,2,TransVale,14.00,2026-04-29,2026-05-04,nao_encontrado,15.23
+733,602,113,Curitiba,PR,ida,1,3,TransVale,14.00,2026-04-29,2026-05-06,entregue,17.10
+734,602,113,Curitiba,PR,ida,2,1,TransVale,14.00,2026-04-29,2026-05-01,entregue,19.35
+735,603,5,Campinas,SP,ida,1,1,TransVale,14.00,2026-04-29,2026-04-30,entregue,16.45
+736,604,4,Campinas,SP,ida,1,1,TransVale,14.00,2026-04-29,2026-04-30,entregue,18.27
+737,605,44,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-04-27,2026-04-29,entregue,13.92
+738,606,43,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-04-28,2026-04-30,entregue,13.82
+739,607,44,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-04-27,2026-04-30,entregue,14.95
+740,607,44,Sorocaba,SP,devolucao,1,1,TransVale,14.00,2026-05-06,2026-05-08,recebido_cd,16.37
+741,608,30,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-04-30,2026-05-03,entregue,16.97
+742,609,1,Campinas,SP,ida,1,1,TransVale,14.00,2026-04-28,2026-04-30,entregue,14.02
+743,610,61,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-04-30,2026-05-03,entregue,16.44
+744,610,61,Jundiaí,SP,devolucao,1,1,TransVale,14.00,2026-05-07,2026-05-09,recebido_cd,19.99
+745,611,61,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-04-30,2026-05-03,entregue,21.61
+746,612,114,Curitiba,PR,ida,1,1,TransVale,14.00,2026-04-30,2026-05-02,entregue,15.91
+747,613,84,Ribeirão Preto,SP,ida,1,1,TransVale,14.00,2026-05-01,2026-05-03,entregue,19.33
+748,615,61,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-05-01,2026-05-03,entregue,22.98
+749,616,118,Curitiba,PR,ida,1,1,Rota Leve,11.50,2026-05-01,2026-05-03,entregue,11.83
+750,617,64,Piracicaba,SP,ida,1,1,Rota Leve,11.50,2026-05-02,2026-05-04,entregue,16.50
+751,618,64,Piracicaba,SP,ida,1,1,Rota Leve,11.50,2026-05-02,2026-05-05,entregue,11.56
+752,619,68,Piracicaba,SP,ida,1,1,Rota Leve,11.50,2026-05-02,2026-05-03,entregue,12.11
+753,619,68,Piracicaba,SP,devolucao,1,1,Rota Leve,11.50,2026-05-07,2026-05-09,recebido_cd,18.21
+754,621,72,Piracicaba,SP,ida,1,1,TransVale,14.00,2026-05-03,2026-05-05,entregue,18.80
+755,622,49,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-05-03,2026-05-06,entregue,16.38
+756,623,88,Santos,SP,ida,1,1,Rota Leve,11.50,2026-05-03,2026-05-04,entregue,15.60
+757,624,112,Bauru,SP,ida,1,1,TransVale,14.00,2026-05-01,2026-05-02,nao_encontrado,20.90
+758,624,112,Bauru,SP,ida,1,2,TransVale,14.00,2026-05-01,2026-05-05,nao_encontrado,16.87
+759,624,112,Bauru,SP,ida,1,3,TransVale,14.00,2026-05-01,2026-05-08,entregue,18.09
+760,625,30,Campinas,SP,ida,1,1,TransVale,14.00,2026-05-01,2026-05-03,entregue,21.31
+761,627,113,Curitiba,PR,ida,1,1,TransVale,14.00,2026-05-03,2026-05-06,entregue,15.01
+762,628,71,Piracicaba,SP,ida,1,1,Rota Leve,11.50,2026-05-02,2026-05-05,entregue,15.37
+763,629,84,Ribeirão Preto,SP,ida,1,1,Rota Leve,11.50,2026-05-03,2026-05-05,entregue,15.79
+764,629,84,Ribeirão Preto,SP,ida,2,1,Rota Leve,11.50,2026-05-03,2026-05-04,nao_encontrado,16.24
+765,629,84,Ribeirão Preto,SP,ida,2,2,Rota Leve,11.50,2026-05-03,2026-05-06,entregue,17.65
+766,630,95,Santos,SP,ida,1,1,TransVale,14.00,2026-05-03,2026-05-06,entregue,22.20
+767,631,81,Ribeirão Preto,SP,ida,1,1,Rota Leve,11.50,2026-05-02,2026-05-03,entregue,16.38
+768,632,100,Limeira,SP,ida,1,1,TransVale,14.00,2026-05-05,2026-05-07,nao_encontrado,19.46
+769,632,100,Limeira,SP,ida,1,2,TransVale,14.00,2026-05-05,2026-05-10,entregue,21.67
+770,633,108,Limeira,SP,ida,1,1,Rota Leve,11.50,2026-05-05,2026-05-07,entregue,15.84
+771,634,95,Santos,SP,ida,1,1,Rota Leve,11.50,2026-05-04,2026-05-06,entregue,19.92
+772,635,47,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-05-05,2026-05-07,entregue,19.26
+773,636,106,Limeira,SP,ida,1,1,TransVale,14.00,2026-05-05,2026-05-08,nao_encontrado,14.62
+774,636,106,Limeira,SP,ida,1,2,TransVale,14.00,2026-05-05,2026-05-11,entregue,14.78
+775,636,106,Limeira,SP,ida,2,1,TransVale,14.00,2026-05-05,2026-05-06,nao_encontrado,17.82
+776,636,106,Limeira,SP,ida,2,2,TransVale,14.00,2026-05-05,2026-05-07,entregue,22.48
+777,637,12,Campinas,SP,ida,1,1,TransVale,14.00,2026-05-06,2026-05-08,entregue,19.62
+778,638,48,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-05-05,2026-05-07,entregue,15.32
+779,639,28,Campinas,SP,ida,1,1,TransVale,14.00,2026-05-06,2026-05-07,entregue,21.11
+780,640,2,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-05-05,2026-05-07,entregue,14.76
+781,641,7,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-05-06,2026-05-07,entregue,12.76
+782,642,43,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-05-05,2026-05-08,entregue,15.87
+783,643,45,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-05-05,2026-05-06,entregue,16.17
+784,645,31,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-05-05,2026-05-07,entregue,16.13
+785,645,31,Sorocaba,SP,devolucao,1,1,Rota Leve,11.50,2026-05-11,2026-05-13,recebido_cd,13.46
+786,646,18,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-05-06,2026-05-07,entregue,14.50
+787,647,115,Curitiba,PR,ida,1,1,TransVale,14.00,2026-05-07,2026-05-09,entregue,21.88
+788,648,106,Limeira,SP,ida,1,1,TransVale,14.00,2026-05-07,2026-05-08,entregue,16.08
+789,649,12,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-05-07,2026-05-09,entregue,19.59
+790,651,90,Santos,SP,ida,1,1,Rota Leve,11.50,2026-05-07,2026-05-09,nao_encontrado,12.71
+791,651,90,Santos,SP,ida,1,2,Rota Leve,11.50,2026-05-07,2026-05-10,entregue,15.34
+792,653,9,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-05-07,2026-05-08,entregue,18.94
+793,654,75,Piracicaba,SP,ida,1,1,TransVale,14.00,2026-05-09,2026-05-11,entregue,17.41
+794,654,75,Piracicaba,SP,ida,2,1,TransVale,14.00,2026-05-09,2026-05-10,nao_encontrado,21.97
+795,654,75,Piracicaba,SP,ida,2,2,TransVale,14.00,2026-05-09,2026-05-11,entregue,21.07
+796,656,100,Limeira,SP,ida,1,1,Rota Leve,11.50,2026-05-09,2026-05-10,entregue,16.06
+797,657,114,Curitiba,PR,ida,1,1,TransVale,14.00,2026-05-07,2026-05-08,entregue,19.46
+798,658,61,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-05-07,2026-05-09,entregue,18.51
+799,659,107,Limeira,SP,ida,1,1,TransVale,14.00,2026-05-09,2026-05-12,entregue,22.97
+800,660,95,Santos,SP,ida,1,1,Rota Leve,11.50,2026-05-08,2026-05-11,entregue,12.24
+801,661,97,Santos,SP,ida,1,1,Rota Leve,11.50,2026-05-09,2026-05-11,entregue,13.20
+802,662,115,Curitiba,PR,ida,1,1,Rota Leve,11.50,2026-05-08,2026-05-10,entregue,14.46
+803,663,64,Piracicaba,SP,ida,1,1,TransVale,14.00,2026-05-07,2026-05-08,entregue,14.98
+804,664,100,Limeira,SP,ida,1,1,TransVale,14.00,2026-05-08,2026-05-09,entregue,15.27
+805,665,5,Campinas,SP,ida,1,1,TransVale,14.00,2026-05-08,2026-05-09,entregue,16.89
+806,667,31,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-05-09,2026-05-12,entregue,17.30
+807,669,47,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-05-09,2026-05-11,entregue,13.11
+808,670,95,Santos,SP,ida,1,1,Rota Leve,11.50,2026-05-10,2026-05-11,entregue,19.78
+809,672,104,Limeira,SP,ida,1,1,Rota Leve,11.50,2026-05-11,2026-05-13,entregue,16.83
+810,673,43,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-05-10,2026-05-12,entregue,16.97
+811,674,76,Ribeirão Preto,SP,ida,1,1,Rota Leve,11.50,2026-05-11,2026-05-13,entregue,20.15
+812,675,64,Piracicaba,SP,ida,1,1,TransVale,14.00,2026-05-12,2026-05-14,entregue,18.07
+813,676,47,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-05-12,2026-05-13,entregue,22.82
+814,676,47,Sorocaba,SP,ida,2,1,TransVale,14.00,2026-05-12,2026-05-14,entregue,20.73
+815,677,91,Santos,SP,ida,1,1,TransVale,14.00,2026-05-10,2026-05-13,entregue,21.94
+816,678,59,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-05-11,2026-05-14,entregue,17.65
+817,679,35,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-05-10,2026-05-12,entregue,18.22
+818,679,35,Sorocaba,SP,ida,2,1,TransVale,14.00,2026-05-10,2026-05-13,entregue,14.99
+819,680,34,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-05-10,2026-05-12,entregue,18.81
+820,680,34,Sorocaba,SP,ida,2,1,Rota Leve,11.50,2026-05-10,2026-05-12,entregue,15.86
+821,682,90,Santos,SP,ida,1,1,TransVale,14.00,2026-05-11,2026-05-14,entregue,19.03
+822,683,77,Ribeirão Preto,SP,ida,1,1,Rota Leve,11.50,2026-05-10,2026-05-12,entregue,11.83
+823,684,25,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-05-12,2026-05-13,entregue,15.45
+824,685,4,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-05-13,2026-05-15,entregue,12.66
+825,685,4,Campinas,SP,devolucao,1,1,Rota Leve,11.50,2026-05-18,2026-05-20,recebido_cd,14.42
+826,686,58,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-05-11,2026-05-14,entregue,15.25
+827,687,93,Santos,SP,ida,1,1,TransVale,14.00,2026-05-13,2026-05-15,nao_encontrado,19.59
+828,687,93,Santos,SP,ida,1,2,TransVale,14.00,2026-05-13,2026-05-16,entregue,15.96
+829,687,93,Santos,SP,devolucao,1,1,TransVale,14.00,2026-05-21,2026-05-23,recebido_cd,18.27
+830,689,118,Curitiba,PR,ida,1,1,Rota Leve,11.50,2026-05-13,2026-05-15,entregue,13.93
+831,690,73,Piracicaba,SP,ida,1,1,TransVale,14.00,2026-05-13,2026-05-14,entregue,18.04
+832,692,115,Curitiba,PR,ida,1,1,Rota Leve,11.50,2026-05-13,2026-05-15,entregue,18.72
+833,693,1,Campinas,SP,ida,1,1,TransVale,14.00,2026-05-14,2026-05-15,entregue,21.44
+834,694,98,Santos,SP,ida,1,1,TransVale,14.00,2026-05-15,2026-05-16,entregue,14.25
+835,695,43,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-05-13,2026-05-15,entregue,13.49
+836,696,78,Ribeirão Preto,SP,ida,1,1,Rota Leve,11.50,2026-05-13,2026-05-14,entregue,19.12
+837,697,74,Piracicaba,SP,ida,1,1,TransVale,14.00,2026-05-16,2026-05-18,entregue,19.60
+838,698,104,Limeira,SP,ida,1,1,TransVale,14.00,2026-05-16,2026-05-17,entregue,18.90
+839,699,42,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-05-15,2026-05-18,entregue,16.70
+840,699,42,Sorocaba,SP,devolucao,1,1,TransVale,14.00,2026-05-23,2026-05-25,recebido_cd,19.90
+841,700,71,Piracicaba,SP,ida,1,1,Rota Leve,11.50,2026-05-15,2026-05-17,entregue,18.89
+842,701,89,Santos,SP,ida,1,1,Rota Leve,11.50,2026-05-14,2026-05-15,entregue,20.48
+843,704,90,Santos,SP,ida,1,1,Rota Leve,11.50,2026-05-14,2026-05-17,entregue,20.08
+844,705,105,Limeira,SP,ida,1,1,TransVale,14.00,2026-05-14,2026-05-17,entregue,17.36
+845,706,73,Piracicaba,SP,ida,1,1,Rota Leve,11.50,2026-05-16,2026-05-18,entregue,11.74
+846,707,27,Campinas,SP,ida,1,1,TransVale,14.00,2026-05-16,2026-05-19,entregue,17.65
+847,708,19,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-05-15,2026-05-18,entregue,13.17
+848,709,100,Limeira,SP,ida,1,1,TransVale,14.00,2026-05-15,2026-05-18,nao_encontrado,22.49
+849,709,100,Limeira,SP,ida,1,2,TransVale,14.00,2026-05-15,2026-05-19,entregue,16.04
+850,711,119,Curitiba,PR,ida,1,1,Rota Leve,11.50,2026-05-16,2026-05-17,entregue,18.98
+851,712,107,Limeira,SP,ida,1,1,TransVale,14.00,2026-05-16,2026-05-19,nao_encontrado,20.39
+852,712,107,Limeira,SP,ida,1,2,TransVale,14.00,2026-05-16,2026-05-20,entregue,15.30
+853,713,68,Piracicaba,SP,ida,1,1,Rota Leve,11.50,2026-05-16,2026-05-17,entregue,19.16
+854,714,86,Ribeirão Preto,SP,ida,1,1,Rota Leve,11.50,2026-05-19,2026-05-21,nao_encontrado,16.59
+855,714,86,Ribeirão Preto,SP,ida,1,2,Rota Leve,11.50,2026-05-19,2026-05-24,entregue,15.17
+856,716,98,Santos,SP,ida,1,1,Rota Leve,11.50,2026-05-17,2026-05-18,entregue,13.84
+857,717,26,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-05-17,2026-05-18,entregue,13.84
+858,718,114,Curitiba,PR,ida,1,1,TransVale,14.00,2026-05-19,2026-05-22,entregue,19.64
+859,720,38,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-05-19,2026-05-21,entregue,19.75
+860,722,13,Campinas,SP,ida,1,1,TransVale,14.00,2026-05-19,2026-05-21,entregue,14.45
+861,723,17,Campinas,SP,ida,1,1,TransVale,14.00,2026-05-18,2026-05-20,entregue,21.12
+862,723,17,Campinas,SP,ida,2,1,TransVale,14.00,2026-05-18,2026-05-21,entregue,21.52
+863,724,49,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-05-18,2026-05-20,entregue,15.19
+864,725,4,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-05-19,2026-05-21,entregue,11.69
+865,726,24,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-05-20,2026-05-22,entregue,16.86
+866,726,24,Campinas,SP,ida,2,1,Rota Leve,11.50,2026-05-20,2026-05-21,entregue,17.72
+867,727,96,Santos,SP,ida,1,1,Rota Leve,11.50,2026-05-21,2026-05-24,entregue,16.85
+868,727,96,Santos,SP,devolucao,1,1,Rota Leve,11.50,2026-05-30,2026-06-01,recebido_cd,20.15
+869,728,97,Santos,SP,ida,1,1,Rota Leve,11.50,2026-05-22,2026-05-24,entregue,12.17
+870,729,108,Limeira,SP,ida,1,1,Rota Leve,11.50,2026-05-21,2026-05-22,entregue,13.75
+871,730,113,Curitiba,PR,ida,1,1,Rota Leve,11.50,2026-05-20,2026-05-21,entregue,16.63
+872,731,119,Curitiba,PR,ida,1,1,Rota Leve,11.50,2026-05-20,2026-05-21,entregue,13.37
+873,731,119,Curitiba,PR,devolucao,1,1,Rota Leve,11.50,2026-05-24,2026-05-26,recebido_cd,17.11
+874,732,24,Campinas,SP,ida,1,1,TransVale,14.00,2026-05-22,2026-05-23,entregue,19.51
+875,732,24,Campinas,SP,ida,2,1,TransVale,14.00,2026-05-22,2026-05-23,entregue,16.75
+876,733,39,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-05-23,2026-05-24,nao_encontrado,16.36
+877,733,39,Sorocaba,SP,ida,1,2,TransVale,14.00,2026-05-23,2026-05-25,entregue,21.67
+878,734,3,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-05-21,2026-05-23,entregue,12.36
+879,735,102,Limeira,SP,ida,1,1,Rota Leve,11.50,2026-05-23,2026-05-24,entregue,16.70
+880,736,64,Piracicaba,SP,ida,1,1,TransVale,14.00,2026-05-21,2026-05-23,entregue,14.36
+881,738,36,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-05-24,2026-05-26,entregue,15.80
+882,739,86,Ribeirão Preto,SP,ida,1,1,Rota Leve,11.50,2026-05-24,2026-05-25,entregue,17.31
+883,740,53,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-05-24,2026-05-25,entregue,15.60
+884,740,53,Jundiaí,SP,devolucao,1,1,Rota Leve,11.50,2026-05-28,2026-05-30,recebido_cd,15.28
+885,741,84,Ribeirão Preto,SP,ida,1,1,TransVale,14.00,2026-05-24,2026-05-26,entregue,19.83
+886,743,17,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-05-22,2026-05-24,entregue,13.54
+887,744,118,Curitiba,PR,ida,1,1,TransVale,14.00,2026-05-22,2026-05-23,entregue,17.41
+888,744,118,Curitiba,PR,ida,2,1,TransVale,14.00,2026-05-22,2026-05-23,entregue,16.16
+889,745,34,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-05-25,2026-05-27,entregue,18.38
+890,745,34,Sorocaba,SP,ida,2,1,TransVale,14.00,2026-05-25,2026-05-27,entregue,15.18
+891,747,102,Limeira,SP,ida,1,1,TransVale,14.00,2026-05-23,2026-05-24,nao_encontrado,15.63
+892,747,102,Limeira,SP,ida,1,2,TransVale,14.00,2026-05-23,2026-05-26,nao_encontrado,16.26
+893,747,102,Limeira,SP,ida,1,3,TransVale,14.00,2026-05-23,2026-05-29,entregue,20.13
+894,747,102,Limeira,SP,devolucao,1,1,TransVale,14.00,2026-06-01,2026-06-03,recebido_cd,19.57
+895,748,50,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-05-23,2026-05-25,entregue,21.66
+896,749,74,Piracicaba,SP,ida,1,1,Rota Leve,11.50,2026-05-24,2026-05-26,entregue,14.50
+897,751,60,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-05-25,2026-05-27,entregue,19.08
+898,752,64,Piracicaba,SP,ida,1,1,Rota Leve,11.50,2026-05-26,2026-05-27,entregue,12.26
+899,752,64,Piracicaba,SP,devolucao,1,1,Rota Leve,11.50,2026-05-31,2026-06-02,recebido_cd,12.07
+900,753,2,Campinas,SP,ida,1,1,TransVale,14.00,2026-05-26,2026-05-27,entregue,16.74
+901,754,13,Campinas,SP,ida,1,1,TransVale,14.00,2026-05-24,2026-05-27,entregue,17.35
+902,755,30,Campinas,SP,ida,1,1,TransVale,14.00,2026-05-25,2026-05-26,entregue,20.87
+903,757,36,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-05-26,2026-05-27,entregue,14.86
+904,757,36,Sorocaba,SP,devolucao,1,1,Rota Leve,11.50,2026-06-03,2026-06-05,recebido_cd,17.00
+905,758,47,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-05-26,2026-05-29,entregue,18.50
+906,759,46,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-05-26,2026-05-29,entregue,22.86
+907,760,47,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-05-27,2026-05-30,entregue,16.88
+908,761,84,Ribeirão Preto,SP,ida,1,1,Rota Leve,11.50,2026-05-26,2026-05-27,entregue,13.46
+909,762,8,Campinas,SP,ida,1,1,TransVale,14.00,2026-05-27,2026-05-29,entregue,18.25
+910,763,100,Limeira,SP,ida,1,1,Rota Leve,11.50,2026-05-28,2026-05-29,nao_encontrado,13.57
+911,763,100,Limeira,SP,ida,1,2,Rota Leve,11.50,2026-05-28,2026-05-30,entregue,14.18
+912,765,74,Piracicaba,SP,ida,1,1,Rota Leve,11.50,2026-05-28,2026-05-29,entregue,13.41
+913,767,47,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-05-27,2026-05-29,nao_encontrado,18.89
+914,767,47,Sorocaba,SP,ida,1,2,Rota Leve,11.50,2026-05-27,2026-06-01,entregue,15.31
+915,768,49,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-05-29,2026-05-30,entregue,14.86
+916,769,74,Piracicaba,SP,ida,1,1,Rota Leve,11.50,2026-05-29,2026-05-31,entregue,12.33
+917,770,23,Campinas,SP,ida,1,1,TransVale,14.90,2026-05-28,2026-05-30,entregue,22.89
+918,771,52,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-05-29,2026-06-01,entregue,13.14
+919,773,37,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-05-30,2026-06-02,entregue,19.31
+920,774,86,Ribeirão Preto,SP,ida,1,1,TransVale,14.00,2026-05-29,2026-05-30,nao_encontrado,16.96
+921,774,86,Ribeirão Preto,SP,ida,1,2,TransVale,14.00,2026-05-29,2026-06-01,nao_encontrado,22.97
+922,774,86,Ribeirão Preto,SP,ida,1,3,TransVale,14.00,2026-05-29,2026-06-03,entregue,14.17
+923,775,25,Campinas,SP,ida,1,1,TransVale,14.00,2026-05-30,2026-06-02,nao_encontrado,17.73
+924,775,25,Campinas,SP,ida,1,2,TransVale,14.00,2026-05-30,2026-06-03,entregue,19.65
+925,777,11,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-05-31,2026-06-03,entregue,15.85
+926,778,77,Ribeirão Preto,SP,ida,1,1,Rota Leve,11.50,2026-05-31,2026-06-01,nao_encontrado,16.79
+927,778,77,Ribeirão Preto,SP,ida,1,2,Rota Leve,11.50,2026-05-31,2026-06-02,entregue,15.05
+928,779,10,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-05-30,2026-05-31,entregue,13.82
+929,780,13,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-06-01,2026-06-03,entregue,17.23
+930,780,13,Campinas,SP,ida,2,1,Rota Leve,11.50,2026-06-01,2026-06-02,entregue,12.48
+931,781,2,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-05-31,2026-06-02,entregue,13.66
+932,782,24,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-06-01,2026-06-03,entregue,16.70
+933,783,56,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-06-01,2026-06-03,nao_encontrado,16.27
+934,783,56,Jundiaí,SP,ida,1,2,Rota Leve,11.50,2026-06-01,2026-06-04,entregue,19.76
+935,785,56,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-05-31,2026-06-03,entregue,22.98
+936,786,94,Santos,SP,ida,1,1,Rota Leve,11.50,2026-05-31,2026-06-02,entregue,15.66
+937,787,5,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-06-02,2026-06-05,entregue,14.11
+938,787,5,Campinas,SP,devolucao,1,1,Rota Leve,11.50,2026-06-11,2026-06-13,recebido_cd,18.13
+939,788,68,Piracicaba,SP,ida,1,1,Rota Leve,11.50,2026-05-31,2026-06-03,entregue,16.57
+940,789,25,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-06-01,2026-06-02,entregue,17.86
+941,790,87,Ribeirão Preto,SP,ida,1,1,Rota Leve,11.50,2026-06-01,2026-06-03,nao_encontrado,15.05
+942,790,87,Ribeirão Preto,SP,ida,1,2,Rota Leve,11.50,2026-06-01,2026-06-06,entregue,19.70
+943,791,17,Campinas,SP,ida,1,1,TransVale,14.00,2026-06-03,2026-06-05,entregue,16.68
+944,791,17,Campinas,SP,ida,2,1,TransVale,14.00,2026-06-03,2026-06-05,entregue,14.07
+945,792,37,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-06-01,2026-06-04,entregue,18.71
+946,793,57,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-06-02,2026-06-05,entregue,12.93
+947,794,93,Santos,SP,ida,1,1,TransVale,14.00,2026-06-03,2026-06-05,entregue,19.26
+948,795,23,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-06-04,2026-06-06,nao_encontrado,16.75
+949,795,23,Campinas,SP,ida,1,2,Rota Leve,11.50,2026-06-04,2026-06-08,entregue,11.85
+950,796,115,Curitiba,PR,ida,1,1,Rota Leve,11.50,2026-06-03,2026-06-04,entregue,11.77
+951,797,118,Curitiba,PR,ida,1,1,TransVale,14.00,2026-06-03,2026-06-04,entregue,22.41
+952,798,12,Campinas,SP,ida,1,1,TransVale,14.00,2026-06-03,2026-06-06,entregue,17.29
+953,799,116,Curitiba,PR,ida,1,1,Rota Leve,11.50,2026-06-03,2026-06-06,entregue,19.49
+954,800,61,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-06-05,2026-06-08,nao_encontrado,15.36
+955,800,61,Jundiaí,SP,ida,1,2,Rota Leve,11.50,2026-06-05,2026-06-10,entregue,
+956,801,24,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-06-05,2026-06-08,entregue,19.47
+957,802,98,Santos,SP,ida,1,1,Rota Leve,11.50,2026-06-04,2026-06-05,entregue,11.61
+958,803,119,Curitiba,PR,ida,1,1,Rota Leve,11.50,2026-06-04,2026-06-07,nao_encontrado,17.20
+959,803,119,Curitiba,PR,ida,1,2,Rota Leve,11.50,2026-06-04,2026-06-10,entregue,17.81
+960,804,36,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-06-04,2026-06-06,entregue,20.90
+961,805,94,Santos,SP,ida,1,1,Rota Leve,11.50,2026-06-05,2026-06-06,entregue,12.87
+962,807,19,Campinas,SP,ida,1,1,TransVale,14.00,2026-06-05,2026-06-06,nao_encontrado,17.33
+963,807,19,Campinas,SP,ida,1,2,TransVale,14.00,2026-06-05,2026-06-08,entregue,20.19
+964,808,12,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-06-06,2026-06-08,nao_encontrado,18.89
+965,808,12,Campinas,SP,ida,1,2,Rota Leve,11.50,2026-06-06,2026-06-10,entregue,16.25
+966,809,84,Ribeirão Preto,SP,ida,1,1,Rota Leve,11.50,2026-06-07,2026-06-10,entregue,13.87
+967,810,26,Campinas,SP,ida,1,1,TransVale,14.00,2026-06-07,2026-06-10,nao_encontrado,16.91
+968,810,26,Campinas,SP,ida,1,2,TransVale,14.00,2026-06-07,2026-06-13,entregue,17.03
+969,811,47,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-06-06,2026-06-07,entregue,13.46
+970,812,36,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-06-07,2026-06-10,nao_encontrado,16.85
+971,812,36,Sorocaba,SP,ida,1,2,Rota Leve,11.50,2026-06-07,2026-06-12,entregue,12.73
+972,813,19,Campinas,SP,ida,1,1,TransVale,14.00,2026-06-06,2026-06-08,entregue,21.41
+973,814,71,Piracicaba,SP,ida,1,1,Rota Leve,11.50,2026-06-06,2026-06-07,entregue,19.70
+974,815,45,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-06-06,2026-06-08,entregue,15.80
+975,816,23,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-06-06,2026-06-07,nao_encontrado,19.08
+976,816,23,Campinas,SP,ida,1,2,Rota Leve,11.50,2026-06-06,2026-06-10,nao_encontrado,
+977,816,23,Campinas,SP,ida,1,3,Rota Leve,11.50,2026-06-06,2026-06-13,entregue,16.31
+978,817,49,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-06-07,2026-06-10,nao_encontrado,15.11
+979,817,49,Jundiaí,SP,ida,1,2,TransVale,14.00,2026-06-07,2026-06-12,entregue,
+980,818,48,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-06-07,2026-06-10,entregue,16.55
+981,819,91,Santos,SP,ida,1,1,Rota Leve,11.50,2026-06-07,2026-06-09,entregue,17.95
+982,820,77,Ribeirão Preto,SP,ida,1,1,Rota Leve,11.50,2026-06-07,2026-06-10,entregue,11.82
+983,822,117,Curitiba,PR,ida,1,1,Rota Leve,11.50,2026-06-07,2026-06-10,entregue,15.77
+984,823,23,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-06-10,2026-06-12,entregue,
+985,823,23,Campinas,SP,ida,2,1,Rota Leve,11.50,2026-06-10,2026-06-11,entregue,13.86
+986,824,50,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-06-10,2026-06-11,entregue,
+987,825,119,Curitiba,PR,ida,1,1,Rota Leve,11.50,2026-06-10,2026-06-12,entregue,
+988,826,119,Curitiba,PR,ida,1,1,Rota Leve,11.50,2026-06-10,2026-06-12,entregue,13.44
+989,827,42,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-06-09,2026-06-10,entregue,19.61
+990,828,78,Ribeirão Preto,SP,ida,1,1,Rota Leve,11.50,2026-06-09,2026-06-11,entregue,
+991,829,95,Santos,SP,ida,1,1,Rota Leve,11.50,2026-06-10,2026-06-11,entregue,15.51
+992,830,1,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-06-09,2026-06-12,entregue,19.38
+993,831,70,Piracicaba,SP,ida,1,1,TransVale,14.00,2026-06-10,2026-06-11,entregue,
+994,832,89,Santos,SP,ida,1,1,TransVale,14.00,2026-06-10,2026-06-11,entregue,
+995,833,68,Piracicaba,SP,ida,1,1,TransVale,14.00,2026-06-09,2026-06-11,nao_encontrado,18.24
+996,833,68,Piracicaba,SP,ida,1,2,TransVale,14.00,2026-06-09,2026-06-13,entregue,20.85
+997,834,6,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-06-11,2026-06-14,entregue,11.76
+998,835,8,Campinas,SP,ida,1,1,TransVale,14.00,2026-06-11,2026-06-14,entregue,19.61
+999,836,47,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-06-12,2026-06-14,entregue,
+1000,837,101,Limeira,SP,ida,1,1,Rota Leve,11.50,2026-06-12,2026-06-15,entregue,11.96
+1001,838,86,Ribeirão Preto,SP,ida,1,1,TransVale,14.00,2026-06-11,2026-06-13,entregue,
+1002,839,59,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-06-10,2026-06-13,entregue,14.34
+1003,840,106,Limeira,SP,ida,1,1,TransVale,14.00,2026-06-12,2026-06-14,nao_encontrado,17.77
+1004,840,106,Limeira,SP,ida,1,2,TransVale,14.00,2026-06-12,2026-06-17,entregue,21.84
+1005,841,12,Campinas,SP,ida,1,1,TransVale,14.00,2026-06-11,2026-06-13,entregue,21.95
+1006,842,1,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-06-13,2026-06-16,entregue,
+1007,843,94,Santos,SP,ida,1,1,TransVale,14.00,2026-06-14,2026-06-16,entregue,
+1008,844,90,Santos,SP,ida,1,1,TransVale,14.00,2026-06-12,2026-06-13,nao_encontrado,19.84
+1009,844,90,Santos,SP,ida,1,2,TransVale,14.00,2026-06-12,2026-06-16,entregue,16.47
+1010,845,95,Santos,SP,ida,1,1,Rota Leve,11.50,2026-06-13,2026-06-14,entregue,
+1011,846,64,Piracicaba,SP,ida,1,1,Rota Leve,11.50,2026-06-15,2026-06-17,entregue,
+1012,847,86,Ribeirão Preto,SP,ida,1,1,Rota Leve,11.50,2026-06-13,2026-06-15,entregue,
+1013,848,94,Santos,SP,ida,1,1,TransVale,14.00,2026-06-13,2026-06-15,nao_encontrado,15.25
+1014,848,94,Santos,SP,ida,1,2,TransVale,14.00,2026-06-13,2026-06-17,entregue,19.90
+1015,849,49,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-06-13,2026-06-16,entregue,18.56
+1016,850,54,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-06-13,2026-06-15,nao_encontrado,14.77
+1017,850,54,Jundiaí,SP,ida,1,2,TransVale,14.00,2026-06-13,2026-06-18,entregue,15.23
+1018,850,54,Jundiaí,SP,ida,2,1,TransVale,14.00,2026-06-13,2026-06-15,entregue,17.83
+1019,851,93,Santos,SP,ida,1,1,Rota Leve,11.50,2026-06-15,2026-06-17,nao_encontrado,15.92
+1020,851,93,Santos,SP,ida,1,2,Rota Leve,11.50,2026-06-15,2026-06-20,nao_encontrado,14.06
+1021,851,93,Santos,SP,ida,1,3,Rota Leve,11.50,2026-06-15,,,19.83
+1022,852,114,Curitiba,PR,ida,1,1,TransVale,14.00,2026-06-16,2026-06-19,entregue,18.08
+1023,853,40,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-06-16,2026-06-19,nao_encontrado,17.50
+1024,853,40,Sorocaba,SP,ida,1,2,TransVale,14.00,2026-06-16,,,20.50
+1025,854,12,Campinas,SP,ida,1,1,TransVale,14.00,2026-06-16,2026-06-19,nao_encontrado,21.26
+1026,854,12,Campinas,SP,ida,1,2,TransVale,14.00,2026-06-16,,,
+1027,855,113,Curitiba,PR,ida,1,1,TransVale,14.00,2026-06-15,2026-06-16,entregue,22.78
+1028,856,45,Sorocaba,SP,ida,1,1,Rota Leve,11.50,2026-06-14,2026-06-15,entregue,13.66
+1029,857,103,Limeira,SP,ida,1,1,TransVale,14.00,2026-06-16,2026-06-17,entregue,
+1030,858,22,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-06-14,2026-06-15,entregue,15.74
+1031,859,4,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-06-16,2026-06-19,entregue,14.78
+1032,860,96,Santos,SP,ida,1,1,TransVale,14.00,2026-06-16,2026-06-17,entregue,18.56
+1033,861,59,Jundiaí,SP,ida,1,1,Rota Leve,11.50,2026-06-15,2026-06-17,entregue,12.31
+1034,862,84,Ribeirão Preto,SP,ida,1,1,Rota Leve,11.50,2026-06-16,2026-06-19,nao_encontrado,
+1035,862,84,Ribeirão Preto,SP,ida,1,2,Rota Leve,11.50,2026-06-16,,,15.05
+1036,863,84,Ribeirão Preto,SP,ida,1,1,TransVale,14.00,2026-06-17,2026-06-19,entregue,
+1037,864,1,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-06-17,2026-06-20,entregue,17.04
+1038,865,96,Santos,SP,ida,1,1,TransVale,14.00,2026-06-16,2026-06-17,entregue,20.92
+1039,865,96,Santos,SP,ida,2,1,TransVale,14.00,2026-06-16,2026-06-17,entregue,17.32
+1040,866,72,Piracicaba,SP,ida,1,1,Rota Leve,11.50,2026-06-16,,,
+1041,869,57,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-06-17,,,
+1042,870,73,Piracicaba,SP,ida,1,1,TransVale,14.00,2026-06-19,2026-06-20,nao_encontrado,20.82
+1043,870,73,Piracicaba,SP,ida,1,2,TransVale,14.00,2026-06-19,,,
+1044,871,110,Bauru,SP,ida,1,1,TransVale,14.00,2026-06-19,,,18.08
+1045,872,56,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-06-19,,,
+1046,873,117,Curitiba,PR,ida,1,1,Rota Leve,11.50,2026-06-17,,,17.38
+1047,875,113,Curitiba,PR,ida,1,1,TransVale,14.00,2026-06-17,2026-06-19,entregue,22.57
+1048,876,71,Piracicaba,SP,ida,1,1,Rota Leve,11.50,2026-06-18,,,17.20
+1049,877,64,Piracicaba,SP,ida,1,1,TransVale,14.00,2026-06-18,,,16.24
+1050,877,64,Piracicaba,SP,ida,2,1,TransVale,14.00,2026-06-18,2026-06-20,entregue,17.44
+1051,878,86,Ribeirão Preto,SP,ida,1,1,TransVale,14.00,2026-06-18,,,21.97
+1052,879,77,Ribeirão Preto,SP,ida,1,1,TransVale,14.00,2026-06-18,,,15.79
+1053,880,68,Piracicaba,SP,ida,1,1,Rota Leve,11.50,2026-06-18,2026-06-20,nao_encontrado,
+1054,880,68,Piracicaba,SP,ida,1,2,Rota Leve,11.50,2026-06-18,,,20.33
+1055,881,91,Santos,SP,ida,1,1,TransVale,14.00,2026-06-18,,,15.83
+1056,882,103,Limeira,SP,ida,1,1,Rota Leve,11.50,2026-06-20,,,12.36
+1057,883,26,Campinas,SP,ida,1,1,TransVale,14.00,2026-06-20,,,19.49
+1058,884,4,Campinas,SP,ida,1,1,TransVale,14.00,2026-06-18,,,14.65
+1059,885,44,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-06-20,,,16.39
+1060,886,55,Jundiaí,SP,ida,1,1,TransVale,14.00,2026-06-19,,,18.09
+1061,889,19,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-06-19,,,13.23
+1062,889,19,Campinas,SP,ida,2,1,Rota Leve,11.50,2026-06-19,,,15.38
+1063,890,18,Campinas,SP,ida,1,1,TransVale,14.00,2026-06-19,2026-06-20,nao_encontrado,21.11
+1064,890,18,Campinas,SP,ida,1,2,TransVale,14.00,2026-06-19,,,16.48
+1065,891,112,Bauru,SP,ida,1,1,Rota Leve,11.50,2026-06-21,,,
+1066,892,102,Limeira,SP,ida,1,1,TransVale,14.00,2026-06-20,,,17.15
+1067,893,47,Sorocaba,SP,ida,1,1,TransVale,14.00,2026-06-22,,,21.27
+1068,894,70,Piracicaba,SP,ida,1,1,Rota Leve,11.50,2026-06-20,,,
+1069,895,17,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-06-21,,,20.46
+1070,896,13,Campinas,SP,ida,1,1,Rota Leve,11.50,2026-06-21,,,13.59
+1071,897,86,Ribeirão Preto,SP,ida,1,1,Rota Leve,11.50,2026-06-23,,,15.78
+1072,898,87,Ribeirão Preto,SP,ida,1,1,TransVale,14.00,2026-06-21,,,15.30
+1073,900,93,Santos,SP,ida,1,1,TransVale,14.00,2026-06-22,,,21.55
+1074,900,93,Santos,SP,ida,2,1,TransVale,14.00,2026-06-22,,,18.43
