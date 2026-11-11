@@ -1,0 +1,3 @@
+-- Suas consultas do exercício. Deixe uma consulta por vez neste arquivo.
+-- Rode com: python3 consultar.py --dados ../dados --arquivo minhas-consultas.sql
+-- Um começo possível: copie o rateio-tres-regras.sql para cá e troque maio por abril.

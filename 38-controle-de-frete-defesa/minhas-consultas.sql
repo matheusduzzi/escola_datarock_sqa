@@ -1,0 +1,4 @@
+-- Suas consultas da prática guiada e do exercício.
+-- Rodar depois das etapas: python3 projeto.py carregar-tabelas.sql etapas.sql minhas-consultas.sql
+-- O projeto.py mostra o resultado do último SELECT do arquivo. Deixe por último a consulta que você quer ver.
+-- Evite uma coluna chamada resultado no último SELECT: o projeto.py trata esse arquivo como arquivo de testes.

@@ -1,0 +1,14 @@
+-- Escreva aqui as três views do exercício, cada uma com o contrato em cima.
+-- Elas ficam no mesmo loja.duckdb da aula. Rode o montar.sql uma vez antes.
+-- Rode com:
+-- python3 consultar.py --dados ../dados --arquivo minhas-camadas.sql
+-- Pode pôr as três views no arquivo: o programa roda tudo e mostra o resultado do último SELECT.
+--
+-- ATTACH 'loja.duckdb' AS loja;
+--
+-- Contrato, em comentário, em cima de cada view:
+--   Lê:
+--   Uma linha por:
+--   Chave:
+--   Colunas (nome, tipo, o que quer dizer, quando pode ficar vazia):
+--   Quem lê:

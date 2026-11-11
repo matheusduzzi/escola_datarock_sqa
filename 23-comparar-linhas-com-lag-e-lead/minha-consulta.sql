@@ -1,0 +1,2 @@
+-- Escreva aqui a sua consulta para o pedido da Lúcia (briefing-diario.md).
+-- Pode escrever mais de uma consulta em arquivos separados, se preferir.

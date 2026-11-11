@@ -1,3 +1,0 @@
--- Exercício, tarefas 2 e 3. As consultas do sorteio da Bruna.
--- As tabelas são inscricoes_app, inscricoes_loja e funcionarios, da pasta dados/ desta aula.
--- Escreva cada consulta abaixo destes comentários. O programa mostra o resultado da última.

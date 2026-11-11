@@ -1,0 +1,5 @@
+-- Suas consultas do exercício «O relatório de Presentes».
+-- Deixe uma consulta por vez neste arquivo (o ATTACH pode ficar) e rode:
+--   python3 consultar.py --dados ../dados --arquivo minhas-consultas.sql
+--   python3 medir.py --dados ../dados --arquivo minhas-consultas.sql
+-- Escreva a consulta abaixo destes comentários.

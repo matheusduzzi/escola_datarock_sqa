@@ -1,0 +1,4 @@
+-- Suas consultas do exercício «A conciliação de março».
+-- Deixe uma consulta por vez neste arquivo e rode:
+--   python3 consultar.py --dados ../dados --arquivo minhas-consultas.sql
+-- Escreva a consulta abaixo destes comentários.

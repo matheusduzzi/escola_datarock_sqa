@@ -1,0 +1,5 @@
+-- Exercício: os testes da proposta da TransVale.
+-- Use o testes.sql desta pasta como modelo: uma lista de esperados, uma lista de obtidos
+-- e o SELECT final com a coluna resultado.
+-- Escreva os esperados dos cenários antes de rodar a sua proposta.
+-- Rodar: python3 projeto.py etapas.sql minha-proposta.sql meus-testes.sql

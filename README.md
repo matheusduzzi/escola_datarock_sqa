@@ -17,7 +17,6 @@ Kit do aluno da Escola Datarock. Cada pasta é uma aula; entre na pasta, leia o 
 | [09-agregacoes-condicionais/](09-agregacoes-condicionais/) | Agregações condicionais |
 | [11-construir-e-conferir-ctes/](11-construir-e-conferir-ctes/) | Construir e conferir CTEs |
 | [12-existencia-e-ausencia-com-exists/](12-existencia-e-ausencia-com-exists/) | Existência e ausência com EXISTS |
-| [13-operacoes-de-conjuntos/](13-operacoes-de-conjuntos/) | Operações de conjuntos |
 | [14-integrar-fontes-e-deduplicar-com-criterio/](14-integrar-fontes-e-deduplicar-com-criterio/) | Integrar fontes e deduplicar com critério |
 | [15-juntar-multiplos-fatos/](15-juntar-multiplos-fatos/) | Juntar múltiplos fatos |
 | [16-datas-periodos-e-limites/](16-datas-periodos-e-limites/) | Datas, períodos e limites |
@@ -27,7 +26,19 @@ Kit do aluno da Escola Datarock. Cada pasta é uma aula; entre na pasta, leia o 
 | [20-consultar-o-passado-corretamente/](20-consultar-o-passado-corretamente/) | Consultar o passado corretamente |
 | [21-particao-ordenacao-e-frame/](21-particao-ordenacao-e-frame/) | Partição, ordenação e frame |
 | [22-ranking-e-desempate/](22-ranking-e-desempate/) | Ranking e desempate |
+| [23-comparar-linhas-com-lag-e-lead/](23-comparar-linhas-com-lag-e-lead/) | Comparar linhas com LAG e LEAD |
+| [24-rows-range-e-fronteiras/](24-rows-range-e-fronteiras/) | ROWS, RANGE e fronteiras |
 | [25-acumulado-e-participacao/](25-acumulado-e-participacao/) | Acumulado e participação |
 | [26-media-movel-com-calendario/](26-media-movel-com-calendario/) | Média móvel com calendário |
 | [27-combinar-janelas-e-etapas/](27-combinar-janelas-e-etapas/) | Combinar janelas e etapas |
 | [28-case-financeiro-ponte-credito/](28-case-financeiro-ponte-credito/) | Case financeiro: Ponte Crédito |
+| [29-views-e-materializacao/](29-views-e-materializacao/) | Views e materialização |
+| [30-organizar-camadas-de-consulta/](30-organizar-camadas-de-consulta/) | Organizar camadas de consulta |
+| [31-plano-logico-e-fisico/](31-plano-logico-e-fisico/) | Plano lógico e físico |
+| [32-indices-particionamento-e-organizacao-dos-dados/](32-indices-particionamento-e-organizacao-dos-dados/) | Índices, particionamento e organização dos dados |
+| [33-investigar-desempenho-com-explain/](33-investigar-desempenho-com-explain/) | Investigar desempenho com EXPLAIN |
+| [34-otimizar-preservando-significado/](34-otimizar-preservando-significado/) | Otimizar preservando significado |
+| [35-testar-e-revisar-sql/](35-testar-e-revisar-sql/) | Testar e revisar SQL |
+| [36-controle-de-frete-briefing-e-modelo/](36-controle-de-frete-briefing-e-modelo/) | Controle de frete: briefing e modelo |
+| [37-controle-de-frete-implementacao/](37-controle-de-frete-implementacao/) | Controle de frete: implementação |
+| [38-controle-de-frete-defesa/](38-controle-de-frete-defesa/) | Controle de frete: defesa |

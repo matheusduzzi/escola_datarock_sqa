@@ -1,0 +1,6 @@
+-- Escreva aqui as checagens dos três contratos do exercício.
+-- Siga o checar-contratos.sql: o esperado sai da camada de baixo ou do CSV, nunca da própria view.
+-- Rode com:
+-- python3 consultar.py --dados ../dados --arquivo minhas-checagens.sql
+--
+-- ATTACH 'loja.duckdb' AS loja (READ_ONLY);

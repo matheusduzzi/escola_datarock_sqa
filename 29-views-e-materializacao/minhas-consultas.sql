@@ -1,0 +1,3 @@
+-- Suas consultas do exercício. Escreva abaixo dos comentários e rode:
+--   python3 consultar.py --dados ../dados --arquivo minhas-consultas.sql
+-- O programa mostra o resultado do último comando do arquivo.

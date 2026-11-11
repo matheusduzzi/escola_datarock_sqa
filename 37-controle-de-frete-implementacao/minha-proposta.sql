@@ -1,0 +1,4 @@
+-- Exercício: a proposta da TransVale.
+-- Escreva aqui as views novas, uma por etapa, com o grão no comentário.
+-- Elas usam as views do etapas.sql. O arquivo termina num SELECT com a tabela da Marta.
+-- Rodar: python3 projeto.py etapas.sql minha-proposta.sql
