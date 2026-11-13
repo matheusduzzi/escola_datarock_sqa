@@ -1,0 +1,31 @@
+id_produto,nome,categoria,preco_lista
+1,Liquidificador,Eletro,189.90
+2,Ventilador,Eletro,239.90
+3,Batedeira,Eletro,279.00
+4,Cafeteira,Eletro,159.90
+5,Aspirador,Eletro,349.00
+6,Sanduicheira,Eletro,99.90
+7,Jogo de toalhas,Casa,89.90
+8,Panela,Casa,129.90
+9,Jogo de copos,Casa,49.90
+10,Luminária,Casa,119.00
+11,Organizador,Casa,39.90
+12,Cortina,Casa,149.90
+13,Caderno,Papelaria,24.90
+14,Agenda,Papelaria,39.90
+15,Estojo,Papelaria,19.90
+16,Mochila,Papelaria,159.00
+17,Calculadora,Papelaria,59.90
+18,Marca-texto,Papelaria,12.90
+19,Bola,Esporte,79.90
+20,Garrafa térmica,Esporte,69.90
+21,Tapete de yoga,Esporte,99.00
+22,Halter,Esporte,119.90
+23,Corda de pular,Esporte,29.90
+24,Joelheira,Esporte,49.90
+25,Secador,Beleza,199.00
+26,Escova,Beleza,34.90
+27,Hidratante,Beleza,44.90
+28,Protetor solar,Beleza,59.90
+29,Perfume,Beleza,189.00
+30,Chapinha,Beleza,169.00

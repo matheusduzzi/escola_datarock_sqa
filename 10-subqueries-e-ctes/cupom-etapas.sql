@@ -1,0 +1,6 @@
+-- A lista de cupom do Renato, com uma CTE para cada etapa do seu plano.
+-- Use os mesmos nomes da parte 2 da folha. Comece cada etapa com um comentário:
+-- -- nome: uma linha por ...
+--
+-- Escreva o WITH abaixo destes comentários e rode:
+-- python3 consultar.py --dados ../dados --arquivo cupom-etapas.sql

@@ -1,0 +1,2 @@
+# Versão em que o kit rodou em 2026-11-08 (Python 3.9.6, macOS).
+duckdb==1.4.5

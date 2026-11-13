@@ -1,0 +1,1075 @@
+id_entrega,id_pedido,volume,tentativa,tipo,transportadora,data_saida,data_tentativa,resultado,custo_frete
+1,1,1,1,ida,TransVale,2026-01-02,2026-01-05,entregue,15.79
+2,2,1,1,ida,Rota Leve,2026-01-04,2026-01-06,entregue,14.30
+3,3,1,1,ida,Rota Leve,2026-01-03,2026-01-06,nao_encontrado,14.83
+4,3,1,2,ida,Rota Leve,2026-01-03,2026-01-07,entregue,19.69
+5,4,1,1,ida,TransVale,2026-01-05,2026-01-06,entregue,17.07
+6,5,1,1,ida,Rota Leve,2026-01-05,2026-01-07,entregue,13.81
+7,6,1,1,ida,TransVale,2026-01-06,2026-01-08,entregue,22.84
+8,7,1,1,ida,Rota Leve,2026-01-05,2026-01-06,nao_encontrado,12.17
+9,7,1,2,ida,Rota Leve,2026-01-05,2026-01-08,entregue,18.24
+10,8,1,1,ida,TransVale,2026-01-04,2026-01-06,entregue,18.33
+11,9,1,1,ida,TransVale,2026-01-05,2026-01-06,entregue,14.11
+12,10,1,1,ida,Rota Leve,2026-01-04,2026-01-07,entregue,16.86
+13,11,1,1,ida,Rota Leve,2026-01-04,2026-01-07,entregue,14.66
+14,12,1,1,ida,Rota Leve,2026-01-06,2026-01-09,entregue,16.22
+15,13,1,1,ida,TransVale,2026-01-06,2026-01-07,entregue,20.17
+16,13,1,1,devolucao,TransVale,2026-01-10,2026-01-12,recebido_cd,22.84
+17,14,1,1,ida,TransVale,2026-01-05,2026-01-06,entregue,21.25
+18,15,1,1,ida,TransVale,2026-01-05,2026-01-06,entregue,15.07
+19,16,1,1,ida,TransVale,2026-01-07,2026-01-08,entregue,14.70
+20,17,1,1,ida,Rota Leve,2026-01-06,2026-01-09,entregue,14.52
+21,18,1,1,ida,TransVale,2026-01-06,2026-01-07,entregue,17.10
+22,19,1,1,ida,TransVale,2026-01-06,2026-01-08,nao_encontrado,14.66
+23,19,1,2,ida,TransVale,2026-01-06,2026-01-11,entregue,20.09
+24,20,1,1,ida,TransVale,2026-01-06,2026-01-08,entregue,20.94
+25,21,1,1,ida,Rota Leve,2026-01-06,2026-01-08,entregue,12.46
+26,21,2,1,ida,Rota Leve,2026-01-06,2026-01-09,entregue,20.08
+27,21,1,1,devolucao,Rota Leve,2026-01-15,2026-01-17,recebido_cd,18.49
+28,22,1,1,ida,Rota Leve,2026-01-07,2026-01-09,entregue,17.18
+29,23,1,1,ida,TransVale,2026-01-08,2026-01-10,entregue,16.30
+30,24,1,1,ida,Rota Leve,2026-01-08,2026-01-10,entregue,17.19
+31,25,1,1,ida,Rota Leve,2026-01-09,2026-01-12,entregue,20.23
+32,26,1,1,ida,Rota Leve,2026-01-07,2026-01-10,nao_encontrado,19.93
+33,26,1,2,ida,Rota Leve,2026-01-07,2026-01-12,entregue,18.60
+34,27,1,1,ida,Rota Leve,2026-01-07,2026-01-10,entregue,14.26
+35,28,1,1,ida,TransVale,2026-01-08,2026-01-10,entregue,14.08
+36,29,1,1,ida,TransVale,2026-01-09,2026-01-10,entregue,14.19
+37,30,1,1,ida,TransVale,2026-01-08,2026-01-09,entregue,14.37
+38,31,1,1,ida,TransVale,2026-01-08,2026-01-10,entregue,14.85
+39,32,1,1,ida,TransVale,2026-01-07,2026-01-08,entregue,18.28
+40,33,1,1,ida,Rota Leve,2026-01-08,2026-01-10,entregue,18.50
+41,34,1,1,ida,Rota Leve,2026-01-11,2026-01-12,nao_encontrado,15.83
+42,34,1,2,ida,Rota Leve,2026-01-11,2026-01-14,entregue,13.85
+43,35,1,1,ida,TransVale,2026-01-11,2026-01-14,entregue,14.25
+44,36,1,1,ida,Rota Leve,2026-01-09,2026-01-12,entregue,13.79
+45,37,1,1,ida,TransVale,2026-01-10,2026-01-13,entregue,14.55
+46,37,2,1,ida,TransVale,2026-01-10,2026-01-11,entregue,16.36
+47,38,1,1,ida,TransVale,2026-01-09,2026-01-12,entregue,18.12
+48,39,1,1,ida,Rota Leve,2026-01-11,2026-01-12,nao_encontrado,14.16
+49,39,1,2,ida,Rota Leve,2026-01-11,2026-01-13,entregue,12.79
+50,40,1,1,ida,TransVale,2026-01-10,2026-01-13,entregue,18.96
+51,41,1,1,ida,TransVale,2026-01-09,2026-01-10,entregue,15.99
+52,42,1,1,ida,TransVale,2026-01-10,2026-01-12,nao_encontrado,21.55
+53,42,1,2,ida,TransVale,2026-01-10,2026-01-15,nao_encontrado,14.67
+54,42,1,3,ida,TransVale,2026-01-10,2026-01-16,entregue,17.83
+55,43,1,1,ida,Rota Leve,2026-01-11,2026-01-13,entregue,14.43
+56,44,1,1,ida,Rota Leve,2026-01-11,2026-01-14,entregue,16.05
+57,45,1,1,ida,TransVale,2026-01-11,2026-01-13,entregue,18.64
+58,46,1,1,ida,Rota Leve,2026-01-12,2026-01-14,entregue,12.61
+59,47,1,1,ida,Rota Leve,2026-01-11,2026-01-12,nao_encontrado,16.38
+60,47,1,2,ida,Rota Leve,2026-01-11,2026-01-14,nao_encontrado,15.48
+61,47,1,3,ida,Rota Leve,2026-01-11,2026-01-17,entregue,17.56
+62,48,1,1,ida,TransVale,2026-01-11,2026-01-14,entregue,19.45
+63,49,1,1,ida,Rota Leve,2026-01-13,2026-01-14,entregue,13.30
+64,50,1,1,ida,Rota Leve,2026-01-13,2026-01-15,entregue,16.78
+65,51,1,1,ida,Rota Leve,2026-01-13,2026-01-16,entregue,13.62
+66,52,1,1,ida,Rota Leve,2026-01-13,2026-01-16,entregue,18.23
+67,53,1,1,ida,TransVale,2026-01-14,2026-01-15,entregue,19.38
+68,54,1,1,ida,Rota Leve,2026-01-13,2026-01-14,entregue,16.52
+69,55,1,1,ida,Rota Leve,2026-01-13,2026-01-16,entregue,14.14
+70,56,1,1,ida,Rota Leve,2026-01-14,2026-01-15,entregue,11.78
+71,56,1,1,devolucao,Rota Leve,2026-01-21,2026-01-23,recebido_cd,17.96
+72,57,1,1,ida,TransVale,2026-01-14,2026-01-15,entregue,19.67
+73,57,1,1,devolucao,TransVale,2026-01-19,2026-01-21,recebido_cd,18.75
+74,59,1,1,ida,TransVale,2026-01-15,2026-01-16,entregue,21.75
+75,60,1,1,ida,Rota Leve,2026-01-14,2026-01-17,entregue,13.85
+76,61,1,1,ida,Rota Leve,2026-01-16,2026-01-17,entregue,19.23
+77,62,1,1,ida,Rota Leve,2026-01-14,2026-01-16,entregue,19.60
+78,63,1,1,ida,TransVale,2026-01-16,2026-01-18,entregue,18.71
+79,64,1,1,ida,Rota Leve,2026-01-15,2026-01-16,entregue,19.97
+80,65,1,1,ida,Rota Leve,2026-01-15,2026-01-18,entregue,16.07
+81,66,1,1,ida,TransVale,2026-01-15,2026-01-17,entregue,19.61
+82,66,1,1,devolucao,TransVale,2026-01-22,2026-01-24,recebido_cd,15.31
+83,68,1,1,ida,Rota Leve,2026-01-17,2026-01-19,entregue,19.30
+84,69,1,1,ida,TransVale,2026-01-18,2026-01-21,entregue,18.66
+85,69,2,1,ida,TransVale,2026-01-18,2026-01-20,entregue,16.66
+86,70,1,1,ida,TransVale,2026-01-17,2026-01-19,entregue,17.48
+87,71,1,1,ida,Rota Leve,2026-01-18,2026-01-21,entregue,14.31
+88,72,1,1,ida,Rota Leve,2026-01-18,2026-01-20,entregue,13.50
+89,73,1,1,ida,TransVale,2026-01-18,2026-01-19,nao_encontrado,16.01
+90,73,1,2,ida,TransVale,2026-01-18,2026-01-21,entregue,19.90
+91,74,1,1,ida,Rota Leve,2026-01-19,2026-01-22,entregue,16.32
+92,75,1,1,ida,Rota Leve,2026-01-20,2026-01-23,entregue,17.76
+93,76,1,1,ida,Rota Leve,2026-01-19,2026-01-21,entregue,14.86
+94,77,1,1,ida,Rota Leve,2026-01-20,2026-01-21,entregue,16.81
+95,78,1,1,ida,Rota Leve,2026-01-20,2026-01-22,entregue,14.68
+96,79,1,1,ida,Rota Leve,2026-01-21,2026-01-24,entregue,17.73
+97,80,1,1,ida,TransVale,2026-01-20,2026-01-22,entregue,14.53
+98,81,1,1,ida,Rota Leve,2026-01-20,2026-01-21,entregue,16.15
+99,82,1,1,ida,Rota Leve,2026-01-20,2026-01-22,entregue,13.81
+100,83,1,1,ida,TransVale,2026-01-20,2026-01-22,nao_encontrado,18.95
+101,83,1,2,ida,TransVale,2026-01-20,2026-01-24,nao_encontrado,18.57
+102,83,1,3,ida,TransVale,2026-01-20,2026-01-27,entregue,22.12
+103,84,1,1,ida,TransVale,2026-01-22,2026-01-23,entregue,18.59
+104,85,1,1,ida,Rota Leve,2026-01-22,2026-01-24,entregue,16.66
+105,86,1,1,ida,Rota Leve,2026-01-22,2026-01-23,entregue,15.96
+106,87,1,1,ida,TransVale,2026-01-21,2026-01-24,entregue,21.75
+107,88,1,1,ida,Rota Leve,2026-01-22,2026-01-23,entregue,13.34
+108,89,1,1,ida,TransVale,2026-01-21,2026-01-23,entregue,17.59
+109,90,1,1,ida,TransVale,2026-01-21,2026-01-22,entregue,17.98
+110,91,1,1,ida,Rota Leve,2026-01-21,2026-01-23,entregue,17.09
+111,93,1,1,ida,TransVale,2026-01-23,2026-01-26,entregue,17.53
+112,94,1,1,ida,TransVale,2026-01-23,2026-01-26,entregue,22.10
+113,94,2,1,ida,TransVale,2026-01-23,2026-01-25,nao_encontrado,22.41
+114,94,2,2,ida,TransVale,2026-01-23,2026-01-26,entregue,21.42
+115,95,1,1,ida,TransVale,2026-01-23,2026-01-25,entregue,19.80
+116,96,1,1,ida,TransVale,2026-01-24,2026-01-27,entregue,22.24
+117,97,1,1,ida,Rota Leve,2026-01-23,2026-01-25,entregue,13.51
+118,98,1,1,ida,Rota Leve,2026-01-22,2026-01-25,entregue,16.11
+119,98,2,1,ida,Rota Leve,2026-01-22,2026-01-23,entregue,11.83
+120,99,1,1,ida,TransVale,2026-01-22,2026-01-23,nao_encontrado,14.32
+121,99,1,2,ida,TransVale,2026-01-22,2026-01-26,nao_encontrado,21.41
+122,99,1,3,ida,TransVale,2026-01-22,2026-01-27,entregue,14.61
+123,99,1,1,devolucao,TransVale,2026-02-02,2026-02-04,recebido_cd,17.83
+124,100,1,1,ida,TransVale,2026-01-22,2026-01-24,entregue,22.76
+125,101,1,1,ida,TransVale,2026-01-25,2026-01-27,entregue,15.17
+126,101,2,1,ida,TransVale,2026-01-25,2026-01-26,entregue,20.63
+127,102,1,1,ida,TransVale,2026-01-23,2026-01-25,entregue,18.56
+128,103,1,1,ida,Rota Leve,2026-01-26,2026-01-28,nao_encontrado,18.24
+129,103,1,2,ida,Rota Leve,2026-01-26,2026-01-29,nao_encontrado,11.95
+130,103,1,3,ida,Rota Leve,2026-01-26,2026-01-30,entregue,13.22
+131,104,1,1,ida,TransVale,2026-01-26,2026-01-27,entregue,14.48
+132,105,1,1,ida,Rota Leve,2026-01-24,2026-01-27,nao_encontrado,14.82
+133,105,1,2,ida,Rota Leve,2026-01-24,2026-01-28,nao_encontrado,12.04
+134,105,1,3,ida,Rota Leve,2026-01-24,2026-01-31,entregue,20.29
+135,106,1,1,ida,Rota Leve,2026-01-24,2026-01-26,entregue,15.69
+136,107,1,1,ida,Rota Leve,2026-01-26,2026-01-28,entregue,16.50
+137,108,1,1,ida,TransVale,2026-01-25,2026-01-27,entregue,18.90
+138,110,1,1,ida,TransVale,2026-01-26,2026-01-27,entregue,17.72
+139,111,1,1,ida,TransVale,2026-01-25,2026-01-26,nao_encontrado,19.66
+140,111,1,2,ida,TransVale,2026-01-25,2026-01-28,nao_encontrado,17.31
+141,111,1,3,ida,TransVale,2026-01-25,2026-01-29,entregue,14.44
+142,112,1,1,ida,TransVale,2026-01-25,2026-01-27,entregue,15.26
+143,113,1,1,ida,TransVale,2026-01-27,2026-01-28,entregue,14.93
+144,114,1,1,ida,Rota Leve,2026-01-27,2026-01-28,entregue,15.39
+145,115,1,1,ida,TransVale,2026-01-27,2026-01-29,entregue,17.31
+146,116,1,1,ida,Rota Leve,2026-01-25,2026-01-27,entregue,15.01
+147,117,1,1,ida,Rota Leve,2026-01-26,2026-01-29,nao_encontrado,12.27
+148,117,1,2,ida,Rota Leve,2026-01-26,2026-01-30,entregue,13.42
+149,118,1,1,ida,TransVale,2026-01-28,2026-01-30,entregue,21.47
+150,119,1,1,ida,Rota Leve,2026-01-26,2026-01-29,entregue,17.98
+151,120,1,1,ida,TransVale,2026-01-27,2026-01-29,entregue,17.44
+152,121,1,1,ida,Rota Leve,2026-01-26,2026-01-28,nao_encontrado,13.22
+153,121,1,2,ida,Rota Leve,2026-01-26,2026-01-30,entregue,17.87
+154,122,1,1,ida,Rota Leve,2026-01-28,2026-01-29,entregue,12.03
+155,122,2,1,ida,Rota Leve,2026-01-28,2026-01-29,entregue,18.27
+156,123,1,1,ida,Rota Leve,2026-01-28,2026-01-30,entregue,14.12
+157,124,1,1,ida,TransVale,2026-01-28,2026-01-30,entregue,15.02
+158,125,1,1,ida,Rota Leve,2026-01-27,2026-01-30,entregue,16.16
+159,126,1,1,ida,TransVale,2026-01-28,2026-01-30,entregue,19.82
+160,126,2,1,ida,TransVale,2026-01-28,2026-01-30,entregue,17.33
+161,127,1,1,ida,Rota Leve,2026-01-28,2026-01-31,entregue,19.39
+162,128,1,1,ida,Rota Leve,2026-01-27,2026-01-28,entregue,19.63
+163,129,1,1,ida,TransVale,2026-01-28,2026-01-31,entregue,22.52
+164,129,2,1,ida,TransVale,2026-01-28,2026-01-31,entregue,20.36
+165,130,1,1,ida,Rota Leve,2026-01-30,2026-01-31,entregue,18.04
+166,131,1,1,ida,Rota Leve,2026-01-30,2026-01-31,entregue,11.72
+167,132,1,1,ida,Rota Leve,2026-01-29,2026-01-31,entregue,16.85
+168,133,1,1,ida,Rota Leve,2026-01-30,2026-02-02,entregue,13.35
+169,134,1,1,ida,TransVale,2026-01-29,2026-02-01,nao_encontrado,15.49
+170,134,1,2,ida,TransVale,2026-01-29,2026-02-03,entregue,15.67
+171,135,1,1,ida,Rota Leve,2026-01-30,2026-02-02,entregue,19.61
+172,136,1,1,ida,Rota Leve,2026-01-29,2026-02-01,entregue,19.30
+173,137,1,1,ida,Rota Leve,2026-01-30,2026-02-01,entregue,20.09
+174,138,1,1,ida,TransVale,2026-01-30,2026-01-31,entregue,14.26
+175,139,1,1,ida,TransVale,2026-01-29,2026-01-30,entregue,18.61
+176,140,1,1,ida,Rota Leve,2026-01-31,2026-02-01,entregue,13.23
+177,141,1,1,ida,TransVale,2026-01-31,2026-02-02,entregue,16.65
+178,142,1,1,ida,TransVale,2026-01-30,2026-01-31,entregue,14.07
+179,142,2,1,ida,TransVale,2026-01-30,2026-02-02,entregue,17.08
+180,143,1,1,ida,TransVale,2026-02-01,2026-02-02,nao_encontrado,19.00
+181,143,1,2,ida,TransVale,2026-02-01,2026-02-04,entregue,17.07
+182,144,1,1,ida,TransVale,2026-02-01,2026-02-04,entregue,16.78
+183,145,1,1,ida,TransVale,2026-02-02,2026-02-03,entregue,14.12
+184,146,1,1,ida,Rota Leve,2026-01-31,2026-02-02,entregue,12.30
+185,147,1,1,ida,Rota Leve,2026-01-31,2026-02-02,entregue,17.40
+186,148,1,1,ida,Rota Leve,2026-02-01,2026-02-03,entregue,19.21
+187,149,1,1,ida,Rota Leve,2026-01-31,2026-02-03,entregue,16.72
+188,150,1,1,ida,TransVale,2026-01-31,2026-02-03,entregue,22.53
+189,151,1,1,ida,TransVale,2026-02-02,2026-02-04,entregue,20.59
+190,152,1,1,ida,TransVale,2026-02-01,2026-02-04,entregue,21.36
+191,153,1,1,ida,Rota Leve,2026-02-02,2026-02-04,entregue,15.99
+192,154,1,1,ida,TransVale,2026-02-03,2026-02-05,entregue,16.37
+193,155,1,1,ida,TransVale,2026-02-01,2026-02-03,entregue,22.75
+194,155,1,1,devolucao,TransVale,2026-02-06,2026-02-08,recebido_cd,22.54
+195,156,1,1,ida,TransVale,2026-02-02,2026-02-03,entregue,21.94
+196,157,1,1,ida,Rota Leve,2026-02-03,2026-02-05,entregue,17.53
+197,158,1,1,ida,TransVale,2026-02-01,2026-02-04,entregue,21.54
+198,159,1,1,ida,Rota Leve,2026-02-01,2026-02-04,entregue,12.88
+199,161,1,1,ida,Rota Leve,2026-02-03,2026-02-06,entregue,17.00
+200,162,1,1,ida,TransVale,2026-02-04,2026-02-07,entregue,19.02
+201,163,1,1,ida,TransVale,2026-02-03,2026-02-05,nao_encontrado,17.79
+202,163,1,2,ida,TransVale,2026-02-03,2026-02-08,nao_encontrado,22.85
+203,163,1,3,ida,TransVale,2026-02-03,2026-02-10,entregue,15.88
+204,164,1,1,ida,TransVale,2026-02-04,2026-02-05,nao_encontrado,17.47
+205,164,1,2,ida,TransVale,2026-02-04,2026-02-08,entregue,16.03
+206,164,1,1,devolucao,TransVale,2026-02-15,2026-02-17,recebido_cd,22.69
+207,165,1,1,ida,Rota Leve,2026-02-02,2026-02-05,entregue,20.32
+208,166,1,1,ida,TransVale,2026-02-04,2026-02-07,entregue,15.57
+209,167,1,1,ida,TransVale,2026-02-04,2026-02-06,entregue,20.00
+210,168,1,1,ida,Rota Leve,2026-02-03,2026-02-06,entregue,14.48
+211,169,1,1,ida,Rota Leve,2026-02-05,2026-02-07,entregue,13.69
+212,170,1,1,ida,TransVale,2026-02-05,2026-02-06,entregue,15.42
+213,171,1,1,ida,TransVale,2026-02-05,2026-02-06,entregue,15.53
+214,172,1,1,ida,Rota Leve,2026-02-05,2026-02-06,entregue,16.02
+215,173,1,1,ida,TransVale,2026-02-04,2026-02-07,entregue,21.91
+216,174,1,1,ida,TransVale,2026-02-06,2026-02-07,entregue,15.24
+217,175,1,1,ida,Rota Leve,2026-02-06,2026-02-07,entregue,15.76
+218,176,1,1,ida,Rota Leve,2026-02-04,2026-02-07,entregue,15.05
+219,177,1,1,ida,TransVale,2026-02-05,2026-02-07,entregue,14.61
+220,177,1,1,devolucao,TransVale,2026-02-12,2026-02-14,recebido_cd,21.50
+221,178,1,1,ida,Rota Leve,2026-02-05,2026-02-08,entregue,15.05
+222,179,1,1,ida,TransVale,2026-02-05,2026-02-06,entregue,20.79
+223,180,1,1,ida,TransVale,2026-02-05,2026-02-06,entregue,19.85
+224,181,1,1,ida,TransVale,2026-02-05,2026-02-06,entregue,15.58
+225,182,1,1,ida,Rota Leve,2026-02-07,2026-02-08,entregue,12.01
+226,183,1,1,ida,Rota Leve,2026-02-06,2026-02-07,entregue,13.69
+227,183,2,1,ida,Rota Leve,2026-02-06,2026-02-08,entregue,12.61
+228,184,1,1,ida,Rota Leve,2026-02-07,2026-02-08,entregue,18.51
+229,185,1,1,ida,Rota Leve,2026-02-06,2026-02-07,entregue,16.05
+230,186,1,1,ida,TransVale,2026-02-07,2026-02-09,entregue,14.19
+231,187,1,1,ida,TransVale,2026-02-09,2026-02-11,entregue,19.26
+232,188,1,1,ida,TransVale,2026-02-07,2026-02-08,entregue,16.97
+233,189,1,1,ida,Rota Leve,2026-02-08,2026-02-09,entregue,16.01
+234,190,1,1,ida,TransVale,2026-02-07,2026-02-10,entregue,16.79
+235,191,1,1,ida,TransVale,2026-02-07,2026-02-08,entregue,20.46
+236,192,1,1,ida,TransVale,2026-02-09,2026-02-12,entregue,17.97
+237,193,1,1,ida,TransVale,2026-02-07,2026-02-08,entregue,18.09
+238,194,1,1,ida,Rota Leve,2026-02-07,2026-02-10,entregue,15.27
+239,195,1,1,ida,TransVale,2026-02-07,2026-02-09,entregue,20.80
+240,196,1,1,ida,Rota Leve,2026-02-08,2026-02-09,entregue,16.33
+241,197,1,1,ida,Rota Leve,2026-02-09,2026-02-10,entregue,12.75
+242,198,1,1,ida,TransVale,2026-02-09,2026-02-12,entregue,14.46
+243,199,1,1,ida,Rota Leve,2026-02-09,2026-02-12,nao_encontrado,16.38
+244,199,1,2,ida,Rota Leve,2026-02-09,2026-02-15,nao_encontrado,14.75
+245,199,1,3,ida,Rota Leve,2026-02-09,2026-02-18,entregue,16.57
+246,200,1,1,ida,Rota Leve,2026-02-10,2026-02-11,entregue,14.45
+247,201,1,1,ida,Rota Leve,2026-02-09,2026-02-12,entregue,14.60
+248,202,1,1,ida,TransVale,2026-02-10,2026-02-13,entregue,20.24
+249,203,1,1,ida,TransVale,2026-02-12,2026-02-13,entregue,17.89
+250,203,1,1,devolucao,TransVale,2026-02-16,2026-02-18,recebido_cd,19.48
+251,204,1,1,ida,TransVale,2026-02-12,2026-02-15,entregue,16.38
+252,206,1,1,ida,Rota Leve,2026-02-13,2026-02-16,entregue,19.55
+253,207,1,1,ida,Rota Leve,2026-02-11,2026-02-14,entregue,15.11
+254,208,1,1,ida,TransVale,2026-02-13,2026-02-14,nao_encontrado,18.46
+255,208,1,2,ida,TransVale,2026-02-13,2026-02-17,entregue,20.90
+256,209,1,1,ida,Rota Leve,2026-02-11,2026-02-12,entregue,20.01
+257,210,1,1,ida,Rota Leve,2026-02-13,2026-02-14,entregue,18.80
+258,211,1,1,ida,TransVale,2026-02-12,2026-02-15,entregue,20.66
+259,212,1,1,ida,TransVale,2026-02-14,2026-02-17,entregue,16.89
+260,213,1,1,ida,Rota Leve,2026-02-12,2026-02-15,entregue,15.75
+261,214,1,1,ida,TransVale,2026-02-12,2026-02-15,entregue,15.16
+262,215,1,1,ida,TransVale,2026-02-14,2026-02-15,entregue,14.68
+263,216,1,1,ida,Rota Leve,2026-02-15,2026-02-17,entregue,12.99
+264,217,1,1,ida,Rota Leve,2026-02-13,2026-02-14,entregue,20.48
+265,218,1,1,ida,TransVale,2026-02-13,2026-02-16,entregue,20.97
+266,219,1,1,ida,Rota Leve,2026-02-13,2026-02-16,entregue,15.31
+267,220,1,1,ida,Rota Leve,2026-02-14,2026-02-17,entregue,18.78
+268,221,1,1,ida,TransVale,2026-02-14,2026-02-15,entregue,22.55
+269,221,1,1,devolucao,TransVale,2026-02-18,2026-02-20,recebido_cd,16.65
+270,222,1,1,ida,Rota Leve,2026-02-13,2026-02-14,entregue,18.35
+271,223,1,1,ida,Rota Leve,2026-02-16,2026-02-17,entregue,14.55
+272,224,1,1,ida,TransVale,2026-02-15,2026-02-18,entregue,19.98
+273,225,1,1,ida,Rota Leve,2026-02-16,2026-02-19,entregue,17.46
+274,226,1,1,ida,Rota Leve,2026-02-16,2026-02-19,entregue,11.85
+275,227,1,1,ida,Rota Leve,2026-02-16,2026-02-18,nao_encontrado,19.95
+276,227,1,2,ida,Rota Leve,2026-02-16,2026-02-19,entregue,16.45
+277,228,1,1,ida,Rota Leve,2026-02-16,2026-02-19,nao_encontrado,20.18
+278,228,1,2,ida,Rota Leve,2026-02-16,2026-02-21,entregue,12.05
+279,229,1,1,ida,Rota Leve,2026-02-17,2026-02-19,entregue,18.04
+280,231,1,1,ida,Rota Leve,2026-02-16,2026-02-18,entregue,18.61
+281,232,1,1,ida,Rota Leve,2026-02-19,2026-02-21,entregue,12.04
+282,233,1,1,ida,Rota Leve,2026-02-18,2026-02-21,entregue,15.09
+283,234,1,1,ida,TransVale,2026-02-18,2026-02-21,entregue,19.54
+284,235,1,1,ida,TransVale,2026-02-18,2026-02-19,entregue,22.40
+285,236,1,1,ida,TransVale,2026-02-18,2026-02-19,entregue,16.98
+286,237,1,1,ida,TransVale,2026-02-18,2026-02-20,entregue,22.54
+287,238,1,1,ida,Rota Leve,2026-02-19,2026-02-21,nao_encontrado,17.08
+288,238,1,2,ida,Rota Leve,2026-02-19,2026-02-24,entregue,15.24
+289,238,1,1,devolucao,Rota Leve,2026-02-27,2026-03-01,recebido_cd,17.83
+290,239,1,1,ida,TransVale,2026-02-19,2026-02-21,entregue,15.50
+291,240,1,1,ida,Rota Leve,2026-02-19,2026-02-20,entregue,11.54
+292,241,1,1,ida,Rota Leve,2026-02-19,2026-02-20,entregue,13.72
+293,242,1,1,ida,Rota Leve,2026-02-19,2026-02-22,entregue,15.45
+294,243,1,1,ida,Rota Leve,2026-02-20,2026-02-22,nao_encontrado,15.07
+295,243,1,2,ida,Rota Leve,2026-02-20,2026-02-23,nao_encontrado,20.02
+296,243,1,3,ida,Rota Leve,2026-02-20,2026-02-25,entregue,17.33
+297,244,1,1,ida,TransVale,2026-02-21,2026-02-23,entregue,14.19
+298,245,1,1,ida,TransVale,2026-02-22,2026-02-24,entregue,16.04
+299,246,1,1,ida,TransVale,2026-02-22,2026-02-23,entregue,18.83
+300,247,1,1,ida,Rota Leve,2026-02-21,2026-02-23,entregue,15.22
+301,248,1,1,ida,TransVale,2026-02-22,2026-02-23,nao_encontrado,19.34
+302,248,1,2,ida,TransVale,2026-02-22,2026-02-25,entregue,15.28
+303,251,1,1,ida,Rota Leve,2026-02-21,2026-02-23,entregue,17.85
+304,252,1,1,ida,Rota Leve,2026-02-21,2026-02-23,entregue,17.73
+305,253,1,1,ida,TransVale,2026-02-21,2026-02-22,nao_encontrado,21.22
+306,253,1,2,ida,TransVale,2026-02-21,2026-02-23,entregue,17.78
+307,254,1,1,ida,Rota Leve,2026-02-22,2026-02-24,entregue,13.44
+308,255,1,1,ida,Rota Leve,2026-02-21,2026-02-24,nao_encontrado,11.86
+309,255,1,2,ida,Rota Leve,2026-02-21,2026-02-26,entregue,16.88
+310,255,1,1,devolucao,Rota Leve,2026-03-05,2026-03-07,recebido_cd,20.31
+311,256,1,1,ida,TransVale,2026-02-22,2026-02-24,entregue,22.06
+312,256,2,1,ida,TransVale,2026-02-22,2026-02-25,entregue,16.28
+313,257,1,1,ida,Rota Leve,2026-02-24,2026-02-25,entregue,14.56
+314,257,1,1,devolucao,Rota Leve,2026-03-04,2026-03-06,recebido_cd,15.03
+315,258,1,1,ida,Rota Leve,2026-02-24,2026-02-25,entregue,13.73
+316,259,1,1,ida,TransVale,2026-02-23,2026-02-25,entregue,16.17
+317,259,1,1,devolucao,TransVale,2026-03-03,2026-03-05,recebido_cd,15.36
+318,260,1,1,ida,TransVale,2026-02-23,2026-02-25,entregue,15.70
+319,261,1,1,ida,Rota Leve,2026-02-24,2026-02-27,entregue,17.26
+320,262,1,1,ida,Rota Leve,2026-02-22,2026-02-23,entregue,13.72
+321,263,1,1,ida,TransVale,2026-02-24,2026-02-26,entregue,21.89
+322,264,1,1,ida,Rota Leve,2026-02-24,2026-02-26,entregue,17.03
+323,266,1,1,ida,TransVale,2026-02-24,2026-02-27,entregue,14.29
+324,267,1,1,ida,Rota Leve,2026-02-25,2026-02-28,entregue,19.54
+325,268,1,1,ida,Rota Leve,2026-02-24,2026-02-25,entregue,16.76
+326,269,1,1,ida,Rota Leve,2026-02-23,2026-02-26,entregue,15.02
+327,270,1,1,ida,TransVale,2026-02-25,2026-02-28,entregue,14.70
+328,271,1,1,ida,TransVale,2026-02-24,2026-02-26,entregue,16.40
+329,273,1,1,ida,TransVale,2026-02-26,2026-02-28,entregue,14.72
+330,274,1,1,ida,Rota Leve,2026-02-24,2026-02-25,entregue,13.79
+331,275,1,1,ida,Rota Leve,2026-02-26,2026-02-27,entregue,13.72
+332,276,1,1,ida,Rota Leve,2026-02-24,2026-02-27,entregue,19.48
+333,277,1,1,ida,TransVale,2026-02-24,2026-02-26,entregue,14.00
+334,278,1,1,ida,Rota Leve,2026-02-26,2026-02-27,entregue,15.83
+335,279,1,1,ida,TransVale,2026-02-26,2026-02-28,entregue,21.72
+336,280,1,1,ida,Rota Leve,2026-02-26,2026-02-27,entregue,19.66
+337,281,1,1,ida,TransVale,2026-02-27,2026-02-28,entregue,16.02
+338,282,1,1,ida,Rota Leve,2026-02-27,2026-03-01,entregue,18.96
+339,283,1,1,ida,TransVale,2026-03-01,2026-03-03,entregue,18.45
+340,283,1,1,devolucao,TransVale,2026-03-07,2026-03-09,recebido_cd,20.72
+341,284,1,1,ida,TransVale,2026-02-27,2026-03-01,entregue,16.23
+342,286,1,1,ida,Rota Leve,2026-02-28,2026-03-02,entregue,13.64
+343,288,1,1,ida,Rota Leve,2026-03-02,2026-03-05,entregue,12.53
+344,288,1,1,devolucao,Rota Leve,2026-03-10,2026-03-12,recebido_cd,16.89
+345,289,1,1,ida,TransVale,2026-03-01,2026-03-03,entregue,18.45
+346,290,1,1,ida,Rota Leve,2026-03-01,2026-03-02,entregue,19.44
+347,291,1,1,ida,TransVale,2026-02-28,2026-03-03,entregue,16.72
+348,292,1,1,ida,TransVale,2026-03-03,2026-03-04,entregue,15.23
+349,292,2,1,ida,TransVale,2026-03-03,2026-03-04,entregue,22.41
+350,293,1,1,ida,Rota Leve,2026-03-02,2026-03-05,entregue,12.19
+351,293,2,1,ida,Rota Leve,2026-03-02,2026-03-03,entregue,18.42
+352,294,1,1,ida,TransVale,2026-03-01,2026-03-02,entregue,21.88
+353,295,1,1,ida,TransVale,2026-03-01,2026-03-02,entregue,20.19
+354,295,1,1,devolucao,TransVale,2026-03-08,2026-03-10,recebido_cd,17.48
+355,296,1,1,ida,TransVale,2026-03-02,2026-03-03,nao_encontrado,16.33
+356,296,1,2,ida,TransVale,2026-03-02,2026-03-04,entregue,15.72
+357,297,1,1,ida,TransVale,2026-03-02,2026-03-04,nao_encontrado,19.10
+358,297,1,2,ida,TransVale,2026-03-02,2026-03-07,entregue,16.51
+359,298,1,1,ida,Rota Leve,2026-03-02,2026-03-04,entregue,17.67
+360,298,1,1,devolucao,Rota Leve,2026-03-09,2026-03-11,recebido_cd,13.62
+361,299,1,1,ida,Rota Leve,2026-03-03,2026-03-04,entregue,14.72
+362,300,1,1,ida,Rota Leve,2026-03-02,2026-03-03,nao_encontrado,14.15
+363,300,1,2,ida,Rota Leve,2026-03-02,2026-03-05,entregue,16.51
+364,302,1,1,ida,Rota Leve,2026-03-05,2026-03-08,entregue,18.66
+365,303,1,1,ida,TransVale,2026-03-04,2026-03-07,entregue,14.81
+366,304,1,1,ida,TransVale,2026-03-05,2026-03-07,nao_encontrado,21.75
+367,304,1,2,ida,TransVale,2026-03-05,2026-03-10,entregue,20.09
+368,305,1,1,ida,Rota Leve,2026-03-03,2026-03-05,nao_encontrado,11.80
+369,305,1,2,ida,Rota Leve,2026-03-03,2026-03-08,entregue,16.28
+370,306,1,1,ida,TransVale,2026-03-04,2026-03-07,entregue,18.75
+371,308,1,1,ida,TransVale,2026-03-03,2026-03-04,entregue,14.04
+372,309,1,1,ida,TransVale,2026-03-05,2026-03-07,entregue,18.10
+373,310,1,1,ida,Rota Leve,2026-03-04,2026-03-06,entregue,15.43
+374,311,1,1,ida,Rota Leve,2026-03-05,2026-03-08,nao_encontrado,13.89
+375,311,1,2,ida,Rota Leve,2026-03-05,2026-03-09,entregue,18.04
+376,312,1,1,ida,Rota Leve,2026-03-04,2026-03-06,entregue,19.48
+377,313,1,1,ida,Rota Leve,2026-03-06,2026-03-08,entregue,12.88
+378,314,1,1,ida,Rota Leve,2026-03-05,2026-03-08,entregue,13.64
+379,315,1,1,ida,Rota Leve,2026-03-04,2026-03-06,entregue,20.12
+380,315,1,1,devolucao,Rota Leve,2026-03-13,2026-03-15,recebido_cd,14.16
+381,316,1,1,ida,TransVale,2026-03-04,2026-03-07,entregue,20.75
+382,317,1,1,ida,Rota Leve,2026-03-06,2026-03-09,entregue,12.63
+383,318,1,1,ida,TransVale,2026-03-04,2026-03-06,entregue,22.34
+384,319,1,1,ida,Rota Leve,2026-03-04,2026-03-07,entregue,13.73
+385,320,1,1,ida,TransVale,2026-03-05,2026-03-08,nao_encontrado,17.05
+386,320,1,2,ida,TransVale,2026-03-05,2026-03-11,entregue,18.85
+387,322,1,1,ida,Rota Leve,2026-03-05,2026-03-06,entregue,17.55
+388,323,1,1,ida,TransVale,2026-03-06,2026-03-07,entregue,22.20
+389,324,1,1,ida,TransVale,2026-03-06,2026-03-07,entregue,16.21
+390,326,1,1,ida,Rota Leve,2026-03-07,2026-03-10,entregue,16.78
+391,327,1,1,ida,TransVale,2026-03-07,2026-03-09,entregue,17.05
+392,328,1,1,ida,Rota Leve,2026-03-07,2026-03-10,entregue,14.40
+393,329,1,1,ida,TransVale,2026-03-06,2026-03-09,entregue,14.78
+394,330,1,1,ida,TransVale,2026-03-07,2026-03-10,entregue,18.20
+395,331,1,1,ida,TransVale,2026-03-08,2026-03-11,entregue,20.63
+396,332,1,1,ida,Rota Leve,2026-03-08,2026-03-10,entregue,17.04
+397,333,1,1,ida,Rota Leve,2026-03-08,2026-03-09,entregue,13.02
+398,334,1,1,ida,TransVale,2026-03-07,2026-03-10,entregue,22.82
+399,335,1,1,ida,Rota Leve,2026-03-09,2026-03-10,entregue,19.52
+400,336,1,1,ida,TransVale,2026-03-07,2026-03-08,entregue,18.80
+401,337,1,1,ida,Rota Leve,2026-03-08,2026-03-11,entregue,15.20
+402,337,2,1,ida,Rota Leve,2026-03-08,2026-03-10,entregue,17.57
+403,338,1,1,ida,TransVale,2026-03-09,2026-03-12,entregue,19.06
+404,339,1,1,ida,TransVale,2026-03-09,2026-03-10,entregue,22.01
+405,340,1,1,ida,Rota Leve,2026-03-07,2026-03-10,entregue,20.05
+406,341,1,1,ida,TransVale,2026-03-08,2026-03-11,entregue,15.17
+407,341,1,1,devolucao,TransVale,2026-03-16,2026-03-18,recebido_cd,20.56
+408,342,1,1,ida,TransVale,2026-03-08,2026-03-10,entregue,16.92
+409,342,1,1,devolucao,TransVale,2026-03-13,2026-03-15,recebido_cd,18.82
+410,344,1,1,ida,TransVale,2026-03-09,2026-03-11,entregue,22.64
+411,345,1,1,ida,Rota Leve,2026-03-10,2026-03-13,entregue,14.51
+412,346,1,1,ida,TransVale,2026-03-09,2026-03-10,entregue,22.80
+413,347,1,1,ida,Rota Leve,2026-03-09,2026-03-12,nao_encontrado,12.36
+414,347,1,2,ida,Rota Leve,2026-03-09,2026-03-13,nao_encontrado,19.24
+415,347,1,3,ida,Rota Leve,2026-03-09,2026-03-15,entregue,15.21
+416,348,1,1,ida,Rota Leve,2026-03-09,2026-03-10,entregue,13.61
+417,348,2,1,ida,Rota Leve,2026-03-09,2026-03-10,entregue,17.73
+418,349,1,1,ida,TransVale,2026-03-11,2026-03-14,entregue,15.36
+419,349,2,1,ida,TransVale,2026-03-11,2026-03-13,nao_encontrado,14.79
+420,349,2,2,ida,TransVale,2026-03-11,2026-03-16,entregue,22.43
+421,350,1,1,ida,Rota Leve,2026-03-10,2026-03-11,entregue,18.67
+422,350,2,1,ida,Rota Leve,2026-03-10,2026-03-12,entregue,19.79
+423,351,1,1,ida,Rota Leve,2026-03-12,2026-03-14,entregue,12.56
+424,352,1,1,ida,Rota Leve,2026-03-10,2026-03-13,entregue,15.35
+425,353,1,1,ida,TransVale,2026-03-11,2026-03-14,entregue,18.40
+426,354,1,1,ida,TransVale,2026-03-10,2026-03-13,entregue,19.00
+427,354,2,1,ida,TransVale,2026-03-10,2026-03-12,entregue,14.59
+428,356,1,1,ida,Rota Leve,2026-03-12,2026-03-15,entregue,18.15
+429,357,1,1,ida,Rota Leve,2026-03-11,2026-03-14,nao_encontrado,20.01
+430,357,1,2,ida,Rota Leve,2026-03-11,2026-03-16,entregue,17.17
+431,358,1,1,ida,TransVale,2026-03-11,2026-03-13,entregue,14.95
+432,359,1,1,ida,Rota Leve,2026-03-12,2026-03-15,entregue,12.19
+433,360,1,1,ida,Rota Leve,2026-03-11,2026-03-13,entregue,16.13
+434,361,1,1,ida,TransVale,2026-03-13,2026-03-16,entregue,18.73
+435,362,1,1,ida,Rota Leve,2026-03-11,2026-03-12,entregue,13.59
+436,363,1,1,ida,TransVale,2026-03-12,2026-03-15,entregue,22.76
+437,364,1,1,ida,Rota Leve,2026-03-13,2026-03-14,entregue,19.12
+438,364,2,1,ida,Rota Leve,2026-03-13,2026-03-15,nao_encontrado,13.96
+439,364,2,2,ida,Rota Leve,2026-03-13,2026-03-16,nao_encontrado,13.14
+440,364,2,3,ida,Rota Leve,2026-03-13,2026-03-19,entregue,18.32
+441,365,1,1,ida,Rota Leve,2026-03-12,2026-03-13,entregue,20.01
+442,366,1,1,ida,Rota Leve,2026-03-13,2026-03-14,entregue,17.26
+443,367,1,1,ida,TransVale,2026-03-13,2026-03-14,entregue,18.52
+444,368,1,1,ida,Rota Leve,2026-03-13,2026-03-15,entregue,13.98
+445,369,1,1,ida,Rota Leve,2026-03-12,2026-03-13,entregue,17.50
+446,370,1,1,ida,TransVale,2026-03-12,2026-03-14,entregue,22.86
+447,371,1,1,ida,Rota Leve,2026-03-13,2026-03-15,entregue,11.99
+448,372,1,1,ida,TransVale,2026-03-12,2026-03-14,entregue,16.40
+449,373,1,1,ida,Rota Leve,2026-03-13,2026-03-14,entregue,12.70
+450,373,1,1,devolucao,Rota Leve,2026-03-21,2026-03-23,recebido_cd,16.25
+451,374,1,1,ida,TransVale,2026-03-13,2026-03-16,entregue,21.46
+452,376,1,1,ida,Rota Leve,2026-03-13,2026-03-15,entregue,16.07
+453,377,1,1,ida,Rota Leve,2026-03-13,2026-03-14,entregue,14.45
+454,377,2,1,ida,Rota Leve,2026-03-13,2026-03-15,entregue,12.07
+455,378,1,1,ida,TransVale,2026-03-14,2026-03-16,entregue,16.49
+456,379,1,1,ida,Rota Leve,2026-03-14,2026-03-17,entregue,19.45
+457,380,1,1,ida,Rota Leve,2026-03-16,2026-03-19,entregue,14.39
+458,381,1,1,ida,Rota Leve,2026-03-15,2026-03-16,entregue,13.05
+459,381,1,1,devolucao,Rota Leve,2026-03-20,2026-03-22,recebido_cd,13.85
+460,382,1,1,ida,Rota Leve,2026-03-17,2026-03-18,entregue,11.67
+461,383,1,1,ida,Rota Leve,2026-03-15,2026-03-17,entregue,16.97
+462,384,1,1,ida,Rota Leve,2026-03-17,2026-03-18,entregue,17.05
+463,385,1,1,ida,Rota Leve,2026-03-16,2026-03-19,entregue,14.07
+464,386,1,1,ida,Rota Leve,2026-03-15,2026-03-18,entregue,19.31
+465,387,1,1,ida,TransVale,2026-03-18,2026-03-21,nao_encontrado,21.12
+466,387,1,2,ida,TransVale,2026-03-18,2026-03-22,nao_encontrado,16.10
+467,387,1,3,ida,TransVale,2026-03-18,2026-03-24,entregue,20.32
+468,388,1,1,ida,Rota Leve,2026-03-18,2026-03-20,entregue,16.48
+469,389,1,1,ida,Rota Leve,2026-03-18,2026-03-21,entregue,16.07
+470,391,1,1,ida,Rota Leve,2026-03-17,2026-03-18,entregue,14.06
+471,392,1,1,ida,Rota Leve,2026-03-19,2026-03-20,entregue,16.45
+472,393,1,1,ida,TransVale,2026-03-18,2026-03-21,entregue,15.80
+473,394,1,1,ida,Rota Leve,2026-03-18,2026-03-20,nao_encontrado,14.83
+474,394,1,2,ida,Rota Leve,2026-03-18,2026-03-21,nao_encontrado,16.07
+475,394,1,3,ida,Rota Leve,2026-03-18,2026-03-23,entregue,17.62
+476,395,1,1,ida,TransVale,2026-03-20,2026-03-22,entregue,17.72
+477,396,1,1,ida,Rota Leve,2026-03-19,2026-03-20,nao_encontrado,14.92
+478,396,1,2,ida,Rota Leve,2026-03-19,2026-03-23,entregue,16.07
+479,397,1,1,ida,TransVale,2026-03-18,2026-03-20,entregue,18.35
+480,398,1,1,ida,TransVale,2026-03-20,2026-03-23,entregue,20.48
+481,399,1,1,ida,Rota Leve,2026-03-19,2026-03-20,entregue,17.62
+482,400,1,1,ida,TransVale,2026-03-19,2026-03-20,entregue,18.36
+483,401,1,1,ida,TransVale,2026-03-20,2026-03-22,nao_encontrado,21.93
+484,401,1,2,ida,TransVale,2026-03-20,2026-03-25,entregue,18.08
+485,402,1,1,ida,TransVale,2026-03-20,2026-03-23,entregue,21.22
+486,403,1,1,ida,TransVale,2026-03-21,2026-03-23,entregue,16.84
+487,404,1,1,ida,TransVale,2026-03-20,2026-03-22,nao_encontrado,22.26
+488,404,1,2,ida,TransVale,2026-03-20,2026-03-23,nao_encontrado,18.85
+489,404,1,3,ida,TransVale,2026-03-20,2026-03-25,entregue,14.68
+490,404,1,1,devolucao,TransVale,2026-03-28,2026-03-30,recebido_cd,23.00
+491,405,1,1,ida,TransVale,2026-03-20,2026-03-21,entregue,16.61
+492,405,2,1,ida,TransVale,2026-03-20,2026-03-21,entregue,15.12
+493,406,1,1,ida,TransVale,2026-03-22,2026-03-24,entregue,17.08
+494,407,1,1,ida,Rota Leve,2026-03-20,2026-03-23,entregue,13.06
+495,408,1,1,ida,TransVale,2026-03-21,2026-03-22,entregue,22.86
+496,409,1,1,ida,TransVale,2026-03-21,2026-03-22,entregue,18.90
+497,410,1,1,ida,TransVale,2026-03-21,2026-03-23,nao_encontrado,20.23
+498,410,1,2,ida,TransVale,2026-03-21,2026-03-24,entregue,15.76
+499,411,1,1,ida,TransVale,2026-03-22,2026-03-24,entregue,22.61
+500,411,1,1,devolucao,TransVale,2026-03-31,2026-04-02,recebido_cd,21.90
+501,412,1,1,ida,Rota Leve,2026-03-23,2026-03-24,entregue,15.63
+502,413,1,1,ida,TransVale,2026-03-24,2026-03-26,entregue,15.51
+503,414,1,1,ida,TransVale,2026-03-23,2026-03-25,entregue,22.02
+504,415,1,1,ida,TransVale,2026-03-24,2026-03-27,entregue,17.38
+505,416,1,1,ida,TransVale,2026-03-23,2026-03-26,entregue,14.36
+506,417,1,1,ida,TransVale,2026-03-24,2026-03-26,entregue,22.48
+507,418,1,1,ida,TransVale,2026-03-23,2026-03-25,entregue,14.64
+508,419,1,1,ida,Rota Leve,2026-03-23,2026-03-26,nao_encontrado,19.31
+509,419,1,2,ida,Rota Leve,2026-03-23,2026-03-27,nao_encontrado,13.10
+510,419,1,3,ida,Rota Leve,2026-03-23,2026-03-30,entregue,12.54
+511,420,1,1,ida,TransVale,2026-03-23,2026-03-25,nao_encontrado,14.48
+512,420,1,2,ida,TransVale,2026-03-23,2026-03-27,entregue,18.15
+513,420,1,1,devolucao,TransVale,2026-03-30,2026-04-01,recebido_cd,21.61
+514,421,1,1,ida,Rota Leve,2026-03-23,2026-03-24,entregue,18.62
+515,422,1,1,ida,Rota Leve,2026-03-25,2026-03-27,nao_encontrado,15.77
+516,422,1,2,ida,Rota Leve,2026-03-25,2026-03-30,nao_encontrado,19.39
+517,422,1,3,ida,Rota Leve,2026-03-25,2026-04-02,entregue,13.59
+518,423,1,1,ida,TransVale,2026-03-24,2026-03-25,entregue,21.68
+519,424,1,1,ida,Rota Leve,2026-03-24,2026-03-27,entregue,15.46
+520,425,1,1,ida,TransVale,2026-03-25,2026-03-28,entregue,16.48
+521,426,1,1,ida,TransVale,2026-03-25,2026-03-28,entregue,15.11
+522,427,1,1,ida,Rota Leve,2026-03-26,2026-03-28,entregue,15.23
+523,428,1,1,ida,TransVale,2026-03-24,2026-03-27,entregue,22.23
+524,428,2,1,ida,TransVale,2026-03-24,2026-03-25,entregue,22.78
+525,429,1,1,ida,TransVale,2026-03-26,2026-03-29,entregue,21.78
+526,430,1,1,ida,TransVale,2026-03-25,2026-03-26,entregue,22.96
+527,431,1,1,ida,Rota Leve,2026-03-25,2026-03-27,entregue,16.38
+528,432,1,1,ida,Rota Leve,2026-03-25,2026-03-27,nao_encontrado,14.25
+529,432,1,2,ida,Rota Leve,2026-03-25,2026-03-28,entregue,12.25
+530,432,2,1,ida,Rota Leve,2026-03-25,2026-03-26,nao_encontrado,13.06
+531,432,2,2,ida,Rota Leve,2026-03-25,2026-03-28,entregue,17.78
+532,433,1,1,ida,TransVale,2026-03-25,2026-03-27,entregue,17.10
+533,434,1,1,ida,Rota Leve,2026-03-25,2026-03-26,entregue,14.78
+534,435,1,1,ida,Rota Leve,2026-03-28,2026-03-31,entregue,16.29
+535,436,1,1,ida,TransVale,2026-03-28,2026-03-29,entregue,22.09
+536,436,1,1,devolucao,TransVale,2026-04-01,2026-04-03,recebido_cd,18.58
+537,437,1,1,ida,Rota Leve,2026-03-27,2026-03-29,entregue,14.27
+538,438,1,1,ida,Rota Leve,2026-03-27,2026-03-29,entregue,19.17
+539,439,1,1,ida,TransVale,2026-03-28,2026-03-29,entregue,17.48
+540,440,1,1,ida,TransVale,2026-03-27,2026-03-28,nao_encontrado,14.49
+541,440,1,2,ida,TransVale,2026-03-27,2026-03-31,entregue,22.94
+542,441,1,1,ida,Rota Leve,2026-03-28,2026-03-31,entregue,14.34
+543,443,1,1,ida,Rota Leve,2026-03-30,2026-03-31,entregue,19.18
+544,443,1,1,devolucao,Rota Leve,2026-04-05,2026-04-07,recebido_cd,15.80
+545,444,1,1,ida,Rota Leve,2026-03-30,2026-03-31,entregue,11.98
+546,446,1,1,ida,Rota Leve,2026-03-29,2026-04-01,entregue,11.97
+547,447,1,1,ida,TransVale,2026-03-31,2026-04-02,entregue,22.03
+548,448,1,1,ida,Rota Leve,2026-03-31,2026-04-02,entregue,12.94
+549,449,1,1,ida,Rota Leve,2026-04-02,2026-04-05,entregue,12.00
+550,450,1,1,ida,TransVale,2026-03-31,2026-04-03,entregue,20.78
+551,451,1,1,ida,TransVale,2026-04-02,2026-04-03,entregue,19.19
+552,452,1,1,ida,TransVale,2026-03-31,2026-04-03,entregue,19.97
+553,452,2,1,ida,TransVale,2026-03-31,2026-04-01,nao_encontrado,21.00
+554,452,2,2,ida,TransVale,2026-03-31,2026-04-04,nao_encontrado,22.01
+555,452,2,3,ida,TransVale,2026-03-31,2026-04-07,entregue,22.19
+556,453,1,1,ida,TransVale,2026-03-31,2026-04-01,entregue,16.67
+557,454,1,1,ida,TransVale,2026-04-01,2026-04-02,entregue,19.75
+558,455,1,1,ida,TransVale,2026-03-31,2026-04-01,entregue,18.24
+559,456,1,1,ida,TransVale,2026-04-03,2026-04-06,entregue,21.68
+560,457,1,1,ida,TransVale,2026-04-03,2026-04-05,entregue,15.10
+561,458,1,1,ida,Rota Leve,2026-04-02,2026-04-03,entregue,12.06
+562,459,1,1,ida,TransVale,2026-04-01,2026-04-02,entregue,20.05
+563,460,1,1,ida,TransVale,2026-04-01,2026-04-04,entregue,21.41
+564,461,1,1,ida,Rota Leve,2026-04-02,2026-04-05,entregue,14.12
+565,461,1,1,devolucao,Rota Leve,2026-04-09,2026-04-11,recebido_cd,11.66
+566,462,1,1,ida,TransVale,2026-04-03,2026-04-04,entregue,14.02
+567,464,1,1,ida,Rota Leve,2026-04-03,2026-04-06,nao_encontrado,14.79
+568,464,1,2,ida,Rota Leve,2026-04-03,2026-04-08,nao_encontrado,16.74
+569,464,1,3,ida,Rota Leve,2026-04-03,2026-04-09,entregue,18.96
+570,465,1,1,ida,Rota Leve,2026-04-04,2026-04-07,entregue,15.59
+571,467,1,1,ida,Rota Leve,2026-04-04,2026-04-05,entregue,19.65
+572,467,2,1,ida,Rota Leve,2026-04-04,2026-04-06,nao_encontrado,12.08
+573,467,2,2,ida,Rota Leve,2026-04-04,2026-04-09,entregue,17.08
+574,468,1,1,ida,TransVale,2026-04-04,2026-04-05,entregue,19.23
+575,469,1,1,ida,Rota Leve,2026-04-03,2026-04-04,entregue,12.55
+576,470,1,1,ida,TransVale,2026-04-04,2026-04-07,entregue,19.69
+577,471,1,1,ida,TransVale,2026-04-03,2026-04-06,entregue,18.30
+578,471,2,1,ida,TransVale,2026-04-03,2026-04-04,entregue,14.92
+579,472,1,1,ida,Rota Leve,2026-04-05,2026-04-08,entregue,20.20
+580,473,1,1,ida,Rota Leve,2026-04-04,2026-04-07,entregue,12.67
+581,474,1,1,ida,TransVale,2026-04-04,2026-04-05,entregue,22.86
+582,475,1,1,ida,Rota Leve,2026-04-04,2026-04-06,entregue,15.57
+583,476,1,1,ida,Rota Leve,2026-04-06,2026-04-07,nao_encontrado,13.67
+584,476,1,2,ida,Rota Leve,2026-04-06,2026-04-08,entregue,17.25
+585,476,1,1,devolucao,Rota Leve,2026-04-12,2026-04-14,recebido_cd,12.57
+586,477,1,1,ida,Rota Leve,2026-04-06,2026-04-08,entregue,14.98
+587,478,1,1,ida,TransVale,2026-04-04,2026-04-05,entregue,20.06
+588,479,1,1,ida,Rota Leve,2026-04-06,2026-04-09,entregue,18.64
+589,479,2,1,ida,Rota Leve,2026-04-06,2026-04-07,nao_encontrado,20.37
+590,479,2,2,ida,Rota Leve,2026-04-06,2026-04-10,nao_encontrado,15.52
+591,479,2,3,ida,Rota Leve,2026-04-06,2026-04-13,entregue,19.97
+592,480,1,1,ida,TransVale,2026-04-06,2026-04-08,entregue,21.85
+593,481,1,1,ida,TransVale,2026-04-07,2026-04-08,nao_encontrado,20.40
+594,481,1,2,ida,TransVale,2026-04-07,2026-04-11,entregue,16.84
+595,482,1,1,ida,Rota Leve,2026-04-06,2026-04-08,entregue,17.08
+596,483,1,1,ida,TransVale,2026-04-06,2026-04-09,entregue,18.12
+597,484,1,1,ida,Rota Leve,2026-04-05,2026-04-06,nao_encontrado,17.37
+598,484,1,2,ida,Rota Leve,2026-04-05,2026-04-09,entregue,15.65
+599,485,1,1,ida,TransVale,2026-04-05,2026-04-08,entregue,20.89
+600,487,1,1,ida,TransVale,2026-04-07,2026-04-08,entregue,20.58
+601,488,1,1,ida,TransVale,2026-04-07,2026-04-10,nao_encontrado,19.30
+602,488,1,2,ida,TransVale,2026-04-07,2026-04-13,entregue,22.24
+603,489,1,1,ida,TransVale,2026-04-08,2026-04-09,entregue,16.30
+604,491,1,1,ida,Rota Leve,2026-04-07,2026-04-10,entregue,17.62
+605,492,1,1,ida,TransVale,2026-04-08,2026-04-10,entregue,21.74
+606,493,1,1,ida,Rota Leve,2026-04-07,2026-04-10,entregue,18.70
+607,494,1,1,ida,Rota Leve,2026-04-09,2026-04-10,entregue,13.78
+608,495,1,1,ida,Rota Leve,2026-04-08,2026-04-09,entregue,14.21
+609,496,1,1,ida,Rota Leve,2026-04-10,2026-04-11,entregue,18.49
+610,497,1,1,ida,TransVale,2026-04-09,2026-04-11,entregue,21.81
+611,499,1,1,ida,Rota Leve,2026-04-08,2026-04-10,entregue,20.17
+612,500,1,1,ida,Rota Leve,2026-04-11,2026-04-14,entregue,12.18
+613,501,1,1,ida,Rota Leve,2026-04-09,2026-04-12,entregue,20.01
+614,502,1,1,ida,Rota Leve,2026-04-10,2026-04-12,nao_encontrado,18.62
+615,502,1,2,ida,Rota Leve,2026-04-10,2026-04-14,entregue,19.02
+616,503,1,1,ida,TransVale,2026-04-12,2026-04-15,entregue,22.64
+617,504,1,1,ida,TransVale,2026-04-10,2026-04-13,entregue,18.84
+618,506,1,1,ida,TransVale,2026-04-10,2026-04-13,nao_encontrado,19.92
+619,506,1,2,ida,TransVale,2026-04-10,2026-04-14,entregue,18.09
+620,507,1,1,ida,Rota Leve,2026-04-12,2026-04-14,entregue,12.41
+621,508,1,1,ida,TransVale,2026-04-12,2026-04-15,entregue,19.01
+622,509,1,1,ida,Rota Leve,2026-04-10,2026-04-12,entregue,13.13
+623,511,1,1,ida,Rota Leve,2026-04-11,2026-04-14,entregue,12.74
+624,512,1,1,ida,TransVale,2026-04-12,2026-04-15,entregue,15.23
+625,513,1,1,ida,TransVale,2026-04-12,2026-04-15,entregue,22.29
+626,514,1,1,ida,Rota Leve,2026-04-13,2026-04-14,entregue,13.01
+627,514,2,1,ida,Rota Leve,2026-04-13,2026-04-16,entregue,18.08
+628,515,1,1,ida,Rota Leve,2026-04-13,2026-04-16,entregue,15.95
+629,516,1,1,ida,TransVale,2026-04-11,2026-04-14,entregue,15.20
+630,517,1,1,ida,TransVale,2026-04-12,2026-04-14,entregue,21.23
+631,518,1,1,ida,Rota Leve,2026-04-13,2026-04-14,entregue,12.27
+632,519,1,1,ida,Rota Leve,2026-04-13,2026-04-14,entregue,12.77
+633,520,1,1,ida,TransVale,2026-04-14,2026-04-16,entregue,19.86
+634,521,1,1,ida,Rota Leve,2026-04-12,2026-04-14,entregue,17.08
+635,522,1,1,ida,Rota Leve,2026-04-13,2026-04-16,entregue,18.37
+636,523,1,1,ida,Rota Leve,2026-04-14,2026-04-15,entregue,17.41
+637,524,1,1,ida,Rota Leve,2026-04-14,2026-04-16,entregue,15.87
+638,525,1,1,ida,Rota Leve,2026-04-15,2026-04-18,entregue,20.14
+639,526,1,1,ida,Rota Leve,2026-04-15,2026-04-18,entregue,15.26
+640,527,1,1,ida,TransVale,2026-04-13,2026-04-14,entregue,17.00
+641,528,1,1,ida,TransVale,2026-04-14,2026-04-15,nao_encontrado,20.74
+642,528,1,2,ida,TransVale,2026-04-14,2026-04-17,nao_encontrado,14.47
+643,528,1,3,ida,TransVale,2026-04-14,2026-04-20,entregue,17.33
+644,529,1,1,ida,Rota Leve,2026-04-13,2026-04-16,entregue,18.48
+645,530,1,1,ida,TransVale,2026-04-16,2026-04-17,entregue,22.16
+646,531,1,1,ida,TransVale,2026-04-16,2026-04-19,entregue,19.24
+647,532,1,1,ida,Rota Leve,2026-04-15,2026-04-18,entregue,16.60
+648,533,1,1,ida,Rota Leve,2026-04-15,2026-04-18,entregue,13.07
+649,534,1,1,ida,Rota Leve,2026-04-16,2026-04-19,entregue,14.42
+650,535,1,1,ida,Rota Leve,2026-04-16,2026-04-18,entregue,14.66
+651,536,1,1,ida,Rota Leve,2026-04-16,2026-04-19,entregue,18.45
+652,537,1,1,ida,TransVale,2026-04-15,2026-04-16,entregue,16.68
+653,538,1,1,ida,TransVale,2026-04-17,2026-04-19,entregue,18.26
+654,539,1,1,ida,Rota Leve,2026-04-16,2026-04-19,entregue,13.53
+655,540,1,1,ida,Rota Leve,2026-04-18,2026-04-21,nao_encontrado,16.64
+656,540,1,2,ida,Rota Leve,2026-04-18,2026-04-22,nao_encontrado,15.28
+657,540,1,3,ida,Rota Leve,2026-04-18,2026-04-25,entregue,20.35
+658,541,1,1,ida,TransVale,2026-04-16,2026-04-18,entregue,21.11
+659,542,1,1,ida,Rota Leve,2026-04-16,2026-04-19,entregue,17.81
+660,543,1,1,ida,TransVale,2026-04-16,2026-04-17,entregue,16.86
+661,544,1,1,ida,TransVale,2026-04-16,2026-04-18,nao_encontrado,19.29
+662,544,1,2,ida,TransVale,2026-04-16,2026-04-20,entregue,14.89
+663,545,1,1,ida,TransVale,2026-04-17,2026-04-20,entregue,16.77
+664,547,1,1,ida,Rota Leve,2026-04-19,2026-04-21,entregue,13.99
+665,548,1,1,ida,TransVale,2026-04-17,2026-04-19,entregue,20.83
+666,548,2,1,ida,TransVale,2026-04-17,2026-04-20,entregue,15.57
+667,549,1,1,ida,Rota Leve,2026-04-17,2026-04-19,entregue,16.43
+668,550,1,1,ida,TransVale,2026-04-17,2026-04-20,entregue,15.03
+669,551,1,1,ida,TransVale,2026-04-18,2026-04-19,entregue,22.00
+670,552,1,1,ida,Rota Leve,2026-04-19,2026-04-21,entregue,12.83
+671,553,1,1,ida,TransVale,2026-04-19,2026-04-21,entregue,16.23
+672,555,1,1,ida,Rota Leve,2026-04-20,2026-04-23,entregue,12.66
+673,556,1,1,ida,TransVale,2026-04-19,2026-04-22,entregue,19.92
+674,557,1,1,ida,TransVale,2026-04-20,2026-04-23,entregue,19.05
+675,558,1,1,ida,Rota Leve,2026-04-18,2026-04-20,entregue,19.79
+676,559,1,1,ida,Rota Leve,2026-04-18,2026-04-19,entregue,16.02
+677,560,1,1,ida,TransVale,2026-04-19,2026-04-22,entregue,20.49
+678,561,1,1,ida,TransVale,2026-04-20,2026-04-23,entregue,16.40
+679,562,1,1,ida,TransVale,2026-04-20,2026-04-21,entregue,15.96
+680,563,1,1,ida,TransVale,2026-04-19,2026-04-20,entregue,18.21
+681,564,1,1,ida,Rota Leve,2026-04-20,2026-04-22,entregue,17.69
+682,565,1,1,ida,TransVale,2026-04-21,2026-04-22,entregue,21.90
+683,566,1,1,ida,TransVale,2026-04-20,2026-04-21,entregue,16.11
+684,567,1,1,ida,Rota Leve,2026-04-20,2026-04-21,entregue,11.64
+685,567,2,1,ida,Rota Leve,2026-04-20,2026-04-23,nao_encontrado,19.71
+686,567,2,2,ida,Rota Leve,2026-04-20,2026-04-25,entregue,13.08
+687,568,1,1,ida,TransVale,2026-04-20,2026-04-23,entregue,17.14
+688,569,1,1,ida,TransVale,2026-04-22,2026-04-23,entregue,17.26
+689,570,1,1,ida,TransVale,2026-04-22,2026-04-24,nao_encontrado,15.04
+690,570,1,2,ida,TransVale,2026-04-22,2026-04-26,entregue,17.89
+691,571,1,1,ida,Rota Leve,2026-04-22,2026-04-24,entregue,18.52
+692,572,1,1,ida,Rota Leve,2026-04-20,2026-04-21,nao_encontrado,15.37
+693,572,1,2,ida,Rota Leve,2026-04-20,2026-04-24,entregue,11.63
+694,573,1,1,ida,TransVale,2026-04-20,2026-04-22,entregue,18.00
+695,574,1,1,ida,TransVale,2026-04-22,2026-04-25,entregue,14.52
+696,574,1,1,devolucao,TransVale,2026-04-28,2026-04-30,recebido_cd,17.92
+697,575,1,1,ida,Rota Leve,2026-04-22,2026-04-25,entregue,17.16
+698,575,2,1,ida,Rota Leve,2026-04-22,2026-04-25,entregue,14.64
+699,576,1,1,ida,Rota Leve,2026-04-22,2026-04-24,entregue,14.89
+700,576,2,1,ida,Rota Leve,2026-04-22,2026-04-23,nao_encontrado,14.37
+701,576,2,2,ida,Rota Leve,2026-04-22,2026-04-26,entregue,16.57
+702,577,1,1,ida,Rota Leve,2026-04-20,2026-04-23,entregue,19.20
+703,578,1,1,ida,Rota Leve,2026-04-23,2026-04-25,entregue,16.16
+704,580,1,1,ida,Rota Leve,2026-04-22,2026-04-25,nao_encontrado,13.11
+705,580,1,2,ida,Rota Leve,2026-04-22,2026-04-27,entregue,11.84
+706,581,1,1,ida,Rota Leve,2026-04-22,2026-04-24,entregue,13.02
+707,582,1,1,ida,Rota Leve,2026-04-24,2026-04-26,entregue,11.75
+708,583,1,1,ida,Rota Leve,2026-04-22,2026-04-23,entregue,12.22
+709,583,1,1,devolucao,Rota Leve,2026-04-28,2026-04-30,recebido_cd,17.83
+710,584,1,1,ida,TransVale,2026-04-25,2026-04-28,entregue,15.22
+711,584,2,1,ida,TransVale,2026-04-25,2026-04-27,entregue,17.42
+712,585,1,1,ida,TransVale,2026-04-23,2026-04-25,entregue,16.09
+713,586,1,1,ida,TransVale,2026-04-25,2026-04-27,entregue,18.40
+714,587,1,1,ida,Rota Leve,2026-04-24,2026-04-27,entregue,17.98
+715,588,1,1,ida,Rota Leve,2026-04-25,2026-04-28,entregue,19.73
+716,589,1,1,ida,TransVale,2026-04-26,2026-04-29,entregue,19.75
+717,590,1,1,ida,TransVale,2026-04-24,2026-04-25,entregue,20.14
+718,590,1,1,devolucao,TransVale,2026-05-02,2026-05-04,recebido_cd,22.37
+719,591,1,1,ida,Rota Leve,2026-04-25,2026-04-28,entregue,13.82
+720,591,1,1,devolucao,Rota Leve,2026-05-01,2026-05-03,recebido_cd,17.05
+721,592,1,1,ida,Rota Leve,2026-04-26,2026-04-28,entregue,13.92
+722,593,1,1,ida,Rota Leve,2026-04-26,2026-04-29,entregue,18.89
+723,593,1,1,devolucao,Rota Leve,2026-05-02,2026-05-04,recebido_cd,18.87
+724,594,1,1,ida,TransVale,2026-04-27,2026-04-29,entregue,17.95
+725,595,1,1,ida,TransVale,2026-04-26,2026-04-29,entregue,18.09
+726,597,1,1,ida,TransVale,2026-04-27,2026-04-29,entregue,21.24
+727,598,1,1,ida,TransVale,2026-04-27,2026-04-29,entregue,18.94
+728,599,1,1,ida,TransVale,2026-04-28,2026-04-30,entregue,21.69
+729,600,1,1,ida,Rota Leve,2026-04-28,2026-05-01,entregue,19.07
+730,601,1,1,ida,TransVale,2026-04-29,2026-05-01,entregue,22.61
+731,602,1,1,ida,TransVale,2026-04-29,2026-05-01,nao_encontrado,17.80
+732,602,1,2,ida,TransVale,2026-04-29,2026-05-04,nao_encontrado,15.23
+733,602,1,3,ida,TransVale,2026-04-29,2026-05-06,entregue,17.10
+734,602,2,1,ida,TransVale,2026-04-29,2026-05-01,entregue,19.35
+735,603,1,1,ida,TransVale,2026-04-29,2026-04-30,entregue,16.45
+736,604,1,1,ida,TransVale,2026-04-29,2026-04-30,entregue,18.27
+737,605,1,1,ida,Rota Leve,2026-04-27,2026-04-29,entregue,13.92
+738,606,1,1,ida,Rota Leve,2026-04-28,2026-04-30,entregue,13.82
+739,607,1,1,ida,TransVale,2026-04-27,2026-04-30,entregue,14.95
+740,607,1,1,devolucao,TransVale,2026-05-06,2026-05-08,recebido_cd,16.37
+741,608,1,1,ida,Rota Leve,2026-04-30,2026-05-03,entregue,16.97
+742,609,1,1,ida,TransVale,2026-04-28,2026-04-30,entregue,14.02
+743,610,1,1,ida,TransVale,2026-04-30,2026-05-03,entregue,16.44
+744,610,1,1,devolucao,TransVale,2026-05-07,2026-05-09,recebido_cd,19.99
+745,611,1,1,ida,TransVale,2026-04-30,2026-05-03,entregue,21.61
+746,612,1,1,ida,TransVale,2026-04-30,2026-05-02,entregue,15.91
+747,613,1,1,ida,TransVale,2026-05-01,2026-05-03,entregue,19.33
+748,615,1,1,ida,TransVale,2026-05-01,2026-05-03,entregue,22.98
+749,616,1,1,ida,Rota Leve,2026-05-01,2026-05-03,entregue,11.83
+750,617,1,1,ida,Rota Leve,2026-05-02,2026-05-04,entregue,16.50
+751,618,1,1,ida,Rota Leve,2026-05-02,2026-05-05,entregue,11.56
+752,619,1,1,ida,Rota Leve,2026-05-02,2026-05-03,entregue,12.11
+753,619,1,1,devolucao,Rota Leve,2026-05-07,2026-05-09,recebido_cd,18.21
+754,621,1,1,ida,TransVale,2026-05-03,2026-05-05,entregue,18.80
+755,622,1,1,ida,Rota Leve,2026-05-03,2026-05-06,entregue,16.38
+756,623,1,1,ida,Rota Leve,2026-05-03,2026-05-04,entregue,15.60
+757,624,1,1,ida,TransVale,2026-05-01,2026-05-02,nao_encontrado,20.90
+758,624,1,2,ida,TransVale,2026-05-01,2026-05-05,nao_encontrado,16.87
+759,624,1,3,ida,TransVale,2026-05-01,2026-05-08,entregue,18.09
+760,625,1,1,ida,TransVale,2026-05-01,2026-05-03,entregue,21.31
+761,627,1,1,ida,TransVale,2026-05-03,2026-05-06,entregue,15.01
+762,628,1,1,ida,Rota Leve,2026-05-02,2026-05-05,entregue,15.37
+763,629,1,1,ida,Rota Leve,2026-05-03,2026-05-05,entregue,15.79
+764,629,2,1,ida,Rota Leve,2026-05-03,2026-05-04,nao_encontrado,16.24
+765,629,2,2,ida,Rota Leve,2026-05-03,2026-05-06,entregue,17.65
+766,630,1,1,ida,TransVale,2026-05-03,2026-05-06,entregue,22.20
+767,631,1,1,ida,Rota Leve,2026-05-02,2026-05-03,entregue,16.38
+768,632,1,1,ida,TransVale,2026-05-05,2026-05-07,nao_encontrado,19.46
+769,632,1,2,ida,TransVale,2026-05-05,2026-05-10,entregue,21.67
+770,633,1,1,ida,Rota Leve,2026-05-05,2026-05-07,entregue,15.84
+771,634,1,1,ida,Rota Leve,2026-05-04,2026-05-06,entregue,19.92
+772,635,1,1,ida,TransVale,2026-05-05,2026-05-07,entregue,19.26
+773,636,1,1,ida,TransVale,2026-05-05,2026-05-08,nao_encontrado,14.62
+774,636,1,2,ida,TransVale,2026-05-05,2026-05-11,entregue,14.78
+775,636,2,1,ida,TransVale,2026-05-05,2026-05-06,nao_encontrado,17.82
+776,636,2,2,ida,TransVale,2026-05-05,2026-05-07,entregue,22.48
+777,637,1,1,ida,TransVale,2026-05-06,2026-05-08,entregue,19.62
+778,638,1,1,ida,TransVale,2026-05-05,2026-05-07,entregue,15.32
+779,639,1,1,ida,TransVale,2026-05-06,2026-05-07,entregue,21.11
+780,640,1,1,ida,Rota Leve,2026-05-05,2026-05-07,entregue,14.76
+781,641,1,1,ida,Rota Leve,2026-05-06,2026-05-07,entregue,12.76
+782,642,1,1,ida,Rota Leve,2026-05-05,2026-05-08,entregue,15.87
+783,643,1,1,ida,Rota Leve,2026-05-05,2026-05-06,entregue,16.17
+784,645,1,1,ida,Rota Leve,2026-05-05,2026-05-07,entregue,16.13
+785,645,1,1,devolucao,Rota Leve,2026-05-11,2026-05-13,recebido_cd,13.46
+786,646,1,1,ida,Rota Leve,2026-05-06,2026-05-07,entregue,14.50
+787,647,1,1,ida,TransVale,2026-05-07,2026-05-09,entregue,21.88
+788,648,1,1,ida,TransVale,2026-05-07,2026-05-08,entregue,16.08
+789,649,1,1,ida,Rota Leve,2026-05-07,2026-05-09,entregue,19.59
+790,651,1,1,ida,Rota Leve,2026-05-07,2026-05-09,nao_encontrado,12.71
+791,651,1,2,ida,Rota Leve,2026-05-07,2026-05-10,entregue,15.34
+792,653,1,1,ida,Rota Leve,2026-05-07,2026-05-08,entregue,18.94
+793,654,1,1,ida,TransVale,2026-05-09,2026-05-11,entregue,17.41
+794,654,2,1,ida,TransVale,2026-05-09,2026-05-10,nao_encontrado,21.97
+795,654,2,2,ida,TransVale,2026-05-09,2026-05-11,entregue,21.07
+796,656,1,1,ida,Rota Leve,2026-05-09,2026-05-10,entregue,16.06
+797,657,1,1,ida,TransVale,2026-05-07,2026-05-08,entregue,19.46
+798,658,1,1,ida,TransVale,2026-05-07,2026-05-09,entregue,18.51
+799,659,1,1,ida,TransVale,2026-05-09,2026-05-12,entregue,22.97
+800,660,1,1,ida,Rota Leve,2026-05-08,2026-05-11,entregue,12.24
+801,661,1,1,ida,Rota Leve,2026-05-09,2026-05-11,entregue,13.20
+802,662,1,1,ida,Rota Leve,2026-05-08,2026-05-10,entregue,14.46
+803,663,1,1,ida,TransVale,2026-05-07,2026-05-08,entregue,14.98
+804,664,1,1,ida,TransVale,2026-05-08,2026-05-09,entregue,15.27
+805,665,1,1,ida,TransVale,2026-05-08,2026-05-09,entregue,16.89
+806,667,1,1,ida,Rota Leve,2026-05-09,2026-05-12,entregue,17.30
+807,669,1,1,ida,Rota Leve,2026-05-09,2026-05-11,entregue,13.11
+808,670,1,1,ida,Rota Leve,2026-05-10,2026-05-11,entregue,19.78
+809,672,1,1,ida,Rota Leve,2026-05-11,2026-05-13,entregue,16.83
+810,673,1,1,ida,TransVale,2026-05-10,2026-05-12,entregue,16.97
+811,674,1,1,ida,Rota Leve,2026-05-11,2026-05-13,entregue,20.15
+812,675,1,1,ida,TransVale,2026-05-12,2026-05-14,entregue,18.07
+813,676,1,1,ida,TransVale,2026-05-12,2026-05-13,entregue,22.82
+814,676,2,1,ida,TransVale,2026-05-12,2026-05-14,entregue,20.73
+815,677,1,1,ida,TransVale,2026-05-10,2026-05-13,entregue,21.94
+816,678,1,1,ida,Rota Leve,2026-05-11,2026-05-14,entregue,17.65
+817,679,1,1,ida,TransVale,2026-05-10,2026-05-12,entregue,18.22
+818,679,2,1,ida,TransVale,2026-05-10,2026-05-13,entregue,14.99
+819,680,1,1,ida,Rota Leve,2026-05-10,2026-05-12,entregue,18.81
+820,680,2,1,ida,Rota Leve,2026-05-10,2026-05-12,entregue,15.86
+821,682,1,1,ida,TransVale,2026-05-11,2026-05-14,entregue,19.03
+822,683,1,1,ida,Rota Leve,2026-05-10,2026-05-12,entregue,11.83
+823,684,1,1,ida,Rota Leve,2026-05-12,2026-05-13,entregue,15.45
+824,685,1,1,ida,Rota Leve,2026-05-13,2026-05-15,entregue,12.66
+825,685,1,1,devolucao,Rota Leve,2026-05-18,2026-05-20,recebido_cd,14.42
+826,686,1,1,ida,Rota Leve,2026-05-11,2026-05-14,entregue,15.25
+827,687,1,1,ida,TransVale,2026-05-13,2026-05-15,nao_encontrado,19.59
+828,687,1,2,ida,TransVale,2026-05-13,2026-05-16,entregue,15.96
+829,687,1,1,devolucao,TransVale,2026-05-21,2026-05-23,recebido_cd,18.27
+830,689,1,1,ida,Rota Leve,2026-05-13,2026-05-15,entregue,13.93
+831,690,1,1,ida,TransVale,2026-05-13,2026-05-14,entregue,18.04
+832,692,1,1,ida,Rota Leve,2026-05-13,2026-05-15,entregue,18.72
+833,693,1,1,ida,TransVale,2026-05-14,2026-05-15,entregue,21.44
+834,694,1,1,ida,TransVale,2026-05-15,2026-05-16,entregue,14.25
+835,695,1,1,ida,Rota Leve,2026-05-13,2026-05-15,entregue,13.49
+836,696,1,1,ida,Rota Leve,2026-05-13,2026-05-14,entregue,19.12
+837,697,1,1,ida,TransVale,2026-05-16,2026-05-18,entregue,19.60
+838,698,1,1,ida,TransVale,2026-05-16,2026-05-17,entregue,18.90
+839,699,1,1,ida,TransVale,2026-05-15,2026-05-18,entregue,16.70
+840,699,1,1,devolucao,TransVale,2026-05-23,2026-05-25,recebido_cd,19.90
+841,700,1,1,ida,Rota Leve,2026-05-15,2026-05-17,entregue,18.89
+842,701,1,1,ida,Rota Leve,2026-05-14,2026-05-15,entregue,20.48
+843,704,1,1,ida,Rota Leve,2026-05-14,2026-05-17,entregue,20.08
+844,705,1,1,ida,TransVale,2026-05-14,2026-05-17,entregue,17.36
+845,706,1,1,ida,Rota Leve,2026-05-16,2026-05-18,entregue,11.74
+846,707,1,1,ida,TransVale,2026-05-16,2026-05-19,entregue,17.65
+847,708,1,1,ida,Rota Leve,2026-05-15,2026-05-18,entregue,13.17
+848,709,1,1,ida,TransVale,2026-05-15,2026-05-18,nao_encontrado,22.49
+849,709,1,2,ida,TransVale,2026-05-15,2026-05-19,entregue,16.04
+850,711,1,1,ida,Rota Leve,2026-05-16,2026-05-17,entregue,18.98
+851,712,1,1,ida,TransVale,2026-05-16,2026-05-19,nao_encontrado,20.39
+852,712,1,2,ida,TransVale,2026-05-16,2026-05-20,entregue,15.30
+853,713,1,1,ida,Rota Leve,2026-05-16,2026-05-17,entregue,19.16
+854,714,1,1,ida,Rota Leve,2026-05-19,2026-05-21,nao_encontrado,16.59
+855,714,1,2,ida,Rota Leve,2026-05-19,2026-05-24,entregue,15.17
+856,716,1,1,ida,Rota Leve,2026-05-17,2026-05-18,entregue,13.84
+857,717,1,1,ida,Rota Leve,2026-05-17,2026-05-18,entregue,13.84
+858,718,1,1,ida,TransVale,2026-05-19,2026-05-22,entregue,19.64
+859,720,1,1,ida,Rota Leve,2026-05-19,2026-05-21,entregue,19.75
+860,722,1,1,ida,TransVale,2026-05-19,2026-05-21,entregue,14.45
+861,723,1,1,ida,TransVale,2026-05-18,2026-05-20,entregue,21.12
+862,723,2,1,ida,TransVale,2026-05-18,2026-05-21,entregue,21.52
+863,724,1,1,ida,TransVale,2026-05-18,2026-05-20,entregue,15.19
+864,725,1,1,ida,Rota Leve,2026-05-19,2026-05-21,entregue,11.69
+865,726,1,1,ida,Rota Leve,2026-05-20,2026-05-22,entregue,16.86
+866,726,2,1,ida,Rota Leve,2026-05-20,2026-05-21,entregue,17.72
+867,727,1,1,ida,Rota Leve,2026-05-21,2026-05-24,entregue,16.85
+868,727,1,1,devolucao,Rota Leve,2026-05-30,2026-06-01,recebido_cd,20.15
+869,728,1,1,ida,Rota Leve,2026-05-22,2026-05-24,entregue,12.17
+870,729,1,1,ida,Rota Leve,2026-05-21,2026-05-22,entregue,13.75
+871,730,1,1,ida,Rota Leve,2026-05-20,2026-05-21,entregue,16.63
+872,731,1,1,ida,Rota Leve,2026-05-20,2026-05-21,entregue,13.37
+873,731,1,1,devolucao,Rota Leve,2026-05-24,2026-05-26,recebido_cd,17.11
+874,732,1,1,ida,TransVale,2026-05-22,2026-05-23,entregue,19.51
+875,732,2,1,ida,TransVale,2026-05-22,2026-05-23,entregue,16.75
+876,733,1,1,ida,TransVale,2026-05-23,2026-05-24,nao_encontrado,16.36
+877,733,1,2,ida,TransVale,2026-05-23,2026-05-25,entregue,21.67
+878,734,1,1,ida,Rota Leve,2026-05-21,2026-05-23,entregue,12.36
+879,735,1,1,ida,Rota Leve,2026-05-23,2026-05-24,entregue,16.70
+880,736,1,1,ida,TransVale,2026-05-21,2026-05-23,entregue,14.36
+881,738,1,1,ida,TransVale,2026-05-24,2026-05-26,entregue,15.80
+882,739,1,1,ida,Rota Leve,2026-05-24,2026-05-25,entregue,17.31
+883,740,1,1,ida,Rota Leve,2026-05-24,2026-05-25,entregue,15.60
+884,740,1,1,devolucao,Rota Leve,2026-05-28,2026-05-30,recebido_cd,15.28
+885,741,1,1,ida,TransVale,2026-05-24,2026-05-26,entregue,19.83
+886,743,1,1,ida,Rota Leve,2026-05-22,2026-05-24,entregue,13.54
+887,744,1,1,ida,TransVale,2026-05-22,2026-05-23,entregue,17.41
+888,744,2,1,ida,TransVale,2026-05-22,2026-05-23,entregue,16.16
+889,745,1,1,ida,TransVale,2026-05-25,2026-05-27,entregue,18.38
+890,745,2,1,ida,TransVale,2026-05-25,2026-05-27,entregue,15.18
+891,747,1,1,ida,TransVale,2026-05-23,2026-05-24,nao_encontrado,15.63
+892,747,1,2,ida,TransVale,2026-05-23,2026-05-26,nao_encontrado,16.26
+893,747,1,3,ida,TransVale,2026-05-23,2026-05-29,entregue,20.13
+894,747,1,1,devolucao,TransVale,2026-06-01,2026-06-03,recebido_cd,19.57
+895,748,1,1,ida,TransVale,2026-05-23,2026-05-25,entregue,21.66
+896,749,1,1,ida,Rota Leve,2026-05-24,2026-05-26,entregue,14.50
+897,751,1,1,ida,TransVale,2026-05-25,2026-05-27,entregue,19.08
+898,752,1,1,ida,Rota Leve,2026-05-26,2026-05-27,entregue,12.26
+899,752,1,1,devolucao,Rota Leve,2026-05-31,2026-06-02,recebido_cd,12.07
+900,753,1,1,ida,TransVale,2026-05-26,2026-05-27,entregue,16.74
+901,754,1,1,ida,TransVale,2026-05-24,2026-05-27,entregue,17.35
+902,755,1,1,ida,TransVale,2026-05-25,2026-05-26,entregue,20.87
+903,757,1,1,ida,Rota Leve,2026-05-26,2026-05-27,entregue,14.86
+904,757,1,1,devolucao,Rota Leve,2026-06-03,2026-06-05,recebido_cd,17.00
+905,758,1,1,ida,TransVale,2026-05-26,2026-05-29,entregue,18.50
+906,759,1,1,ida,TransVale,2026-05-26,2026-05-29,entregue,22.86
+907,760,1,1,ida,Rota Leve,2026-05-27,2026-05-30,entregue,16.88
+908,761,1,1,ida,Rota Leve,2026-05-26,2026-05-27,entregue,13.46
+909,762,1,1,ida,TransVale,2026-05-27,2026-05-29,entregue,18.25
+910,763,1,1,ida,Rota Leve,2026-05-28,2026-05-29,nao_encontrado,13.57
+911,763,1,2,ida,Rota Leve,2026-05-28,2026-05-30,entregue,14.18
+912,765,1,1,ida,Rota Leve,2026-05-28,2026-05-29,entregue,13.41
+913,767,1,1,ida,Rota Leve,2026-05-27,2026-05-29,nao_encontrado,18.89
+914,767,1,2,ida,Rota Leve,2026-05-27,2026-06-01,entregue,15.31
+915,768,1,1,ida,Rota Leve,2026-05-29,2026-05-30,entregue,14.86
+916,769,1,1,ida,Rota Leve,2026-05-29,2026-05-31,entregue,12.33
+917,770,1,1,ida,TransVale,2026-05-28,2026-05-30,entregue,22.89
+918,771,1,1,ida,Rota Leve,2026-05-29,2026-06-01,entregue,13.14
+919,773,1,1,ida,TransVale,2026-05-30,2026-06-02,entregue,19.31
+920,774,1,1,ida,TransVale,2026-05-29,2026-05-30,nao_encontrado,16.96
+921,774,1,2,ida,TransVale,2026-05-29,2026-06-01,nao_encontrado,22.97
+922,774,1,3,ida,TransVale,2026-05-29,2026-06-03,entregue,14.17
+923,775,1,1,ida,TransVale,2026-05-30,2026-06-02,nao_encontrado,17.73
+924,775,1,2,ida,TransVale,2026-05-30,2026-06-03,entregue,19.65
+925,777,1,1,ida,Rota Leve,2026-05-31,2026-06-03,entregue,15.85
+926,778,1,1,ida,Rota Leve,2026-05-31,2026-06-01,nao_encontrado,16.79
+927,778,1,2,ida,Rota Leve,2026-05-31,2026-06-02,entregue,15.05
+928,779,1,1,ida,Rota Leve,2026-05-30,2026-05-31,entregue,13.82
+929,780,1,1,ida,Rota Leve,2026-06-01,2026-06-03,entregue,17.23
+930,780,2,1,ida,Rota Leve,2026-06-01,2026-06-02,entregue,12.48
+931,781,1,1,ida,Rota Leve,2026-05-31,2026-06-02,entregue,13.66
+932,782,1,1,ida,Rota Leve,2026-06-01,2026-06-03,entregue,16.70
+933,783,1,1,ida,Rota Leve,2026-06-01,2026-06-03,nao_encontrado,16.27
+934,783,1,2,ida,Rota Leve,2026-06-01,2026-06-04,entregue,19.76
+935,785,1,1,ida,TransVale,2026-05-31,2026-06-03,entregue,22.98
+936,786,1,1,ida,Rota Leve,2026-05-31,2026-06-02,entregue,15.66
+937,787,1,1,ida,Rota Leve,2026-06-02,2026-06-05,entregue,14.11
+938,787,1,1,devolucao,Rota Leve,2026-06-11,2026-06-13,recebido_cd,18.13
+939,788,1,1,ida,Rota Leve,2026-05-31,2026-06-03,entregue,16.57
+940,789,1,1,ida,Rota Leve,2026-06-01,2026-06-02,entregue,17.86
+941,790,1,1,ida,Rota Leve,2026-06-01,2026-06-03,nao_encontrado,15.05
+942,790,1,2,ida,Rota Leve,2026-06-01,2026-06-06,entregue,19.70
+943,791,1,1,ida,TransVale,2026-06-03,2026-06-05,entregue,16.68
+944,791,2,1,ida,TransVale,2026-06-03,2026-06-05,entregue,14.07
+945,792,1,1,ida,Rota Leve,2026-06-01,2026-06-04,entregue,18.71
+946,793,1,1,ida,Rota Leve,2026-06-02,2026-06-05,entregue,12.93
+947,794,1,1,ida,TransVale,2026-06-03,2026-06-05,entregue,19.26
+948,795,1,1,ida,Rota Leve,2026-06-04,2026-06-06,nao_encontrado,16.75
+949,795,1,2,ida,Rota Leve,2026-06-04,2026-06-08,entregue,11.85
+950,796,1,1,ida,Rota Leve,2026-06-03,2026-06-04,entregue,11.77
+951,797,1,1,ida,TransVale,2026-06-03,2026-06-04,entregue,22.41
+952,798,1,1,ida,TransVale,2026-06-03,2026-06-06,entregue,17.29
+953,799,1,1,ida,Rota Leve,2026-06-03,2026-06-06,entregue,19.49
+954,800,1,1,ida,Rota Leve,2026-06-05,2026-06-08,nao_encontrado,15.36
+955,800,1,2,ida,Rota Leve,2026-06-05,2026-06-10,entregue,
+956,801,1,1,ida,Rota Leve,2026-06-05,2026-06-08,entregue,19.47
+957,802,1,1,ida,Rota Leve,2026-06-04,2026-06-05,entregue,11.61
+958,803,1,1,ida,Rota Leve,2026-06-04,2026-06-07,nao_encontrado,17.20
+959,803,1,2,ida,Rota Leve,2026-06-04,2026-06-10,entregue,17.81
+960,804,1,1,ida,TransVale,2026-06-04,2026-06-06,entregue,20.90
+961,805,1,1,ida,Rota Leve,2026-06-05,2026-06-06,entregue,12.87
+962,807,1,1,ida,TransVale,2026-06-05,2026-06-06,nao_encontrado,17.33
+963,807,1,2,ida,TransVale,2026-06-05,2026-06-08,entregue,20.19
+964,808,1,1,ida,Rota Leve,2026-06-06,2026-06-08,nao_encontrado,18.89
+965,808,1,2,ida,Rota Leve,2026-06-06,2026-06-10,entregue,16.25
+966,809,1,1,ida,Rota Leve,2026-06-07,2026-06-10,entregue,13.87
+967,810,1,1,ida,TransVale,2026-06-07,2026-06-10,nao_encontrado,16.91
+968,810,1,2,ida,TransVale,2026-06-07,2026-06-13,entregue,17.03
+969,811,1,1,ida,Rota Leve,2026-06-06,2026-06-07,entregue,13.46
+970,812,1,1,ida,Rota Leve,2026-06-07,2026-06-10,nao_encontrado,16.85
+971,812,1,2,ida,Rota Leve,2026-06-07,2026-06-12,entregue,12.73
+972,813,1,1,ida,TransVale,2026-06-06,2026-06-08,entregue,21.41
+973,814,1,1,ida,Rota Leve,2026-06-06,2026-06-07,entregue,19.70
+974,815,1,1,ida,Rota Leve,2026-06-06,2026-06-08,entregue,15.80
+975,816,1,1,ida,Rota Leve,2026-06-06,2026-06-07,nao_encontrado,19.08
+976,816,1,2,ida,Rota Leve,2026-06-06,2026-06-10,nao_encontrado,
+977,816,1,3,ida,Rota Leve,2026-06-06,2026-06-13,entregue,16.31
+978,817,1,1,ida,TransVale,2026-06-07,2026-06-10,nao_encontrado,15.11
+979,817,1,2,ida,TransVale,2026-06-07,2026-06-12,entregue,
+980,818,1,1,ida,TransVale,2026-06-07,2026-06-10,entregue,16.55
+981,819,1,1,ida,Rota Leve,2026-06-07,2026-06-09,entregue,17.95
+982,820,1,1,ida,Rota Leve,2026-06-07,2026-06-10,entregue,11.82
+983,822,1,1,ida,Rota Leve,2026-06-07,2026-06-10,entregue,15.77
+984,823,1,1,ida,Rota Leve,2026-06-10,2026-06-12,entregue,
+985,823,2,1,ida,Rota Leve,2026-06-10,2026-06-11,entregue,13.86
+986,824,1,1,ida,Rota Leve,2026-06-10,2026-06-11,entregue,
+987,825,1,1,ida,Rota Leve,2026-06-10,2026-06-12,entregue,
+988,826,1,1,ida,Rota Leve,2026-06-10,2026-06-12,entregue,13.44
+989,827,1,1,ida,TransVale,2026-06-09,2026-06-10,entregue,19.61
+990,828,1,1,ida,Rota Leve,2026-06-09,2026-06-11,entregue,
+991,829,1,1,ida,Rota Leve,2026-06-10,2026-06-11,entregue,15.51
+992,830,1,1,ida,Rota Leve,2026-06-09,2026-06-12,entregue,19.38
+993,831,1,1,ida,TransVale,2026-06-10,2026-06-11,entregue,
+994,832,1,1,ida,TransVale,2026-06-10,2026-06-11,entregue,
+995,833,1,1,ida,TransVale,2026-06-09,2026-06-11,nao_encontrado,18.24
+996,833,1,2,ida,TransVale,2026-06-09,2026-06-13,entregue,20.85
+997,834,1,1,ida,Rota Leve,2026-06-11,2026-06-14,entregue,11.76
+998,835,1,1,ida,TransVale,2026-06-11,2026-06-14,entregue,19.61
+999,836,1,1,ida,TransVale,2026-06-12,2026-06-14,entregue,
+1000,837,1,1,ida,Rota Leve,2026-06-12,2026-06-15,entregue,11.96
+1001,838,1,1,ida,TransVale,2026-06-11,2026-06-13,entregue,
+1002,839,1,1,ida,TransVale,2026-06-10,2026-06-13,entregue,14.34
+1003,840,1,1,ida,TransVale,2026-06-12,2026-06-14,nao_encontrado,17.77
+1004,840,1,2,ida,TransVale,2026-06-12,2026-06-17,entregue,21.84
+1005,841,1,1,ida,TransVale,2026-06-11,2026-06-13,entregue,21.95
+1006,842,1,1,ida,Rota Leve,2026-06-13,2026-06-16,entregue,
+1007,843,1,1,ida,TransVale,2026-06-14,2026-06-16,entregue,
+1008,844,1,1,ida,TransVale,2026-06-12,2026-06-13,nao_encontrado,19.84
+1009,844,1,2,ida,TransVale,2026-06-12,2026-06-16,entregue,16.47
+1010,845,1,1,ida,Rota Leve,2026-06-13,2026-06-14,entregue,
+1011,846,1,1,ida,Rota Leve,2026-06-15,2026-06-17,entregue,
+1012,847,1,1,ida,Rota Leve,2026-06-13,2026-06-15,entregue,
+1013,848,1,1,ida,TransVale,2026-06-13,2026-06-15,nao_encontrado,15.25
+1014,848,1,2,ida,TransVale,2026-06-13,2026-06-17,entregue,19.90
+1015,849,1,1,ida,TransVale,2026-06-13,2026-06-16,entregue,18.56
+1016,850,1,1,ida,TransVale,2026-06-13,2026-06-15,nao_encontrado,14.77
+1017,850,1,2,ida,TransVale,2026-06-13,2026-06-18,entregue,15.23
+1018,850,2,1,ida,TransVale,2026-06-13,2026-06-15,entregue,17.83
+1019,851,1,1,ida,Rota Leve,2026-06-15,2026-06-17,nao_encontrado,15.92
+1020,851,1,2,ida,Rota Leve,2026-06-15,2026-06-20,nao_encontrado,14.06
+1021,851,1,3,ida,Rota Leve,2026-06-15,,,19.83
+1022,852,1,1,ida,TransVale,2026-06-16,2026-06-19,entregue,18.08
+1023,853,1,1,ida,TransVale,2026-06-16,2026-06-19,nao_encontrado,17.50
+1024,853,1,2,ida,TransVale,2026-06-16,,,20.50
+1025,854,1,1,ida,TransVale,2026-06-16,2026-06-19,nao_encontrado,21.26
+1026,854,1,2,ida,TransVale,2026-06-16,,,
+1027,855,1,1,ida,TransVale,2026-06-15,2026-06-16,entregue,22.78
+1028,856,1,1,ida,Rota Leve,2026-06-14,2026-06-15,entregue,13.66
+1029,857,1,1,ida,TransVale,2026-06-16,2026-06-17,entregue,
+1030,858,1,1,ida,Rota Leve,2026-06-14,2026-06-15,entregue,15.74
+1031,859,1,1,ida,Rota Leve,2026-06-16,2026-06-19,entregue,14.78
+1032,860,1,1,ida,TransVale,2026-06-16,2026-06-17,entregue,18.56
+1033,861,1,1,ida,Rota Leve,2026-06-15,2026-06-17,entregue,12.31
+1034,862,1,1,ida,Rota Leve,2026-06-16,2026-06-19,nao_encontrado,
+1035,862,1,2,ida,Rota Leve,2026-06-16,,,15.05
+1036,863,1,1,ida,TransVale,2026-06-17,2026-06-19,entregue,
+1037,864,1,1,ida,Rota Leve,2026-06-17,2026-06-20,entregue,17.04
+1038,865,1,1,ida,TransVale,2026-06-16,2026-06-17,entregue,20.92
+1039,865,2,1,ida,TransVale,2026-06-16,2026-06-17,entregue,17.32
+1040,866,1,1,ida,Rota Leve,2026-06-16,,,
+1041,869,1,1,ida,TransVale,2026-06-17,,,
+1042,870,1,1,ida,TransVale,2026-06-19,2026-06-20,nao_encontrado,20.82
+1043,870,1,2,ida,TransVale,2026-06-19,,,
+1044,871,1,1,ida,TransVale,2026-06-19,,,18.08
+1045,872,1,1,ida,TransVale,2026-06-19,,,
+1046,873,1,1,ida,Rota Leve,2026-06-17,,,17.38
+1047,875,1,1,ida,TransVale,2026-06-17,2026-06-19,entregue,22.57
+1048,876,1,1,ida,Rota Leve,2026-06-18,,,17.20
+1049,877,1,1,ida,TransVale,2026-06-18,,,16.24
+1050,877,2,1,ida,TransVale,2026-06-18,2026-06-20,entregue,17.44
+1051,878,1,1,ida,TransVale,2026-06-18,,,21.97
+1052,879,1,1,ida,TransVale,2026-06-18,,,15.79
+1053,880,1,1,ida,Rota Leve,2026-06-18,2026-06-20,nao_encontrado,
+1054,880,1,2,ida,Rota Leve,2026-06-18,,,20.33
+1055,881,1,1,ida,TransVale,2026-06-18,,,15.83
+1056,882,1,1,ida,Rota Leve,2026-06-20,,,12.36
+1057,883,1,1,ida,TransVale,2026-06-20,,,19.49
+1058,884,1,1,ida,TransVale,2026-06-18,,,14.65
+1059,885,1,1,ida,TransVale,2026-06-20,,,16.39
+1060,886,1,1,ida,TransVale,2026-06-19,,,18.09
+1061,889,1,1,ida,Rota Leve,2026-06-19,,,13.23
+1062,889,2,1,ida,Rota Leve,2026-06-19,,,15.38
+1063,890,1,1,ida,TransVale,2026-06-19,2026-06-20,nao_encontrado,21.11
+1064,890,1,2,ida,TransVale,2026-06-19,,,16.48
+1065,891,1,1,ida,Rota Leve,2026-06-21,,,
+1066,892,1,1,ida,TransVale,2026-06-20,,,17.15
+1067,893,1,1,ida,TransVale,2026-06-22,,,21.27
+1068,894,1,1,ida,Rota Leve,2026-06-20,,,
+1069,895,1,1,ida,Rota Leve,2026-06-21,,,20.46
+1070,896,1,1,ida,Rota Leve,2026-06-21,,,13.59
+1071,897,1,1,ida,Rota Leve,2026-06-23,,,15.78
+1072,898,1,1,ida,TransVale,2026-06-21,,,15.30
+1073,900,1,1,ida,TransVale,2026-06-22,,,21.55
+1074,900,2,1,ida,TransVale,2026-06-22,,,18.43

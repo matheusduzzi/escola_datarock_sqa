@@ -1,0 +1,17 @@
+id_pedido,id_cliente,data_pedido,status,valor,cupom
+101,1,2026-03-02,entregue,120.00,VERAO
+102,1,2026-03-05,entregue,80.00,
+103,2,2026-03-07,cancelado,200.00,VERAO
+104,3,2026-03-08,entregue,150.00,
+105,3,2026-03-12,entregue,,
+106,4,2026-03-13,entregue,90.00,BEMVINDO
+107,5,2026-03-15,entregue,300.00,
+108,5,2026-03-18,entregue,60.00,VERAO
+109,6,2026-03-20,entregue,210.00,
+110,7,2026-03-21,cancelado,75.00,
+111,7,2026-03-22,entregue,130.00,BEMVINDO
+112,8,2026-03-25,entregue,95.00,
+113,2,2026-03-27,entregue,180.00,
+114,6,2026-03-28,entregue,,VERAO
+115,4,2026-03-30,entregue,110.00,
+116,99,2026-03-31,entregue,140.00,

@@ -1,0 +1,5 @@
+-- A mesma lista de cupom, sem WITH: cada CTE do cupom-etapas.sql vira uma subquery.
+-- As duas consultas precisam ter as mesmas linhas.
+--
+-- Escreva o SELECT abaixo destes comentários e rode:
+-- python3 consultar.py --dados ../dados --arquivo cupom-aninhado.sql
